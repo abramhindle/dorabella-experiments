@@ -1,0 +1,1 @@
+python3 Scripts/tests.py Text/The_Adventures_of_Sherlock_Holmes.txt 100000 l
