@@ -4,8 +4,8 @@ files=decipherments/*
 
 for file in $files
 do
-    python3 scripts/decAccuracy.py $file samples/${file:14} v >> results_v.txt
-    python3 scripts/decAccuracy.py $file samples/${file:14} kv >> results_k.txt
+    python3 scripts/decAccuracy.py $file ../samples/${file:14} v >> results_v.txt
+    python3 scripts/decAccuracy.py $file ../samples/${file:14} kv >> results_k.txt
 done
     printf "Key Accuracy\n"
     python3 scripts/aggResults.py results_k.txt
