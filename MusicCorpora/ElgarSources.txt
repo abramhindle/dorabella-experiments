@@ -1,0 +1,37 @@
+http://bestclassicaltunes.com/OpusByComposer.aspx?composer=Elgar
+https://www.classicalmidi.co.uk/elgar.htm
+
+Testing Data
+27.mid
+64.mid
+
+Training Data
+1499.mid
+748.mid
+2911.mid
+elgar_nimrod.mid
+1236.mid
+2913.mid
+2299.mid
+749.mid
+487a.mid
+2298.mid
+75.mid
+1247.mid
+ElgarDamaskRose.mid
+1177.mid
+2920.mid
+2912.mid
+ElgarChansonMatin.mid
+ElgarCelloConcM1.mid
+1612.mid
+487.mid
+enigma.mid
+3005.mid
+1739ee12316.mid
+imperial.mid
+IMSLP190165-WIMA.568f-salutdamour.mid
+ElgarPompCircumstanceNo4.mid
+ElgarPompCircumstanceNo1.mid
+ElgarSalutDamor.mid
+1745ee1416.mid
