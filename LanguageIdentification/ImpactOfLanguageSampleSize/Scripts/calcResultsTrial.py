@@ -44,7 +44,7 @@ def calcResults(filepath, target):
             # Top 1 accuracy
             if target in best[0]:
                 correct += 1
-    return [sum(MRR)/len(MRR),sum(Ranks)/len(Ranks)]
+    return [sum(MRR)/len(MRR),Ranks.count(1)/len(Ranks)]
 
 MRR = []
 Acc = []
