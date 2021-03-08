@@ -1,6 +1,4 @@
-rm LMCorpus/cleanedText*
-rm LM/*
-
+#!/bin/bash
 LMCorpus=(LMCorpus/*)
 echo "${LMCorpus[0]}"
 

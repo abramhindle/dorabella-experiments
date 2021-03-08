@@ -1,13 +1,4 @@
-rm LM/count_1w.txt
-rm LM/count_2l.txt
-rm LM/count_2w.txt
-rm LM/count_3l.txt
-
-rm ../Solver/count_1w.txt
-rm ../Solver/count_2l.txt
-rm ../Solver/count_2w.txt
-rm ../Solver/count_3l.txt
-
+#!/bin/bash
 LMCorpus=(LMCorpus/*)
 echo "${LMCorpus[0]}"
 
