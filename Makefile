@@ -42,12 +42,14 @@ IOLSSResults:
 	@echo "Calculating IOLSS Results"
 	cd LanguageIdentification/ImpactOfLanguageSampleSize/Scripts && python3 calcResultsTrial.py
 
-clean: cleanAOSC cleanIsEng cleanIOLSS
-
 IsDorabellaEnglish: cleanIsEng
 	@echo "Running Is Dorabella English..."
 	cd LanguageIdentification && ./runIsDorabellaEnglish.sh
 	cd LanguageIdentification/IsDorabellaEnglish/Scripts && python3 sortTrialResults.py
+
+ImpactOfPerplexity:
+	@echo "Impact Of Perplexity"
+	cd ImpactOfPerplexityMusicVsText && ./calcPerplexity.sh
 
 IsDorabellaMusic:
 	@echo "HILLCLIMBC Elgar Results"
@@ -58,6 +60,8 @@ IsDorabellaMusic:
 	cd DeciphermentAccuracy/GREEDY-Elgar && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
 	@echo "\nGREEDY Bach Results"
 	cd DeciphermentAccuracy/GREEDY-Bach && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
+
+clean: cleanAOSC cleanIsEng cleanIOLSS
 
 cleanIsEng:
 	@echo "Cleaning Is Dorabella English Experiment"
