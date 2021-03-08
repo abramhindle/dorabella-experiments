@@ -53,20 +53,43 @@ ImpactOfPerplexity:
 
 IsDorabellaMusic:
 	@echo "HILLCLIMBC Elgar Results"
-	cd DeciphermentAccuracy/HILLCLIMBC-Elgar && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
+	@cd DeciphermentAccuracy/HILLCLIMBC-Elgar && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
 	@echo "\nHILLCLIMBC Bach Results"
-	cd DeciphermentAccuracy/HILLCLIMBC-Bach && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
+	@cd DeciphermentAccuracy/HILLCLIMBC-Bach && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
 	@echo "\nGREEDY Elgar Results"
-	cd DeciphermentAccuracy/GREEDY-Elgar && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
+	@cd DeciphermentAccuracy/GREEDY-Elgar && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
 	@echo "\nGREEDY Bach Results"
-	cd DeciphermentAccuracy/GREEDY-Bach && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
+	@cd DeciphermentAccuracy/GREEDY-Bach && ./testAccuracy.sh | python3 ../Scripts/formatOutput.py
 
-clean: cleanAOSC cleanIsEng cleanIOLSS
+ClassifyingTextAndMusic: cleanCTAM CTAMRun CTAMResults
+
+CTAMRun:
+	@echo "Running Classifying Text And Music"
+	cd LanguageIdentification && ./ClassifyingTextAndMusic.sh
+
+CTAMRunParallel:
+	@echo "Running Parallel Classifying Text And Music"
+	cd LanguageIdentification && ./ClassifyingTextAndMusicParallel.sh
+
+CTAMResults:
+	cd LanguageIdentification/ClassifyingTextAndMusic && ./printResults.sh
+
+
+
+
+
+
+clean: cleanAOSC cleanIsEng cleanIOLSS cleanCTAM cleanIsEng
 
 cleanIsEng:
 	@echo "Cleaning Is Dorabella English Experiment"
 	@rm -r LanguageIdentification/IsDorabellaEnglish/Results
 	@mkdir LanguageIdentification/IsDorabellaEnglish/Results
+
+cleanCTAM:
+	@echo "Cleaning Classifying Text And Music"
+	@rm -r LanguageIdentification/ClassifyingTextAndMusic/Results
+	@mkdir LanguageIdentification/ClassifyingTextAndMusic/Results
 
 cleanIOLSS:
 	@echo "Cleaning IOLSS Experiment"
