@@ -1,0 +1,57 @@
+cd LangIDProgram
+
+# 2000 length samples with spaces
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/DeSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/DeSamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/DeSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/DeSamples2KUni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/EnSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/EnSamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/EnSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/EnSamples2KUni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/FrSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/FrSamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/FrSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/FrSamples2KUni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/ItSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/ItSamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/ItSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/ItSamples2KUni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/JASamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/JASamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/JASamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/JASamples2KUni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/PlSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2K/PlSamples2KTrial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/PlSamples2K/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2K/PlSamples2KUni.txt
+
+# 2000 length samples with no spaces
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/DeSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/DeSamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/DeSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/DeSamples2KUniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/EnSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/EnSamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/EnSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/EnSamples2KUniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/FrSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/FrSamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/FrSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/FrSamples2KUniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/ItSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/ItSamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/ItSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/ItSamples2KUniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/JASamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/JASamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/JASamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/JASamples2KUniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/PlSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/2KNS/PlSamples2KTrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/2K/PlSamples2KNS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/2KNS/PlSamples2KUniNS.txt
+
+# 87 length samples with spaces
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/DeSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/DeSamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/DeSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/DeSamples87Uni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/EnSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/EnSamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/EnSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/EnSamples87Uni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/FrSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/FrSamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/FrSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/FrSamples87Uni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/ItSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/ItSamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/ItSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/ItSamples87Uni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/JASamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/JASamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/JASamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/JASamples87Uni.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/PlSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87/PlSamples87Trial.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/PlSamples87/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87/PlSamples87Uni.txt
+
+# 87 length samples with no spaces
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/DeSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/DeSamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/DeSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/DeSamples87UniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/EnSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/EnSamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/EnSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/EnSamples87UniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/FrSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/FrSamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/FrSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/FrSamples87UniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/ItSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/ItSamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/ItSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/ItSamples87UniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/JASamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/JASamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/JASamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/JASamples87UniNS.txt
+perl langid_lmopt.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/PlSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -r 20 -f 5 -b 10 > ../AccuracyOnSyntheticCiphers/Results/87NS/PlSamples87TrialNS.txt
+perl langid_probdist.pl -c '../AccuracyOnSyntheticCiphers/TestSamples/87/PlSamples87NS/*' -p '../AccuracyOnSyntheticCiphers/TrainingData/udhr-unicode-ns/*' -d unigram > ../AccuracyOnSyntheticCiphers/Results/87NS/PlSamples87UniNS.txt

@@ -1,0 +1,1218 @@
+Starting language identification (program version: 15-07-03).
+Restarts: 20
+Greedy search iterations constant: 0
+Greedy search iterations factor: 5
+Limit swaps to best ngrams: 10
+Old files: 0
+Special: 0
+DSLCC files? 0
+Decipherment oracle online? 0
+Ciphertext file(s): ../ClassifyingTextAndMusic/TestSamples/TestingElgar/* (../ClassifyingTextAndMusic/TestSamples/TestingElgar/271.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2710.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27100.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27101.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27102.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27103.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27104.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27105.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27106.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27107.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27108.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27109.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2711.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27110.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27111.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27112.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27113.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27114.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27115.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27116.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27117.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27118.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27119.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2712.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27120.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27121.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27122.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27123.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27124.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27125.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27126.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27127.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27128.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27129.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2713.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27130.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27131.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27132.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27133.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27134.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27135.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27136.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27137.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27138.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27139.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2714.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27140.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27141.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27142.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27143.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27144.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27145.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27146.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27147.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27148.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27149.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2715.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27150.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2716.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2717.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2718.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2719.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/272.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2720.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2721.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2722.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2723.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2724.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2725.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2726.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2727.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2728.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2729.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/273.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2730.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2731.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2732.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2733.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2734.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2735.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2736.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2737.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2738.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2739.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/274.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2740.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2741.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2742.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2743.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2744.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2745.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2746.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2747.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2748.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2749.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/275.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2750.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2751.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2752.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2753.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2754.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2755.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2756.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2757.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2758.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2759.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/276.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2760.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2761.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2762.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2763.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2764.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2765.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2766.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2767.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2768.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2769.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/277.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2770.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2771.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2772.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2773.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2774.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2775.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2776.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2777.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2778.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2779.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/278.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2780.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2781.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2782.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2783.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2784.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2785.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2786.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2787.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2788.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2789.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/279.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2790.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2791.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2792.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2793.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2794.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2795.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2796.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2797.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2798.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2799.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/641.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6410.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64100.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64101.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64102.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64103.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64104.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64105.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64106.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64107.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64108.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64109.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6411.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64110.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64111.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64112.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64113.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64114.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64115.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64116.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64117.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64118.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64119.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6412.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64120.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64121.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64122.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64123.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64124.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64125.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64126.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64127.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64128.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64129.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6413.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64130.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64131.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64132.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64133.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64134.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64135.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64136.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64137.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64138.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64139.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6414.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64140.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64141.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64142.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64143.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64144.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64145.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64146.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64147.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64148.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64149.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6415.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64150.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6416.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6417.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6418.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6419.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/642.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6420.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6421.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6422.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6423.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6424.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6425.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6426.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6427.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6428.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6429.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/643.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6430.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6431.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6432.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6433.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6434.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6435.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6436.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6437.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6438.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6439.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/644.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6440.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6441.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6442.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6443.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6444.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6445.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6446.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6447.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6448.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6449.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/645.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6450.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6451.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6452.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6453.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6454.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6455.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6456.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6457.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6458.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6459.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/646.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6460.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6461.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6462.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6463.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6464.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6465.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6466.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6467.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6468.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6469.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/647.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6470.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6471.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6472.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6473.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6474.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6475.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6476.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6477.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6478.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6479.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/648.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6480.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6481.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6482.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6483.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6484.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6485.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6486.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6487.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6488.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6489.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/649.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6490.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6491.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6492.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6493.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6494.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6495.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6496.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6497.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6498.sample ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6499.sample)
+
+Plaintext file(s): ../ClassifyingTextAndMusic/TrainingData/eng-elgar/* (../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra ../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra)
+
+
+---
+
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/271.sample	Sun Mar  7 21:38:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:01 MST 2021	[TOP SWAP DECIPH]	4.8550	-235.690129090098	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:06 MST 2021	[TOP SWAP DECIPH]	3.6973	-225.619806909471	*
+RESULT:	UNK	UNK	-225.6198	1	1	1.0000	8.5787	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2710.sample	Sun Mar  7 21:38:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:09 MST 2021	[TOP SWAP DECIPH]	3.2036	-223.377986677693	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:13 MST 2021	[TOP SWAP DECIPH]	2.8496	-234.625485062453
+RESULT:	UNK	UNK	-223.3780	1	1	1.0000	6.0564	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27100.sample	Sun Mar  7 21:38:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:16 MST 2021	[TOP SWAP DECIPH]	2.1284	-232.877100396633	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:18 MST 2021	[TOP SWAP DECIPH]	2.0533	-240.222612733948
+RESULT:	UNK	UNK	-232.8771	1	1	1.0000	4.1852	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27101.sample	Sun Mar  7 21:38:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:20 MST 2021	[TOP SWAP DECIPH]	1.7429	-239.567719986242	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:21 MST 2021	[TOP SWAP DECIPH]	1.8400	-230.677478667476	*
+RESULT:	UNK	UNK	-230.6775	1	1	1.0000	3.5866	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27102.sample	Sun Mar  7 21:38:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:23 MST 2021	[TOP SWAP DECIPH]	2.1510	-199.491491012887	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:25 MST 2021	[TOP SWAP DECIPH]	2.0391	-226.258198548572
+RESULT:	UNK	UNK	-199.4915	1	1	1.0000	4.1935	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27103.sample	Sun Mar  7 21:38:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:28 MST 2021	[TOP SWAP DECIPH]	2.4688	-242.846959617558	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:30 MST 2021	[TOP SWAP DECIPH]	2.6643	-237.230080133466	*
+RESULT:	UNK	UNK	-237.2301	1	1	1.0000	5.1364	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27104.sample	Sun Mar  7 21:38:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:33 MST 2021	[TOP SWAP DECIPH]	2.3767	-226.491332319016	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:35 MST 2021	[TOP SWAP DECIPH]	2.2595	-238.747810365145
+RESULT:	UNK	UNK	-226.4913	1	1	1.0000	4.6403	5
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27105.sample	Sun Mar  7 21:38:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:37 MST 2021	[TOP SWAP DECIPH]	2.6473	-235.627857119524	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:40 MST 2021	[TOP SWAP DECIPH]	2.6335	-234.335330595965	*
+RESULT:	UNK	UNK	-234.3353	1	1	1.0000	5.2845	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27106.sample	Sun Mar  7 21:38:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:43 MST 2021	[TOP SWAP DECIPH]	1.6028	-218.460574070325	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:44 MST 2021	[TOP SWAP DECIPH]	1.8509	-229.608619130951
+RESULT:	UNK	UNK	-218.4606	1	1	1.0000	3.4574	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27107.sample	Sun Mar  7 21:38:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:46 MST 2021	[TOP SWAP DECIPH]	3.0735	-250.461922128993	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:49 MST 2021	[TOP SWAP DECIPH]	2.6920	-248.272946368029	*
+RESULT:	UNK	UNK	-248.2729	1	1	1.0000	5.7689	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27108.sample	Sun Mar  7 21:38:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:52 MST 2021	[TOP SWAP DECIPH]	1.7493	-244.258565054553	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:54 MST 2021	[TOP SWAP DECIPH]	1.6997	-235.471486181901	*
+RESULT:	UNK	UNK	-235.4715	1	1	1.0000	3.4528	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27109.sample	Sun Mar  7 21:38:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:38:55 MST 2021	[TOP SWAP DECIPH]	2.9887	-230.172496499405	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:38:58 MST 2021	[TOP SWAP DECIPH]	3.3601	-233.311429206819
+RESULT:	UNK	UNK	-230.1725	1	1	1.0000	6.3526	10
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2711.sample	Sun Mar  7 21:39:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:02 MST 2021	[TOP SWAP DECIPH]	3.0671	-250.46923680418	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:05 MST 2021	[TOP SWAP DECIPH]	3.2575	-232.692688015861	*
+RESULT:	UNK	UNK	-232.6927	1	1	1.0000	6.3285	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27110.sample	Sun Mar  7 21:39:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:08 MST 2021	[TOP SWAP DECIPH]	2.1084	-245.027217870276	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:10 MST 2021	[TOP SWAP DECIPH]	2.0070	-232.753743660213	*
+RESULT:	UNK	UNK	-232.7537	1	1	1.0000	4.1197	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27111.sample	Sun Mar  7 21:39:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:12 MST 2021	[TOP SWAP DECIPH]	3.2400	-245.780213824604	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:15 MST 2021	[TOP SWAP DECIPH]	3.1553	-236.637197098371	*
+RESULT:	UNK	UNK	-236.6372	1	1	1.0000	6.3993	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27112.sample	Sun Mar  7 21:39:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:19 MST 2021	[TOP SWAP DECIPH]	3.9768	-226.777889479483	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:23 MST 2021	[TOP SWAP DECIPH]	3.5483	-236.928802925439
+RESULT:	UNK	UNK	-226.7779	1	1	1.0000	7.5289	17
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27113.sample	Sun Mar  7 21:39:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:26 MST 2021	[TOP SWAP DECIPH]	2.9318	-240.713609955235	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:29 MST 2021	[TOP SWAP DECIPH]	3.0995	-233.658051447241	*
+RESULT:	UNK	UNK	-233.6581	1	1	1.0000	6.0354	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27114.sample	Sun Mar  7 21:39:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:32 MST 2021	[TOP SWAP DECIPH]	3.0791	-239.187844923063	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:35 MST 2021	[TOP SWAP DECIPH]	3.1536	-242.362500692019
+RESULT:	UNK	UNK	-239.1878	1	1	1.0000	6.2367	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27115.sample	Sun Mar  7 21:39:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:38 MST 2021	[TOP SWAP DECIPH]	1.9447	-234.94847233678	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:40 MST 2021	[TOP SWAP DECIPH]	2.0096	-240.863547888144
+RESULT:	UNK	UNK	-234.9485	1	1	1.0000	3.9583	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27116.sample	Sun Mar  7 21:39:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:42 MST 2021	[TOP SWAP DECIPH]	2.8899	-244.960117679639	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:45 MST 2021	[TOP SWAP DECIPH]	2.9945	-247.203273309222
+RESULT:	UNK	UNK	-244.9601	1	1	1.0000	5.8886	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27117.sample	Sun Mar  7 21:39:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:48 MST 2021	[TOP SWAP DECIPH]	1.6367	-226.606428801277	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:50 MST 2021	[TOP SWAP DECIPH]	1.7290	-230.652895839863
+RESULT:	UNK	UNK	-226.6064	1	1	1.0000	3.3695	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27118.sample	Sun Mar  7 21:39:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:52 MST 2021	[TOP SWAP DECIPH]	2.7396	-248.225996234253	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:54 MST 2021	[TOP SWAP DECIPH]	2.7887	-243.596345493524	*
+RESULT:	UNK	UNK	-243.5963	1	1	1.0000	5.5324	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27119.sample	Sun Mar  7 21:39:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:57 MST 2021	[TOP SWAP DECIPH]	0.7057	-187.011193865164	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:39:58 MST 2021	[TOP SWAP DECIPH]	0.7510	-227.518816418797
+RESULT:	UNK	UNK	-187.0112	1	1	1.0000	1.4606	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2712.sample	Sun Mar  7 21:39:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:39:59 MST 2021	[TOP SWAP DECIPH]	2.0974	-220.473517744101	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:01 MST 2021	[TOP SWAP DECIPH]	2.1256	-235.647794406314
+RESULT:	UNK	UNK	-220.4735	1	1	1.0000	4.2269	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27120.sample	Sun Mar  7 21:40:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:03 MST 2021	[TOP SWAP DECIPH]	2.7120	-226.26210863954	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:06 MST 2021	[TOP SWAP DECIPH]	2.2364	-244.559173513849
+RESULT:	UNK	UNK	-226.2621	1	1	1.0000	4.9525	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27121.sample	Sun Mar  7 21:40:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:08 MST 2021	[TOP SWAP DECIPH]	2.3457	-247.124772465551	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:10 MST 2021	[TOP SWAP DECIPH]	2.5130	-239.334044583093	*
+RESULT:	UNK	UNK	-239.3340	1	1	1.0000	4.8628	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27122.sample	Sun Mar  7 21:40:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:13 MST 2021	[TOP SWAP DECIPH]	2.4994	-244.482578054289	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:15 MST 2021	[TOP SWAP DECIPH]	2.5645	-240.683972954317	*
+RESULT:	UNK	UNK	-240.6840	1	1	1.0000	5.0679	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27123.sample	Sun Mar  7 21:40:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:18 MST 2021	[TOP SWAP DECIPH]	2.5346	-227.985780585475	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:20 MST 2021	[TOP SWAP DECIPH]	2.4898	-236.034161571897
+RESULT:	UNK	UNK	-227.9858	1	1	1.0000	5.0285	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27124.sample	Sun Mar  7 21:40:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:23 MST 2021	[TOP SWAP DECIPH]	1.5539	-238.200995409176	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:24 MST 2021	[TOP SWAP DECIPH]	1.6401	-226.498962790565	*
+RESULT:	UNK	UNK	-226.4990	1	1	1.0000	3.1982	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27125.sample	Sun Mar  7 21:40:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:26 MST 2021	[TOP SWAP DECIPH]	2.8354	-235.976577454876	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:29 MST 2021	[TOP SWAP DECIPH]	3.1158	-223.675928722629	*
+RESULT:	UNK	UNK	-223.6759	1	1	1.0000	5.9553	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27126.sample	Sun Mar  7 21:40:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:32 MST 2021	[TOP SWAP DECIPH]	2.6805	-216.707916121859	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:35 MST 2021	[TOP SWAP DECIPH]	2.4580	-234.538753805545
+RESULT:	UNK	UNK	-216.7079	1	1	1.0000	5.1428	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27127.sample	Sun Mar  7 21:40:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:37 MST 2021	[TOP SWAP DECIPH]	2.2880	-241.404460664203	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:39 MST 2021	[TOP SWAP DECIPH]	2.3698	-244.564551366612
+RESULT:	UNK	UNK	-241.4045	1	1	1.0000	4.6620	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27128.sample	Sun Mar  7 21:40:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:42 MST 2021	[TOP SWAP DECIPH]	2.4007	-221.256449659195	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:44 MST 2021	[TOP SWAP DECIPH]	2.4685	-236.190213233352
+RESULT:	UNK	UNK	-221.2564	1	1	1.0000	4.8734	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27129.sample	Sun Mar  7 21:40:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:47 MST 2021	[TOP SWAP DECIPH]	2.4594	-229.034942602356	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:49 MST 2021	[TOP SWAP DECIPH]	2.6100	-239.373029988265
+RESULT:	UNK	UNK	-229.0349	1	1	1.0000	5.0736	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2713.sample	Sun Mar  7 21:40:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:52 MST 2021	[TOP SWAP DECIPH]	2.0163	-236.342674903576	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:54 MST 2021	[TOP SWAP DECIPH]	2.0518	-239.23649339424
+RESULT:	UNK	UNK	-236.3427	1	1	1.0000	4.0723	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27130.sample	Sun Mar  7 21:40:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:40:56 MST 2021	[TOP SWAP DECIPH]	2.2130	-244.147703937028	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:40:58 MST 2021	[TOP SWAP DECIPH]	2.4765	-241.593354331502	*
+RESULT:	UNK	UNK	-241.5934	1	1	1.0000	4.6936	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27131.sample	Sun Mar  7 21:41:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:01 MST 2021	[TOP SWAP DECIPH]	2.8745	-216.244209716459	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:03 MST 2021	[TOP SWAP DECIPH]	2.5186	-236.991633603938
+RESULT:	UNK	UNK	-216.2442	1	1	1.0000	5.3973	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27132.sample	Sun Mar  7 21:41:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:06 MST 2021	[TOP SWAP DECIPH]	3.1458	-224.598151062366	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:09 MST 2021	[TOP SWAP DECIPH]	3.2959	-230.494174966088
+RESULT:	UNK	UNK	-224.5982	1	1	1.0000	6.4462	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27133.sample	Sun Mar  7 21:41:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:12 MST 2021	[TOP SWAP DECIPH]	2.3929	-241.839743619298	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:15 MST 2021	[TOP SWAP DECIPH]	2.4733	-234.038165340902	*
+RESULT:	UNK	UNK	-234.0382	1	1	1.0000	4.8706	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27134.sample	Sun Mar  7 21:41:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:17 MST 2021	[TOP SWAP DECIPH]	2.7762	-243.914946248056	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:20 MST 2021	[TOP SWAP DECIPH]	2.8009	-247.648915220637
+RESULT:	UNK	UNK	-243.9149	1	1	1.0000	5.5811	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27135.sample	Sun Mar  7 21:41:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:23 MST 2021	[TOP SWAP DECIPH]	2.0360	-237.496734944874	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:25 MST 2021	[TOP SWAP DECIPH]	2.1038	-237.264044547309	*
+RESULT:	UNK	UNK	-237.2640	1	1	1.0000	4.1444	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27136.sample	Sun Mar  7 21:41:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:27 MST 2021	[TOP SWAP DECIPH]	2.0161	-226.225386294201	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:29 MST 2021	[TOP SWAP DECIPH]	2.1691	-231.628705306497
+RESULT:	UNK	UNK	-226.2254	1	1	1.0000	4.1895	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27137.sample	Sun Mar  7 21:41:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:31 MST 2021	[TOP SWAP DECIPH]	2.3334	-246.844773300398	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:34 MST 2021	[TOP SWAP DECIPH]	2.4613	-243.204968646472	*
+RESULT:	UNK	UNK	-243.2050	1	1	1.0000	4.7987	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27138.sample	Sun Mar  7 21:41:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:36 MST 2021	[TOP SWAP DECIPH]	1.0531	-225.031836367778	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:37 MST 2021	[TOP SWAP DECIPH]	1.0193	-227.142249385097
+RESULT:	UNK	UNK	-225.0318	1	1	1.0000	2.0764	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27139.sample	Sun Mar  7 21:41:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:38 MST 2021	[TOP SWAP DECIPH]	1.5921	-237.817035279005	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:40 MST 2021	[TOP SWAP DECIPH]	2.0379	-229.032759907713	*
+RESULT:	UNK	UNK	-229.0328	1	1	1.0000	3.6341	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2714.sample	Sun Mar  7 21:41:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:42 MST 2021	[TOP SWAP DECIPH]	1.2274	-219.63957255415	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:43 MST 2021	[TOP SWAP DECIPH]	1.2056	-234.186850818639
+RESULT:	UNK	UNK	-219.6396	1	1	1.0000	2.4389	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27140.sample	Sun Mar  7 21:41:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:44 MST 2021	[TOP SWAP DECIPH]	1.9889	-244.531603667739	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:46 MST 2021	[TOP SWAP DECIPH]	2.0689	-237.55719903995	*
+RESULT:	UNK	UNK	-237.5572	1	1	1.0000	4.0620	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27141.sample	Sun Mar  7 21:41:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:48 MST 2021	[TOP SWAP DECIPH]	2.0741	-246.229242981102	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:50 MST 2021	[TOP SWAP DECIPH]	2.1661	-234.47567531183	*
+RESULT:	UNK	UNK	-234.4757	1	1	1.0000	4.2442	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27142.sample	Sun Mar  7 21:41:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:53 MST 2021	[TOP SWAP DECIPH]	1.2473	-242.23591145468	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:54 MST 2021	[TOP SWAP DECIPH]	1.3446	-221.806628219944	*
+RESULT:	UNK	UNK	-221.8066	1	1	1.0000	2.5961	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27143.sample	Sun Mar  7 21:41:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:41:55 MST 2021	[TOP SWAP DECIPH]	2.8615	-249.821458826912	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:41:58 MST 2021	[TOP SWAP DECIPH]	2.6700	-240.386253677392	*
+RESULT:	UNK	UNK	-240.3863	1	1	1.0000	5.5356	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27144.sample	Sun Mar  7 21:42:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:01 MST 2021	[TOP SWAP DECIPH]	3.7719	-238.308791228941	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:05 MST 2021	[TOP SWAP DECIPH]	3.5532	-241.031483006749
+RESULT:	UNK	UNK	-238.3088	1	1	1.0000	7.3293	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27145.sample	Sun Mar  7 21:42:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:08 MST 2021	[TOP SWAP DECIPH]	2.2986	-236.45377337399	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:10 MST 2021	[TOP SWAP DECIPH]	2.4179	-236.088387974591	*
+RESULT:	UNK	UNK	-236.0884	1	1	1.0000	4.7206	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27146.sample	Sun Mar  7 21:42:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:13 MST 2021	[TOP SWAP DECIPH]	2.1921	-223.943235858262	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:15 MST 2021	[TOP SWAP DECIPH]	2.1943	-234.251492542286
+RESULT:	UNK	UNK	-223.9432	1	1	1.0000	4.3903	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27147.sample	Sun Mar  7 21:42:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:17 MST 2021	[TOP SWAP DECIPH]	3.0222	-248.970420819764	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:20 MST 2021	[TOP SWAP DECIPH]	3.4590	-230.080691613265	*
+RESULT:	UNK	UNK	-230.0807	1	1	1.0000	6.4855	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27148.sample	Sun Mar  7 21:42:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:24 MST 2021	[TOP SWAP DECIPH]	3.4503	-246.553731643826	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:27 MST 2021	[TOP SWAP DECIPH]	3.4965	-242.611773003669	*
+RESULT:	UNK	UNK	-242.6118	1	1	1.0000	6.9511	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27149.sample	Sun Mar  7 21:42:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:31 MST 2021	[TOP SWAP DECIPH]	3.4024	-244.02801687801	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:34 MST 2021	[TOP SWAP DECIPH]	3.5883	-240.396759694408	*
+RESULT:	UNK	UNK	-240.3968	1	1	1.0000	6.9950	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2715.sample	Sun Mar  7 21:42:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:38 MST 2021	[TOP SWAP DECIPH]	2.2833	-233.45379981953	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:40 MST 2021	[TOP SWAP DECIPH]	2.2070	-228.765971057954	*
+RESULT:	UNK	UNK	-228.7660	1	1	1.0000	4.4947	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/27150.sample	Sun Mar  7 21:42:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:42 MST 2021	[TOP SWAP DECIPH]	1.7664	-230.012569400038	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:44 MST 2021	[TOP SWAP DECIPH]	1.7028	-224.164721478056	*
+RESULT:	UNK	UNK	-224.1647	1	1	1.0000	3.4735	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2716.sample	Sun Mar  7 21:42:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:46 MST 2021	[TOP SWAP DECIPH]	2.1933	-233.602953361253	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:48 MST 2021	[TOP SWAP DECIPH]	2.0447	-233.353778789603	*
+RESULT:	UNK	UNK	-233.3538	1	1	1.0000	4.2423	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2717.sample	Sun Mar  7 21:42:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:50 MST 2021	[TOP SWAP DECIPH]	3.0469	-225.1676481438	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:53 MST 2021	[TOP SWAP DECIPH]	3.1221	-239.764675064792
+RESULT:	UNK	UNK	-225.1676	1	1	1.0000	6.1737	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2718.sample	Sun Mar  7 21:42:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:56 MST 2021	[TOP SWAP DECIPH]	1.6226	-242.726064844402	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:42:58 MST 2021	[TOP SWAP DECIPH]	1.6332	-234.858925414504	*
+RESULT:	UNK	UNK	-234.8589	1	1	1.0000	3.2601	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2719.sample	Sun Mar  7 21:42:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:42:59 MST 2021	[TOP SWAP DECIPH]	1.3299	-226.866877423167	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:01 MST 2021	[TOP SWAP DECIPH]	1.4009	-223.316135644902	*
+RESULT:	UNK	UNK	-223.3161	1	1	1.0000	2.7351	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/272.sample	Sun Mar  7 21:43:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:02 MST 2021	[TOP SWAP DECIPH]	2.9864	-247.913467422711	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:05 MST 2021	[TOP SWAP DECIPH]	3.2825	-225.684911779784	*
+RESULT:	UNK	UNK	-225.6849	1	1	1.0000	6.2732	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2720.sample	Sun Mar  7 21:43:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:08 MST 2021	[TOP SWAP DECIPH]	2.5470	-238.195980733954	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:11 MST 2021	[TOP SWAP DECIPH]	2.5956	-227.776184858226	*
+RESULT:	UNK	UNK	-227.7762	1	1	1.0000	5.1468	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2721.sample	Sun Mar  7 21:43:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:13 MST 2021	[TOP SWAP DECIPH]	2.7047	-235.438273966366	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:16 MST 2021	[TOP SWAP DECIPH]	2.9245	-225.982946124135	*
+RESULT:	UNK	UNK	-225.9829	1	1	1.0000	5.6333	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2722.sample	Sun Mar  7 21:43:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:19 MST 2021	[TOP SWAP DECIPH]	3.2685	-248.827498603775	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:22 MST 2021	[TOP SWAP DECIPH]	3.0362	-238.223895142087	*
+RESULT:	UNK	UNK	-238.2239	1	1	1.0000	6.3090	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2723.sample	Sun Mar  7 21:43:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:25 MST 2021	[TOP SWAP DECIPH]	2.7043	-232.848339010584	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:28 MST 2021	[TOP SWAP DECIPH]	2.8045	-232.822684169149	*
+RESULT:	UNK	UNK	-232.8227	1	1	1.0000	5.5131	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2724.sample	Sun Mar  7 21:43:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:31 MST 2021	[TOP SWAP DECIPH]	2.0155	-235.952455230857	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:33 MST 2021	[TOP SWAP DECIPH]	2.0412	-235.100497216441	*
+RESULT:	UNK	UNK	-235.1005	1	1	1.0000	4.0610	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2725.sample	Sun Mar  7 21:43:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:35 MST 2021	[TOP SWAP DECIPH]	2.0873	-241.807296751036	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:37 MST 2021	[TOP SWAP DECIPH]	2.2163	-230.53297821114	*
+RESULT:	UNK	UNK	-230.5330	1	1	1.0000	4.3079	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2726.sample	Sun Mar  7 21:43:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:39 MST 2021	[TOP SWAP DECIPH]	2.7238	-205.426843716216	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:42 MST 2021	[TOP SWAP DECIPH]	2.6586	-232.622062481068
+RESULT:	UNK	UNK	-205.4268	1	1	1.0000	5.3868	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2727.sample	Sun Mar  7 21:43:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:45 MST 2021	[TOP SWAP DECIPH]	2.6336	-216.329720070843	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:47 MST 2021	[TOP SWAP DECIPH]	2.6775	-228.261105084496
+RESULT:	UNK	UNK	-216.3297	1	1	1.0000	5.3154	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2728.sample	Sun Mar  7 21:43:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:50 MST 2021	[TOP SWAP DECIPH]	2.5244	-226.266218043008	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:53 MST 2021	[TOP SWAP DECIPH]	2.4544	-242.435824502155
+RESULT:	UNK	UNK	-226.2662	1	1	1.0000	4.9830	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2729.sample	Sun Mar  7 21:43:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:55 MST 2021	[TOP SWAP DECIPH]	1.9931	-229.180951822064	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:43:57 MST 2021	[TOP SWAP DECIPH]	1.8749	-224.909394046323	*
+RESULT:	UNK	UNK	-224.9094	1	1	1.0000	3.8724	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/273.sample	Sun Mar  7 21:43:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:43:59 MST 2021	[TOP SWAP DECIPH]	3.2505	-250.346394782299	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:02 MST 2021	[TOP SWAP DECIPH]	3.3972	-224.428936806135	*
+RESULT:	UNK	UNK	-224.4289	1	1	1.0000	6.6520	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2730.sample	Sun Mar  7 21:44:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:06 MST 2021	[TOP SWAP DECIPH]	3.0533	-247.71687396852	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:09 MST 2021	[TOP SWAP DECIPH]	2.8918	-249.856240655551
+RESULT:	UNK	UNK	-247.7169	1	1	1.0000	5.9494	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2731.sample	Sun Mar  7 21:44:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:12 MST 2021	[TOP SWAP DECIPH]	1.6675	-232.766903806624	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:13 MST 2021	[TOP SWAP DECIPH]	1.7030	-221.363025865949	*
+RESULT:	UNK	UNK	-221.3630	1	1	1.0000	3.3747	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2732.sample	Sun Mar  7 21:44:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:15 MST 2021	[TOP SWAP DECIPH]	1.8279	-251.690682724254	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:17 MST 2021	[TOP SWAP DECIPH]	2.1185	-234.575808953905	*
+RESULT:	UNK	UNK	-234.5758	1	1	1.0000	3.9506	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2733.sample	Sun Mar  7 21:44:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:19 MST 2021	[TOP SWAP DECIPH]	2.3922	-245.963885478888	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:21 MST 2021	[TOP SWAP DECIPH]	2.2703	-239.745342029411	*
+RESULT:	UNK	UNK	-239.7453	1	1	1.0000	4.6665	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2734.sample	Sun Mar  7 21:44:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:24 MST 2021	[TOP SWAP DECIPH]	1.0693	-232.312709381864	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:25 MST 2021	[TOP SWAP DECIPH]	1.0771	-233.482038683939
+RESULT:	UNK	UNK	-232.3127	1	1	1.0000	2.1507	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2735.sample	Sun Mar  7 21:44:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:26 MST 2021	[TOP SWAP DECIPH]	3.4795	-244.952713205449	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:29 MST 2021	[TOP SWAP DECIPH]	3.8656	-232.847540613297	*
+RESULT:	UNK	UNK	-232.8475	1	1	1.0000	7.3493	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2736.sample	Sun Mar  7 21:44:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:33 MST 2021	[TOP SWAP DECIPH]	2.1242	-230.389972536888	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:35 MST 2021	[TOP SWAP DECIPH]	2.1248	-238.490095588516
+RESULT:	UNK	UNK	-230.3900	1	1	1.0000	4.2533	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2737.sample	Sun Mar  7 21:44:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:37 MST 2021	[TOP SWAP DECIPH]	2.1663	-237.01419554564	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:40 MST 2021	[TOP SWAP DECIPH]	2.0852	-234.929742897725	*
+RESULT:	UNK	UNK	-234.9297	1	1	1.0000	4.2558	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2738.sample	Sun Mar  7 21:44:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:42 MST 2021	[TOP SWAP DECIPH]	2.5268	-242.548215031818	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:44 MST 2021	[TOP SWAP DECIPH]	2.6630	-240.39530219612	*
+RESULT:	UNK	UNK	-240.3953	1	1	1.0000	5.1940	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2739.sample	Sun Mar  7 21:44:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:47 MST 2021	[TOP SWAP DECIPH]	3.5460	-233.840146676979	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:50 MST 2021	[TOP SWAP DECIPH]	3.5343	-230.74829136905	*
+RESULT:	UNK	UNK	-230.7483	1	1	1.0000	7.0845	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/274.sample	Sun Mar  7 21:44:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:44:54 MST 2021	[TOP SWAP DECIPH]	2.8598	-248.150008411466	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:44:57 MST 2021	[TOP SWAP DECIPH]	2.8989	-246.166941796254	*
+RESULT:	UNK	UNK	-246.1669	1	1	1.0000	5.7630	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2740.sample	Sun Mar  7 21:45:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:00 MST 2021	[TOP SWAP DECIPH]	2.5004	-247.03334486923	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:02 MST 2021	[TOP SWAP DECIPH]	2.5457	-236.200091440758	*
+RESULT:	UNK	UNK	-236.2001	1	1	1.0000	5.0503	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2741.sample	Sun Mar  7 21:45:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:05 MST 2021	[TOP SWAP DECIPH]	1.7691	-219.629978041274	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:07 MST 2021	[TOP SWAP DECIPH]	1.7428	-227.663432983578
+RESULT:	UNK	UNK	-219.6300	1	1	1.0000	3.5163	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2742.sample	Sun Mar  7 21:45:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:08 MST 2021	[TOP SWAP DECIPH]	1.3262	-216.217351365473	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:10 MST 2021	[TOP SWAP DECIPH]	1.3038	-228.623032513761
+RESULT:	UNK	UNK	-216.2174	1	1	1.0000	2.6341	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2743.sample	Sun Mar  7 21:45:11 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:11 MST 2021	[TOP SWAP DECIPH]	0.4670	-211.592272582536	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:11 MST 2021	[TOP SWAP DECIPH]	0.5129	-209.136424713751	*
+RESULT:	UNK	UNK	-209.1364	1	1	1.0000	0.9845	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2744.sample	Sun Mar  7 21:45:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:12 MST 2021	[TOP SWAP DECIPH]	2.0373	-204.742907786399	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:14 MST 2021	[TOP SWAP DECIPH]	2.5429	-225.870976590534
+RESULT:	UNK	UNK	-204.7429	1	1	1.0000	4.5842	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2745.sample	Sun Mar  7 21:45:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:17 MST 2021	[TOP SWAP DECIPH]	2.3519	-226.688682475261	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:19 MST 2021	[TOP SWAP DECIPH]	2.4135	-239.227760744747
+RESULT:	UNK	UNK	-226.6887	1	1	1.0000	4.7696	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2746.sample	Sun Mar  7 21:45:21 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:21 MST 2021	[TOP SWAP DECIPH]	2.9846	-210.32988694615	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:24 MST 2021	[TOP SWAP DECIPH]	3.1833	-230.787202669373
+RESULT:	UNK	UNK	-210.3299	1	1	1.0000	6.1725	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2747.sample	Sun Mar  7 21:45:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:27 MST 2021	[TOP SWAP DECIPH]	2.7355	-247.51250879178	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:30 MST 2021	[TOP SWAP DECIPH]	2.5557	-249.201396009695
+RESULT:	UNK	UNK	-247.5125	1	1	1.0000	5.2957	10
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2748.sample	Sun Mar  7 21:45:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:33 MST 2021	[TOP SWAP DECIPH]	2.9229	-225.134002947728	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:36 MST 2021	[TOP SWAP DECIPH]	3.0952	-235.764095665964
+RESULT:	UNK	UNK	-225.1340	1	1	1.0000	6.0223	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2749.sample	Sun Mar  7 21:45:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:39 MST 2021	[TOP SWAP DECIPH]	2.1556	-243.022305391537	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:41 MST 2021	[TOP SWAP DECIPH]	1.9673	-238.96749012392	*
+RESULT:	UNK	UNK	-238.9675	1	1	1.0000	4.1272	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/275.sample	Sun Mar  7 21:45:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:43 MST 2021	[TOP SWAP DECIPH]	3.1150	-251.718521816766	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:46 MST 2021	[TOP SWAP DECIPH]	2.4133	-240.474445785546	*
+RESULT:	UNK	UNK	-240.4744	1	1	1.0000	5.5327	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2750.sample	Sun Mar  7 21:45:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:48 MST 2021	[TOP SWAP DECIPH]	2.2655	-248.684153552775	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:51 MST 2021	[TOP SWAP DECIPH]	2.4894	-230.45002241606	*
+RESULT:	UNK	UNK	-230.4500	1	1	1.0000	4.7590	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2751.sample	Sun Mar  7 21:45:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:53 MST 2021	[TOP SWAP DECIPH]	3.0250	-219.317536175894	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:45:56 MST 2021	[TOP SWAP DECIPH]	3.1011	-236.066428485878
+RESULT:	UNK	UNK	-219.3175	1	1	1.0000	6.1304	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2752.sample	Sun Mar  7 21:45:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:45:59 MST 2021	[TOP SWAP DECIPH]	1.6893	-233.791327764267	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:01 MST 2021	[TOP SWAP DECIPH]	1.7427	-220.422288367955	*
+RESULT:	UNK	UNK	-220.4223	1	1	1.0000	3.4363	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2753.sample	Sun Mar  7 21:46:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:03 MST 2021	[TOP SWAP DECIPH]	3.0971	-233.354369603882	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:06 MST 2021	[TOP SWAP DECIPH]	2.9321	-231.979585503601	*
+RESULT:	UNK	UNK	-231.9796	1	1	1.0000	6.0339	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2754.sample	Sun Mar  7 21:46:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:09 MST 2021	[TOP SWAP DECIPH]	1.0476	-224.242941757378	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:10 MST 2021	[TOP SWAP DECIPH]	1.0683	-228.329505680767
+RESULT:	UNK	UNK	-224.2429	1	1	1.0000	2.1203	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2755.sample	Sun Mar  7 21:46:11 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:11 MST 2021	[TOP SWAP DECIPH]	2.0971	-237.616963278368	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:13 MST 2021	[TOP SWAP DECIPH]	2.0431	-233.767330727196	*
+RESULT:	UNK	UNK	-233.7673	1	1	1.0000	4.1445	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2756.sample	Sun Mar  7 21:46:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:15 MST 2021	[TOP SWAP DECIPH]	1.6593	-222.253546957978	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:17 MST 2021	[TOP SWAP DECIPH]	1.9518	-237.404665455949
+RESULT:	UNK	UNK	-222.2535	1	1	1.0000	3.6156	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2757.sample	Sun Mar  7 21:46:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:19 MST 2021	[TOP SWAP DECIPH]	1.6373	-242.010787853316	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:20 MST 2021	[TOP SWAP DECIPH]	1.6923	-231.266480799114	*
+RESULT:	UNK	UNK	-231.2665	1	1	1.0000	3.3338	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2758.sample	Sun Mar  7 21:46:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:22 MST 2021	[TOP SWAP DECIPH]	3.2047	-229.268267552544	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:25 MST 2021	[TOP SWAP DECIPH]	3.1152	-231.917697723329
+RESULT:	UNK	UNK	-229.2683	1	1	1.0000	6.3243	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2759.sample	Sun Mar  7 21:46:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:28 MST 2021	[TOP SWAP DECIPH]	2.8385	-244.205081362026	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:31 MST 2021	[TOP SWAP DECIPH]	2.6927	-237.256432871133	*
+RESULT:	UNK	UNK	-237.2564	1	1	1.0000	5.5350	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/276.sample	Sun Mar  7 21:46:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:34 MST 2021	[TOP SWAP DECIPH]	1.5406	-222.143162588792	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:36 MST 2021	[TOP SWAP DECIPH]	1.8053	-231.382450127384
+RESULT:	UNK	UNK	-222.1432	1	1	1.0000	3.3501	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2760.sample	Sun Mar  7 21:46:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:37 MST 2021	[TOP SWAP DECIPH]	3.7667	-244.342595556495	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:41 MST 2021	[TOP SWAP DECIPH]	3.7073	-249.223130166353
+RESULT:	UNK	UNK	-244.3426	1	1	1.0000	7.4782	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2761.sample	Sun Mar  7 21:46:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:45 MST 2021	[TOP SWAP DECIPH]	2.5845	-211.955878453563	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:47 MST 2021	[TOP SWAP DECIPH]	2.5351	-231.106519222037
+RESULT:	UNK	UNK	-211.9559	1	1	1.0000	5.1237	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2762.sample	Sun Mar  7 21:46:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:50 MST 2021	[TOP SWAP DECIPH]	2.0504	-232.404625602087	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:52 MST 2021	[TOP SWAP DECIPH]	2.0028	-235.247305395179
+RESULT:	UNK	UNK	-232.4046	1	1	1.0000	4.0576	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2763.sample	Sun Mar  7 21:46:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:54 MST 2021	[TOP SWAP DECIPH]	2.6280	-219.39898430211	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:46:57 MST 2021	[TOP SWAP DECIPH]	2.4983	-233.080361767886
+RESULT:	UNK	UNK	-219.3990	1	1	1.0000	5.1306	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2764.sample	Sun Mar  7 21:46:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:46:59 MST 2021	[TOP SWAP DECIPH]	2.5865	-234.884564679304	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:02 MST 2021	[TOP SWAP DECIPH]	2.6965	-236.389788605799
+RESULT:	UNK	UNK	-234.8846	1	1	1.0000	5.2873	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2765.sample	Sun Mar  7 21:47:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:04 MST 2021	[TOP SWAP DECIPH]	3.0450	-249.38443737246	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:07 MST 2021	[TOP SWAP DECIPH]	2.7411	-238.425294505534	*
+RESULT:	UNK	UNK	-238.4253	1	1	1.0000	5.7905	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2766.sample	Sun Mar  7 21:47:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:10 MST 2021	[TOP SWAP DECIPH]	2.4699	-249.896478214713	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:13 MST 2021	[TOP SWAP DECIPH]	2.5024	-240.55307676426	*
+RESULT:	UNK	UNK	-240.5531	1	1	1.0000	4.9768	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2767.sample	Sun Mar  7 21:47:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:15 MST 2021	[TOP SWAP DECIPH]	1.6888	-237.280612732606	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:17 MST 2021	[TOP SWAP DECIPH]	1.7376	-225.071921590058	*
+RESULT:	UNK	UNK	-225.0719	1	1	1.0000	3.4308	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2768.sample	Sun Mar  7 21:47:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:19 MST 2021	[TOP SWAP DECIPH]	1.6168	-238.993549168991	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:20 MST 2021	[TOP SWAP DECIPH]	1.6230	-234.288049284976	*
+RESULT:	UNK	UNK	-234.2880	1	1	1.0000	3.2442	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2769.sample	Sun Mar  7 21:47:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:22 MST 2021	[TOP SWAP DECIPH]	1.7162	-226.60702957494	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:24 MST 2021	[TOP SWAP DECIPH]	1.8555	-226.560434402058	*
+RESULT:	UNK	UNK	-226.5604	1	1	1.0000	3.5767	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/277.sample	Sun Mar  7 21:47:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:26 MST 2021	[TOP SWAP DECIPH]	2.3331	-234.717471072872	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:28 MST 2021	[TOP SWAP DECIPH]	2.1196	-235.746146200581
+RESULT:	UNK	UNK	-234.7175	1	1	1.0000	4.4569	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2770.sample	Sun Mar  7 21:47:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:30 MST 2021	[TOP SWAP DECIPH]	1.6433	-202.310544324182	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:32 MST 2021	[TOP SWAP DECIPH]	1.7554	-223.095524678672
+RESULT:	UNK	UNK	-202.3105	1	1	1.0000	3.4028	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2771.sample	Sun Mar  7 21:47:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:33 MST 2021	[TOP SWAP DECIPH]	2.1255	-210.157535282764	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:36 MST 2021	[TOP SWAP DECIPH]	2.1287	-222.368467605465
+RESULT:	UNK	UNK	-210.1575	1	1	1.0000	4.2584	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2772.sample	Sun Mar  7 21:47:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:38 MST 2021	[TOP SWAP DECIPH]	2.4937	-235.932305512257	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:40 MST 2021	[TOP SWAP DECIPH]	2.6319	-228.107755329028	*
+RESULT:	UNK	UNK	-228.1078	1	1	1.0000	5.1298	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2773.sample	Sun Mar  7 21:47:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:43 MST 2021	[TOP SWAP DECIPH]	1.2889	-223.090363954029	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:44 MST 2021	[TOP SWAP DECIPH]	1.4551	-232.824633455554
+RESULT:	UNK	UNK	-223.0904	1	1	1.0000	2.7483	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2774.sample	Sun Mar  7 21:47:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:46 MST 2021	[TOP SWAP DECIPH]	3.0339	-234.185941195211	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:49 MST 2021	[TOP SWAP DECIPH]	3.2659	-232.315031850413	*
+RESULT:	UNK	UNK	-232.3150	1	1	1.0000	6.3042	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2775.sample	Sun Mar  7 21:47:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:52 MST 2021	[TOP SWAP DECIPH]	2.2003	-192.667660811851	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:54 MST 2021	[TOP SWAP DECIPH]	2.3210	-229.296046728731
+RESULT:	UNK	UNK	-192.6677	1	1	1.0000	4.5253	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2776.sample	Sun Mar  7 21:47:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:47:56 MST 2021	[TOP SWAP DECIPH]	2.7481	-245.765412751831	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:47:59 MST 2021	[TOP SWAP DECIPH]	2.7686	-242.048041703716	*
+RESULT:	UNK	UNK	-242.0480	1	1	1.0000	5.5211	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2777.sample	Sun Mar  7 21:48:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:02 MST 2021	[TOP SWAP DECIPH]	2.1835	-236.749543433172	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:04 MST 2021	[TOP SWAP DECIPH]	2.2354	-237.071519581034
+RESULT:	UNK	UNK	-236.7495	1	1	1.0000	4.4233	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2778.sample	Sun Mar  7 21:48:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:06 MST 2021	[TOP SWAP DECIPH]	2.7599	-245.977048490424	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:09 MST 2021	[TOP SWAP DECIPH]	2.8923	-231.786558652438	*
+RESULT:	UNK	UNK	-231.7866	1	1	1.0000	5.6564	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2779.sample	Sun Mar  7 21:48:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:12 MST 2021	[TOP SWAP DECIPH]	2.7928	-250.627025603618	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:15 MST 2021	[TOP SWAP DECIPH]	2.7737	-250.631516795122
+RESULT:	UNK	UNK	-250.6270	1	1	1.0000	5.5706	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/278.sample	Sun Mar  7 21:48:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:18 MST 2021	[TOP SWAP DECIPH]	2.1229	-228.78124369225	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:20 MST 2021	[TOP SWAP DECIPH]	2.1291	-236.59626804566
+RESULT:	UNK	UNK	-228.7812	1	1	1.0000	4.2564	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2780.sample	Sun Mar  7 21:48:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:22 MST 2021	[TOP SWAP DECIPH]	3.1442	-223.558506423221	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:25 MST 2021	[TOP SWAP DECIPH]	2.8891	-243.655409363644
+RESULT:	UNK	UNK	-223.5585	1	1	1.0000	6.0377	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2781.sample	Sun Mar  7 21:48:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:28 MST 2021	[TOP SWAP DECIPH]	2.6280	-235.253046193576	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:31 MST 2021	[TOP SWAP DECIPH]	2.5744	-236.891406777177
+RESULT:	UNK	UNK	-235.2530	1	1	1.0000	5.2068	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2782.sample	Sun Mar  7 21:48:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:33 MST 2021	[TOP SWAP DECIPH]	0.5428	-212.296941680361	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:34 MST 2021	[TOP SWAP DECIPH]	0.5421	-213.494006973883
+RESULT:	UNK	UNK	-212.2969	1	1	1.0000	1.0887	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2783.sample	Sun Mar  7 21:48:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:34 MST 2021	[TOP SWAP DECIPH]	1.6199	-222.797317385253	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:36 MST 2021	[TOP SWAP DECIPH]	1.6420	-237.7348492914
+RESULT:	UNK	UNK	-222.7973	1	1	1.0000	3.2660	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2784.sample	Sun Mar  7 21:48:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:37 MST 2021	[TOP SWAP DECIPH]	2.4816	-238.182909505457	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:40 MST 2021	[TOP SWAP DECIPH]	2.6970	-236.694420778404	*
+RESULT:	UNK	UNK	-236.6944	1	1	1.0000	5.1829	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2785.sample	Sun Mar  7 21:48:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:43 MST 2021	[TOP SWAP DECIPH]	2.4511	-239.17330085737	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:45 MST 2021	[TOP SWAP DECIPH]	2.6209	-232.980111978428	*
+RESULT:	UNK	UNK	-232.9801	1	1	1.0000	5.0763	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2786.sample	Sun Mar  7 21:48:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:48 MST 2021	[TOP SWAP DECIPH]	2.3763	-236.942958210509	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:50 MST 2021	[TOP SWAP DECIPH]	2.1839	-237.53735539759
+RESULT:	UNK	UNK	-236.9430	1	1	1.0000	4.5651	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2787.sample	Sun Mar  7 21:48:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:52 MST 2021	[TOP SWAP DECIPH]	2.4735	-246.637704928682	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:48:55 MST 2021	[TOP SWAP DECIPH]	2.4316	-239.347498024956	*
+RESULT:	UNK	UNK	-239.3475	1	1	1.0000	4.9094	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2788.sample	Sun Mar  7 21:48:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:48:57 MST 2021	[TOP SWAP DECIPH]	2.5319	-230.983914643902	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:00 MST 2021	[TOP SWAP DECIPH]	2.5461	-244.618266784802
+RESULT:	UNK	UNK	-230.9839	1	1	1.0000	5.0822	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2789.sample	Sun Mar  7 21:49:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:02 MST 2021	[TOP SWAP DECIPH]	1.7375	-207.397900171185	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:04 MST 2021	[TOP SWAP DECIPH]	1.8097	-226.261865025653
+RESULT:	UNK	UNK	-207.3979	1	1	1.0000	3.5516	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/279.sample	Sun Mar  7 21:49:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:06 MST 2021	[TOP SWAP DECIPH]	3.0158	-235.051310530562	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:09 MST 2021	[TOP SWAP DECIPH]	3.1194	-229.669198901784	*
+RESULT:	UNK	UNK	-229.6692	1	1	1.0000	6.1395	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2790.sample	Sun Mar  7 21:49:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:12 MST 2021	[TOP SWAP DECIPH]	2.5468	-241.746129145146	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:15 MST 2021	[TOP SWAP DECIPH]	2.7009	-230.275191827317	*
+RESULT:	UNK	UNK	-230.2752	1	1	1.0000	5.2522	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2791.sample	Sun Mar  7 21:49:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:17 MST 2021	[TOP SWAP DECIPH]	3.2675	-228.739842894858	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:21 MST 2021	[TOP SWAP DECIPH]	3.3438	-231.807020849438
+RESULT:	UNK	UNK	-228.7398	1	1	1.0000	6.6156	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2792.sample	Sun Mar  7 21:49:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:24 MST 2021	[TOP SWAP DECIPH]	2.6390	-234.0214335159	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:27 MST 2021	[TOP SWAP DECIPH]	2.7296	-234.183411289616
+RESULT:	UNK	UNK	-234.0214	1	1	1.0000	5.3731	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2793.sample	Sun Mar  7 21:49:29 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:29 MST 2021	[TOP SWAP DECIPH]	2.7829	-245.535637378858	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:32 MST 2021	[TOP SWAP DECIPH]	3.0187	-240.466454452323	*
+RESULT:	UNK	UNK	-240.4665	1	1	1.0000	5.8062	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2794.sample	Sun Mar  7 21:49:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:35 MST 2021	[TOP SWAP DECIPH]	2.9943	-220.306622204244	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:38 MST 2021	[TOP SWAP DECIPH]	2.9767	-228.691168164906
+RESULT:	UNK	UNK	-220.3066	1	1	1.0000	5.9753	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2795.sample	Sun Mar  7 21:49:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:41 MST 2021	[TOP SWAP DECIPH]	2.0368	-230.517672981503	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:43 MST 2021	[TOP SWAP DECIPH]	2.2791	-230.228562522292	*
+RESULT:	UNK	UNK	-230.2286	1	1	1.0000	4.3200	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2796.sample	Sun Mar  7 21:49:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:45 MST 2021	[TOP SWAP DECIPH]	1.9657	-237.042335358898	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:47 MST 2021	[TOP SWAP DECIPH]	1.9862	-231.17152070906	*
+RESULT:	UNK	UNK	-231.1715	1	1	1.0000	3.9559	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2797.sample	Sun Mar  7 21:49:49 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:49 MST 2021	[TOP SWAP DECIPH]	2.7457	-202.813168021276	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:52 MST 2021	[TOP SWAP DECIPH]	2.7774	-223.003446613755
+RESULT:	UNK	UNK	-202.8132	1	1	1.0000	5.5271	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2798.sample	Sun Mar  7 21:49:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:55 MST 2021	[TOP SWAP DECIPH]	2.1064	-240.823506005916	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:49:57 MST 2021	[TOP SWAP DECIPH]	2.2942	-229.815148383742	*
+RESULT:	UNK	UNK	-229.8151	1	1	1.0000	4.4052	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/2799.sample	Sun Mar  7 21:49:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:49:59 MST 2021	[TOP SWAP DECIPH]	2.1935	-238.11463968182	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:02 MST 2021	[TOP SWAP DECIPH]	2.1163	-240.885755677917
+RESULT:	UNK	UNK	-238.1146	1	1	1.0000	4.3140	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/641.sample	Sun Mar  7 21:50:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:04 MST 2021	[TOP SWAP DECIPH]	1.7263	-229.473136126024	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:05 MST 2021	[TOP SWAP DECIPH]	1.6505	-236.621212223473
+RESULT:	UNK	UNK	-229.4731	1	1	1.0000	3.3810	19
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6410.sample	Sun Mar  7 21:50:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:07 MST 2021	[TOP SWAP DECIPH]	0.6463	-210.643903376024	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:08 MST 2021	[TOP SWAP DECIPH]	0.6534	-223.466839961677
+RESULT:	UNK	UNK	-210.6439	1	1	1.0000	1.3037	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64100.sample	Sun Mar  7 21:50:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:08 MST 2021	[TOP SWAP DECIPH]	0.7056	-207.355327377029	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:09 MST 2021	[TOP SWAP DECIPH]	0.9807	-227.420735060533
+RESULT:	UNK	UNK	-207.3553	1	1	1.0000	1.6898	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64101.sample	Sun Mar  7 21:50:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:10 MST 2021	[TOP SWAP DECIPH]	1.3500	-202.355938798657	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:11 MST 2021	[TOP SWAP DECIPH]	1.5114	-219.253569185011
+RESULT:	UNK	UNK	-202.3559	1	1	1.0000	2.8652	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64102.sample	Sun Mar  7 21:50:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:13 MST 2021	[TOP SWAP DECIPH]	0.8544	-204.150600232979	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:14 MST 2021	[TOP SWAP DECIPH]	0.8518	-223.870353132092
+RESULT:	UNK	UNK	-204.1506	1	1	1.0000	1.7106	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64103.sample	Sun Mar  7 21:50:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:15 MST 2021	[TOP SWAP DECIPH]	0.2481	-191.800152718688	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:15 MST 2021	[TOP SWAP DECIPH]	0.3249	-223.532682324825
+RESULT:	UNK	UNK	-191.8002	1	1	1.0000	0.5776	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64104.sample	Sun Mar  7 21:50:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:15 MST 2021	[TOP SWAP DECIPH]	0.7917	-211.912758705701	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:16 MST 2021	[TOP SWAP DECIPH]	0.7562	-219.733229774945
+RESULT:	UNK	UNK	-211.9128	1	1	1.0000	1.5524	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64105.sample	Sun Mar  7 21:50:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:17 MST 2021	[TOP SWAP DECIPH]	1.9738	-241.289946665512	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:19 MST 2021	[TOP SWAP DECIPH]	2.1771	-232.564956039041	*
+RESULT:	UNK	UNK	-232.5650	1	1	1.0000	4.1552	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64106.sample	Sun Mar  7 21:50:21 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:21 MST 2021	[TOP SWAP DECIPH]	2.6707	-213.602998159577	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:24 MST 2021	[TOP SWAP DECIPH]	2.2313	-235.192116497374
+RESULT:	UNK	UNK	-213.6030	1	1	1.0000	4.9067	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64107.sample	Sun Mar  7 21:50:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:26 MST 2021	[TOP SWAP DECIPH]	1.0390	-223.172236505551	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:27 MST 2021	[TOP SWAP DECIPH]	1.1194	-215.884330136465	*
+RESULT:	UNK	UNK	-215.8843	1	1	1.0000	2.1626	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64108.sample	Sun Mar  7 21:50:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:28 MST 2021	[TOP SWAP DECIPH]	1.7028	-214.902289726653	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:30 MST 2021	[TOP SWAP DECIPH]	1.7933	-229.86763922507
+RESULT:	UNK	UNK	-214.9023	1	1	1.0000	3.4999	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64109.sample	Sun Mar  7 21:50:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:32 MST 2021	[TOP SWAP DECIPH]	2.5921	-230.742901106494	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:34 MST 2021	[TOP SWAP DECIPH]	2.2773	-240.331801382882
+RESULT:	UNK	UNK	-230.7429	1	1	1.0000	4.8737	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6411.sample	Sun Mar  7 21:50:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:36 MST 2021	[TOP SWAP DECIPH]	1.7467	-216.516381880409	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:38 MST 2021	[TOP SWAP DECIPH]	1.7562	-228.02307450209
+RESULT:	UNK	UNK	-216.5164	1	1	1.0000	3.5069	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64110.sample	Sun Mar  7 21:50:40 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:40 MST 2021	[TOP SWAP DECIPH]	1.5906	-249.643445432464	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:42 MST 2021	[TOP SWAP DECIPH]	1.5668	-226.108112021215	*
+RESULT:	UNK	UNK	-226.1081	1	1	1.0000	3.1613	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64111.sample	Sun Mar  7 21:50:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:43 MST 2021	[TOP SWAP DECIPH]	1.5403	-219.228288255207	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:45 MST 2021	[TOP SWAP DECIPH]	1.4250	-233.915298501912
+RESULT:	UNK	UNK	-219.2283	1	1	1.0000	2.9694	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64112.sample	Sun Mar  7 21:50:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:46 MST 2021	[TOP SWAP DECIPH]	2.5825	-244.93996299313	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:49 MST 2021	[TOP SWAP DECIPH]	2.6933	-240.647880591939	*
+RESULT:	UNK	UNK	-240.6479	1	1	1.0000	5.2797	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64113.sample	Sun Mar  7 21:50:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:51 MST 2021	[TOP SWAP DECIPH]	1.7966	-228.311188580817	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:53 MST 2021	[TOP SWAP DECIPH]	1.7575	-233.19939042306
+RESULT:	UNK	UNK	-228.3112	1	1	1.0000	3.5581	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64114.sample	Sun Mar  7 21:50:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:55 MST 2021	[TOP SWAP DECIPH]	0.3760	-192.451556253893	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:55 MST 2021	[TOP SWAP DECIPH]	0.3789	-221.729163174926
+RESULT:	UNK	UNK	-192.4516	1	1	1.0000	0.7586	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64115.sample	Sun Mar  7 21:50:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:56 MST 2021	[TOP SWAP DECIPH]	1.3351	-219.790929081216	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:50:57 MST 2021	[TOP SWAP DECIPH]	1.4157	-232.68664751774
+RESULT:	UNK	UNK	-219.7909	1	1	1.0000	2.7545	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64116.sample	Sun Mar  7 21:50:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:50:58 MST 2021	[TOP SWAP DECIPH]	1.9864	-221.886454918413	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:00 MST 2021	[TOP SWAP DECIPH]	1.8784	-230.938757981222
+RESULT:	UNK	UNK	-221.8865	1	1	1.0000	3.8685	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64117.sample	Sun Mar  7 21:51:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:02 MST 2021	[TOP SWAP DECIPH]	2.4250	-196.275834862335	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:05 MST 2021	[TOP SWAP DECIPH]	2.3306	-223.945614879027
+RESULT:	UNK	UNK	-196.2758	1	1	1.0000	4.7595	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64118.sample	Sun Mar  7 21:51:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:07 MST 2021	[TOP SWAP DECIPH]	0.6357	-208.678283955933	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:08 MST 2021	[TOP SWAP DECIPH]	0.6787	-213.00354420102
+RESULT:	UNK	UNK	-208.6783	1	1	1.0000	1.3180	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64119.sample	Sun Mar  7 21:51:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:08 MST 2021	[TOP SWAP DECIPH]	2.0678	-213.918634406651	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:10 MST 2021	[TOP SWAP DECIPH]	2.1429	-224.706653256352
+RESULT:	UNK	UNK	-213.9186	1	1	1.0000	4.2145	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6412.sample	Sun Mar  7 21:51:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:13 MST 2021	[TOP SWAP DECIPH]	2.0400	-222.067545510349	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:15 MST 2021	[TOP SWAP DECIPH]	1.9288	-229.772322537888
+RESULT:	UNK	UNK	-222.0675	1	1	1.0000	3.9726	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64120.sample	Sun Mar  7 21:51:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:17 MST 2021	[TOP SWAP DECIPH]	0.5499	-205.846649515016	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:17 MST 2021	[TOP SWAP DECIPH]	0.5338	-222.861272615728
+RESULT:	UNK	UNK	-205.8466	1	1	1.0000	1.0873	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64121.sample	Sun Mar  7 21:51:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:18 MST 2021	[TOP SWAP DECIPH]	1.0791	-218.689486494022	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:19 MST 2021	[TOP SWAP DECIPH]	1.0866	-231.936351903496
+RESULT:	UNK	UNK	-218.6895	1	1	1.0000	2.1695	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64122.sample	Sun Mar  7 21:51:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:20 MST 2021	[TOP SWAP DECIPH]	0.2553	-197.237393415297	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:20 MST 2021	[TOP SWAP DECIPH]	0.2755	-218.864034733764
+RESULT:	UNK	UNK	-197.2374	1	1	1.0000	0.5345	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64123.sample	Sun Mar  7 21:51:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:20 MST 2021	[TOP SWAP DECIPH]	1.4210	-227.853900980631	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:22 MST 2021	[TOP SWAP DECIPH]	1.3508	-224.997597796848	*
+RESULT:	UNK	UNK	-224.9976	1	1	1.0000	2.7753	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64124.sample	Sun Mar  7 21:51:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:23 MST 2021	[TOP SWAP DECIPH]	0.2844	-193.041996521428	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:23 MST 2021	[TOP SWAP DECIPH]	0.3087	-221.158267902761
+RESULT:	UNK	UNK	-193.0420	1	1	1.0000	0.5967	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64125.sample	Sun Mar  7 21:51:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:24 MST 2021	[TOP SWAP DECIPH]	0.6787	-196.349556715118	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:24 MST 2021	[TOP SWAP DECIPH]	0.6453	-231.253837745477
+RESULT:	UNK	UNK	-196.3496	1	1	1.0000	1.3273	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64126.sample	Sun Mar  7 21:51:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:25 MST 2021	[TOP SWAP DECIPH]	2.0145	-233.030385267243	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:27 MST 2021	[TOP SWAP DECIPH]	1.9858	-231.275339194295	*
+RESULT:	UNK	UNK	-231.2753	1	1	1.0000	4.0040	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64127.sample	Sun Mar  7 21:51:29 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:29 MST 2021	[TOP SWAP DECIPH]	3.9964	-237.164189774584	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:33 MST 2021	[TOP SWAP DECIPH]	4.1007	-243.160225682792
+RESULT:	UNK	UNK	-237.1642	1	1	1.0000	8.1009	13
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64128.sample	Sun Mar  7 21:51:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:37 MST 2021	[TOP SWAP DECIPH]	2.3848	-237.809807749594	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:40 MST 2021	[TOP SWAP DECIPH]	2.4065	-228.021653903318	*
+RESULT:	UNK	UNK	-228.0217	1	1	1.0000	4.7954	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64129.sample	Sun Mar  7 21:51:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:42 MST 2021	[TOP SWAP DECIPH]	0.3546	-190.952942609251	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:42 MST 2021	[TOP SWAP DECIPH]	0.3943	-218.691180454364
+RESULT:	UNK	UNK	-190.9529	1	1	1.0000	0.7527	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6413.sample	Sun Mar  7 21:51:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:43 MST 2021	[TOP SWAP DECIPH]	1.5145	-202.713015876953	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:44 MST 2021	[TOP SWAP DECIPH]	1.6906	-224.719043696871
+RESULT:	UNK	UNK	-202.7130	1	1	1.0000	3.2085	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64130.sample	Sun Mar  7 21:51:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:46 MST 2021	[TOP SWAP DECIPH]	0.2770	-199.199754483407	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:46 MST 2021	[TOP SWAP DECIPH]	0.2685	-217.238931574417
+RESULT:	UNK	UNK	-199.1998	1	1	1.0000	0.5491	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64131.sample	Sun Mar  7 21:51:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:47 MST 2021	[TOP SWAP DECIPH]	0.6397	-200.655851808261	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:47 MST 2021	[TOP SWAP DECIPH]	0.7540	-227.646012244746
+RESULT:	UNK	UNK	-200.6559	1	1	1.0000	1.3971	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64132.sample	Sun Mar  7 21:51:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:48 MST 2021	[TOP SWAP DECIPH]	2.7765	-235.815773470365	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:51 MST 2021	[TOP SWAP DECIPH]	2.7253	-231.75059727256	*
+RESULT:	UNK	UNK	-231.7506	1	1	1.0000	5.5055	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64133.sample	Sun Mar  7 21:51:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:53 MST 2021	[TOP SWAP DECIPH]	0.6706	-208.243922857713	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:54 MST 2021	[TOP SWAP DECIPH]	0.6842	-228.268182614238
+RESULT:	UNK	UNK	-208.2439	1	1	1.0000	1.3587	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64134.sample	Sun Mar  7 21:51:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:55 MST 2021	[TOP SWAP DECIPH]	0.8162	-187.855613977523	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:56 MST 2021	[TOP SWAP DECIPH]	0.8815	-217.22643676193
+RESULT:	UNK	UNK	-187.8556	1	1	1.0000	1.7014	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64135.sample	Sun Mar  7 21:51:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:51:57 MST 2021	[TOP SWAP DECIPH]	2.5586	-220.313122498597	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:51:59 MST 2021	[TOP SWAP DECIPH]	2.3836	-238.810254302453
+RESULT:	UNK	UNK	-220.3131	1	1	1.0000	4.9457	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64136.sample	Sun Mar  7 21:52:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:02 MST 2021	[TOP SWAP DECIPH]	0.2990	-178.670746855874	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:02 MST 2021	[TOP SWAP DECIPH]	0.2849	-218.838065780128
+RESULT:	UNK	UNK	-178.6707	1	1	1.0000	0.5876	-1
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64137.sample	Sun Mar  7 21:52:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:02 MST 2021	[TOP SWAP DECIPH]	0.7994	-193.952059934765	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:03 MST 2021	[TOP SWAP DECIPH]	0.9287	-220.279006470148
+RESULT:	UNK	UNK	-193.9521	1	1	1.0000	1.7319	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64138.sample	Sun Mar  7 21:52:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:04 MST 2021	[TOP SWAP DECIPH]	4.1414	-238.709045618925	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:08 MST 2021	[TOP SWAP DECIPH]	3.9605	-245.718324193879
+RESULT:	UNK	UNK	-238.7090	1	1	1.0000	8.1058	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64139.sample	Sun Mar  7 21:52:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:12 MST 2021	[TOP SWAP DECIPH]	2.5891	-225.335607272095	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:15 MST 2021	[TOP SWAP DECIPH]	2.4948	-238.652797301812
+RESULT:	UNK	UNK	-225.3356	1	1	1.0000	5.0878	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6414.sample	Sun Mar  7 21:52:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:17 MST 2021	[TOP SWAP DECIPH]	0.8873	-202.359651188728	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:18 MST 2021	[TOP SWAP DECIPH]	0.8555	-230.741165406014
+RESULT:	UNK	UNK	-202.3597	1	1	1.0000	1.7465	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64140.sample	Sun Mar  7 21:52:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:19 MST 2021	[TOP SWAP DECIPH]	3.1179	-241.592858699319	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:22 MST 2021	[TOP SWAP DECIPH]	2.7707	-241.727181082494
+RESULT:	UNK	UNK	-241.5929	1	1	1.0000	5.8923	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64141.sample	Sun Mar  7 21:52:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:25 MST 2021	[TOP SWAP DECIPH]	0.4161	-210.752165732017	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:25 MST 2021	[TOP SWAP DECIPH]	0.4022	-225.817873170094
+RESULT:	UNK	UNK	-210.7522	1	1	1.0000	0.8223	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64142.sample	Sun Mar  7 21:52:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:26 MST 2021	[TOP SWAP DECIPH]	2.3182	-248.134437794654	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:28 MST 2021	[TOP SWAP DECIPH]	2.4858	-232.032893248221	*
+RESULT:	UNK	UNK	-232.0329	1	1	1.0000	4.8077	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64143.sample	Sun Mar  7 21:52:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:30 MST 2021	[TOP SWAP DECIPH]	2.1306	-219.372105453878	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:32 MST 2021	[TOP SWAP DECIPH]	2.0490	-229.763555101964
+RESULT:	UNK	UNK	-219.3721	1	1	1.0000	4.1834	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64144.sample	Sun Mar  7 21:52:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:35 MST 2021	[TOP SWAP DECIPH]	1.4859	-177.383919464798	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:36 MST 2021	[TOP SWAP DECIPH]	1.3256	-217.008573540065
+RESULT:	UNK	UNK	-177.3839	1	1	1.0000	2.8153	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64145.sample	Sun Mar  7 21:52:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:37 MST 2021	[TOP SWAP DECIPH]	2.2962	-252.514277792932	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:40 MST 2021	[TOP SWAP DECIPH]	2.3258	-243.759565088998	*
+RESULT:	UNK	UNK	-243.7596	1	1	1.0000	4.6257	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64146.sample	Sun Mar  7 21:52:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:42 MST 2021	[TOP SWAP DECIPH]	0.4944	-204.043277384478	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:42 MST 2021	[TOP SWAP DECIPH]	0.5560	-218.173152915587
+RESULT:	UNK	UNK	-204.0433	1	1	1.0000	1.0541	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64147.sample	Sun Mar  7 21:52:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:43 MST 2021	[TOP SWAP DECIPH]	1.7176	-175.008479515627	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:45 MST 2021	[TOP SWAP DECIPH]	1.6662	-212.130800021168
+RESULT:	UNK	UNK	-175.0085	1	1	1.0000	3.3872	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64148.sample	Sun Mar  7 21:52:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:46 MST 2021	[TOP SWAP DECIPH]	1.1383	-193.26160789752	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:48 MST 2021	[TOP SWAP DECIPH]	1.1324	-221.387237218916
+RESULT:	UNK	UNK	-193.2616	1	1	1.0000	2.2742	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64149.sample	Sun Mar  7 21:52:49 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:49 MST 2021	[TOP SWAP DECIPH]	1.6740	-225.891774534174	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:50 MST 2021	[TOP SWAP DECIPH]	1.7379	-239.332797476782
+RESULT:	UNK	UNK	-225.8918	1	1	1.0000	3.4154	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6415.sample	Sun Mar  7 21:52:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:52 MST 2021	[TOP SWAP DECIPH]	0.9272	-198.038262272538	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:53 MST 2021	[TOP SWAP DECIPH]	0.8549	-217.344797850044
+RESULT:	UNK	UNK	-198.0383	1	1	1.0000	1.7860	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/64150.sample	Sun Mar  7 21:52:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:52:54 MST 2021	[TOP SWAP DECIPH]	3.3079	-239.062643474774	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:52:57 MST 2021	[TOP SWAP DECIPH]	3.7188	-242.580401176379
+RESULT:	UNK	UNK	-239.0626	1	1	1.0000	7.0304	10
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6416.sample	Sun Mar  7 21:53:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:01 MST 2021	[TOP SWAP DECIPH]	1.1489	-212.208391555491	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:02 MST 2021	[TOP SWAP DECIPH]	1.1037	-227.426182290452
+RESULT:	UNK	UNK	-212.2084	1	1	1.0000	2.2566	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6417.sample	Sun Mar  7 21:53:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:03 MST 2021	[TOP SWAP DECIPH]	2.0754	-247.518831860432	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:05 MST 2021	[TOP SWAP DECIPH]	2.1231	-226.489526299555	*
+RESULT:	UNK	UNK	-226.4895	1	1	1.0000	4.2021	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6418.sample	Sun Mar  7 21:53:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:07 MST 2021	[TOP SWAP DECIPH]	3.4490	-209.262427073768	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:11 MST 2021	[TOP SWAP DECIPH]	3.3792	-227.661526279902
+RESULT:	UNK	UNK	-209.2624	1	1	1.0000	6.8322	5
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6419.sample	Sun Mar  7 21:53:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:14 MST 2021	[TOP SWAP DECIPH]	2.1803	-241.462685994086	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:16 MST 2021	[TOP SWAP DECIPH]	2.2261	-227.268159627143	*
+RESULT:	UNK	UNK	-227.2682	1	1	1.0000	4.4101	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/642.sample	Sun Mar  7 21:53:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:19 MST 2021	[TOP SWAP DECIPH]	0.2978	-202.117722273515	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:19 MST 2021	[TOP SWAP DECIPH]	0.2987	-214.633244211228
+RESULT:	UNK	UNK	-202.1177	1	1	1.0000	0.6003	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6420.sample	Sun Mar  7 21:53:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:19 MST 2021	[TOP SWAP DECIPH]	4.0789	-210.555667229153	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:23 MST 2021	[TOP SWAP DECIPH]	3.8908	-232.286457206591
+RESULT:	UNK	UNK	-210.5557	1	1	1.0000	7.9731	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6421.sample	Sun Mar  7 21:53:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:27 MST 2021	[TOP SWAP DECIPH]	0.2730	-193.676838932878	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:28 MST 2021	[TOP SWAP DECIPH]	0.2928	-216.798063260266
+RESULT:	UNK	UNK	-193.6768	1	1	1.0000	0.5695	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6422.sample	Sun Mar  7 21:53:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:28 MST 2021	[TOP SWAP DECIPH]	2.1761	-184.496437825128	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:30 MST 2021	[TOP SWAP DECIPH]	2.0295	-217.822488666624
+RESULT:	UNK	UNK	-184.4964	1	1	1.0000	4.2090	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6423.sample	Sun Mar  7 21:53:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:32 MST 2021	[TOP SWAP DECIPH]	1.8980	-238.927783439293	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:34 MST 2021	[TOP SWAP DECIPH]	2.1816	-227.097347595715	*
+RESULT:	UNK	UNK	-227.0973	1	1	1.0000	4.0832	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6424.sample	Sun Mar  7 21:53:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:36 MST 2021	[TOP SWAP DECIPH]	0.9169	-200.739593456688	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:37 MST 2021	[TOP SWAP DECIPH]	0.9197	-218.510018143682
+RESULT:	UNK	UNK	-200.7396	1	1	1.0000	1.8401	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6425.sample	Sun Mar  7 21:53:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:38 MST 2021	[TOP SWAP DECIPH]	1.5987	-227.237414841643	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:40 MST 2021	[TOP SWAP DECIPH]	1.6297	-233.803686402176
+RESULT:	UNK	UNK	-227.2374	1	1	1.0000	3.2319	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6426.sample	Sun Mar  7 21:53:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:41 MST 2021	[TOP SWAP DECIPH]	0.2746	-194.313392468768	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:41 MST 2021	[TOP SWAP DECIPH]	0.3052	-221.957767947951
+RESULT:	UNK	UNK	-194.3134	1	1	1.0000	0.5835	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6427.sample	Sun Mar  7 21:53:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:42 MST 2021	[TOP SWAP DECIPH]	1.9911	-241.809121720272	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:44 MST 2021	[TOP SWAP DECIPH]	1.9329	-228.010345372421	*
+RESULT:	UNK	UNK	-228.0103	1	1	1.0000	3.9274	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6428.sample	Sun Mar  7 21:53:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:46 MST 2021	[TOP SWAP DECIPH]	4.5075	-236.392686628815	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:50 MST 2021	[TOP SWAP DECIPH]	3.8772	-243.781524862672
+RESULT:	UNK	UNK	-236.3927	1	1	1.0000	8.3889	3
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6429.sample	Sun Mar  7 21:53:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:54 MST 2021	[TOP SWAP DECIPH]	0.6323	-194.358887103361	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:55 MST 2021	[TOP SWAP DECIPH]	0.6456	-211.154434357996
+RESULT:	UNK	UNK	-194.3589	1	1	1.0000	1.2817	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/643.sample	Sun Mar  7 21:53:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:53:55 MST 2021	[TOP SWAP DECIPH]	3.1959	-245.609470067484	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:53:59 MST 2021	[TOP SWAP DECIPH]	3.3036	-246.025702882267
+RESULT:	UNK	UNK	-245.6095	1	1	1.0000	6.5033	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6430.sample	Sun Mar  7 21:54:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:02 MST 2021	[TOP SWAP DECIPH]	2.8378	-200.1293384223	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:05 MST 2021	[TOP SWAP DECIPH]	3.1320	-220.152989535894
+RESULT:	UNK	UNK	-200.1293	1	1	1.0000	5.9739	5
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6431.sample	Sun Mar  7 21:54:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:08 MST 2021	[TOP SWAP DECIPH]	2.2229	-192.615388928808	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:10 MST 2021	[TOP SWAP DECIPH]	2.1330	-216.100150243718
+RESULT:	UNK	UNK	-192.6154	1	1	1.0000	4.3593	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6432.sample	Sun Mar  7 21:54:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:12 MST 2021	[TOP SWAP DECIPH]	2.0704	-207.383362626314	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:14 MST 2021	[TOP SWAP DECIPH]	2.1399	-228.195675496838
+RESULT:	UNK	UNK	-207.3834	1	1	1.0000	4.2139	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6433.sample	Sun Mar  7 21:54:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:16 MST 2021	[TOP SWAP DECIPH]	1.3849	-221.423958080842	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:18 MST 2021	[TOP SWAP DECIPH]	1.3822	-232.521009977339
+RESULT:	UNK	UNK	-221.4240	1	1	1.0000	2.7705	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6434.sample	Sun Mar  7 21:54:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:19 MST 2021	[TOP SWAP DECIPH]	3.3413	-245.694594966101	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:23 MST 2021	[TOP SWAP DECIPH]	3.6181	-237.630726662266	*
+RESULT:	UNK	UNK	-237.6307	1	1	1.0000	6.9631	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6435.sample	Sun Mar  7 21:54:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:26 MST 2021	[TOP SWAP DECIPH]	0.7310	-198.493028671652	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:27 MST 2021	[TOP SWAP DECIPH]	0.6851	-231.749161213751
+RESULT:	UNK	UNK	-198.4930	1	1	1.0000	1.4199	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6436.sample	Sun Mar  7 21:54:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:28 MST 2021	[TOP SWAP DECIPH]	2.0166	-223.696590856076	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:30 MST 2021	[TOP SWAP DECIPH]	2.0207	-234.847770560681
+RESULT:	UNK	UNK	-223.6966	1	1	1.0000	4.0406	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6437.sample	Sun Mar  7 21:54:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:32 MST 2021	[TOP SWAP DECIPH]	2.7471	-243.685621526628	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:34 MST 2021	[TOP SWAP DECIPH]	2.7887	-235.373011164961	*
+RESULT:	UNK	UNK	-235.3730	1	1	1.0000	5.5395	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6438.sample	Sun Mar  7 21:54:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:37 MST 2021	[TOP SWAP DECIPH]	0.4978	-196.409784164812	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:38 MST 2021	[TOP SWAP DECIPH]	0.5572	-236.052358888713
+RESULT:	UNK	UNK	-196.4098	1	1	1.0000	1.0586	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6439.sample	Sun Mar  7 21:54:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:38 MST 2021	[TOP SWAP DECIPH]	0.3731	-183.606552433671	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:39 MST 2021	[TOP SWAP DECIPH]	0.4127	-227.435314996755
+RESULT:	UNK	UNK	-183.6066	1	1	1.0000	0.7891	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/644.sample	Sun Mar  7 21:54:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:39 MST 2021	[TOP SWAP DECIPH]	1.3729	-208.326980053554	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:40 MST 2021	[TOP SWAP DECIPH]	1.3084	-229.473345554598
+RESULT:	UNK	UNK	-208.3270	1	1	1.0000	2.6847	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6440.sample	Sun Mar  7 21:54:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:42 MST 2021	[TOP SWAP DECIPH]	0.4006	-190.931452627043	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:42 MST 2021	[TOP SWAP DECIPH]	0.4065	-223.041748309483
+RESULT:	UNK	UNK	-190.9315	1	1	1.0000	0.8106	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6441.sample	Sun Mar  7 21:54:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:43 MST 2021	[TOP SWAP DECIPH]	0.6577	-198.855183472738	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:43 MST 2021	[TOP SWAP DECIPH]	0.6592	-213.617046359949
+RESULT:	UNK	UNK	-198.8552	1	1	1.0000	1.3203	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6442.sample	Sun Mar  7 21:54:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:44 MST 2021	[TOP SWAP DECIPH]	2.0424	-225.743855071541	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:46 MST 2021	[TOP SWAP DECIPH]	2.1092	-225.47834192967	*
+RESULT:	UNK	UNK	-225.4783	1	1	1.0000	4.1552	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6443.sample	Sun Mar  7 21:54:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:48 MST 2021	[TOP SWAP DECIPH]	0.7944	-195.651792598635	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:49 MST 2021	[TOP SWAP DECIPH]	0.9516	-224.682215373962
+RESULT:	UNK	UNK	-195.6518	1	1	1.0000	1.7495	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6444.sample	Sun Mar  7 21:54:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:50 MST 2021	[TOP SWAP DECIPH]	0.6876	-199.441344696324	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:51 MST 2021	[TOP SWAP DECIPH]	0.7786	-225.995017413279
+RESULT:	UNK	UNK	-199.4413	1	1	1.0000	1.4698	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6445.sample	Sun Mar  7 21:54:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:51 MST 2021	[TOP SWAP DECIPH]	0.5247	-209.571149833515	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:52 MST 2021	[TOP SWAP DECIPH]	0.5657	-220.223223060143
+RESULT:	UNK	UNK	-209.5711	1	1	1.0000	1.0937	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6446.sample	Sun Mar  7 21:54:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:52 MST 2021	[TOP SWAP DECIPH]	0.6702	-199.929453239401	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:53 MST 2021	[TOP SWAP DECIPH]	0.7192	-230.155346555366
+RESULT:	UNK	UNK	-199.9295	1	1	1.0000	1.3930	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6447.sample	Sun Mar  7 21:54:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:54 MST 2021	[TOP SWAP DECIPH]	1.1886	-220.043966375395	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:55 MST 2021	[TOP SWAP DECIPH]	1.0774	-222.94061266711
+RESULT:	UNK	UNK	-220.0440	1	1	1.0000	2.2695	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6448.sample	Sun Mar  7 21:54:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:56 MST 2021	[TOP SWAP DECIPH]	1.3223	-214.145327543003	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:54:57 MST 2021	[TOP SWAP DECIPH]	1.3847	-225.347952635617
+RESULT:	UNK	UNK	-214.1453	1	1	1.0000	2.7108	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6449.sample	Sun Mar  7 21:54:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:54:59 MST 2021	[TOP SWAP DECIPH]	2.0400	-230.606050988985	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:01 MST 2021	[TOP SWAP DECIPH]	2.0776	-220.367139478575	*
+RESULT:	UNK	UNK	-220.3671	1	1	1.0000	4.1212	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/645.sample	Sun Mar  7 21:55:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:03 MST 2021	[TOP SWAP DECIPH]	1.6388	-214.830861727322	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:05 MST 2021	[TOP SWAP DECIPH]	1.5658	-225.767684486547
+RESULT:	UNK	UNK	-214.8309	1	1	1.0000	3.2082	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6450.sample	Sun Mar  7 21:55:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:06 MST 2021	[TOP SWAP DECIPH]	1.4779	-211.357822719327	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:08 MST 2021	[TOP SWAP DECIPH]	1.4388	-218.354475450759
+RESULT:	UNK	UNK	-211.3578	1	1	1.0000	2.9202	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6451.sample	Sun Mar  7 21:55:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:09 MST 2021	[TOP SWAP DECIPH]	0.2724	-196.838615241827	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:09 MST 2021	[TOP SWAP DECIPH]	0.2964	-214.815112501086
+RESULT:	UNK	UNK	-196.8386	1	1	1.0000	0.5723	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6452.sample	Sun Mar  7 21:55:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:10 MST 2021	[TOP SWAP DECIPH]	2.1880	-220.806968593032	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:12 MST 2021	[TOP SWAP DECIPH]	1.7224	-231.031518740234
+RESULT:	UNK	UNK	-220.8070	1	1	1.0000	3.9139	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6453.sample	Sun Mar  7 21:55:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:14 MST 2021	[TOP SWAP DECIPH]	0.3715	-191.60300132858	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:14 MST 2021	[TOP SWAP DECIPH]	0.4098	-220.237074660464
+RESULT:	UNK	UNK	-191.6030	1	1	1.0000	0.7848	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6454.sample	Sun Mar  7 21:55:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:14 MST 2021	[TOP SWAP DECIPH]	1.4690	-175.495963173199	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:16 MST 2021	[TOP SWAP DECIPH]	1.3985	-223.534648913493
+RESULT:	UNK	UNK	-175.4960	1	1	1.0000	2.8709	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6455.sample	Sun Mar  7 21:55:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:17 MST 2021	[TOP SWAP DECIPH]	0.6469	-198.864740902815	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:18 MST 2021	[TOP SWAP DECIPH]	0.6614	-223.982175781822
+RESULT:	UNK	UNK	-198.8647	1	1	1.0000	1.3118	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6456.sample	Sun Mar  7 21:55:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:19 MST 2021	[TOP SWAP DECIPH]	2.0566	-211.795453132434	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:21 MST 2021	[TOP SWAP DECIPH]	2.0582	-231.616868523935
+RESULT:	UNK	UNK	-211.7955	1	1	1.0000	4.1183	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6457.sample	Sun Mar  7 21:55:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:23 MST 2021	[TOP SWAP DECIPH]	1.1709	-180.436790924659	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:24 MST 2021	[TOP SWAP DECIPH]	1.0639	-215.106965581451
+RESULT:	UNK	UNK	-180.4368	1	1	1.0000	2.2386	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6458.sample	Sun Mar  7 21:55:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:25 MST 2021	[TOP SWAP DECIPH]	1.6646	-201.024207771215	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:27 MST 2021	[TOP SWAP DECIPH]	1.6806	-219.041001416739
+RESULT:	UNK	UNK	-201.0242	1	1	1.0000	3.3487	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6459.sample	Sun Mar  7 21:55:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:28 MST 2021	[TOP SWAP DECIPH]	0.8724	-205.095119075001	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:29 MST 2021	[TOP SWAP DECIPH]	0.8449	-220.677715777212
+RESULT:	UNK	UNK	-205.0951	1	1	1.0000	1.7208	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/646.sample	Sun Mar  7 21:55:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:30 MST 2021	[TOP SWAP DECIPH]	0.7109	-205.684207246136	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:31 MST 2021	[TOP SWAP DECIPH]	0.7305	-228.715525002843
+RESULT:	UNK	UNK	-205.6842	1	1	1.0000	1.4448	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6460.sample	Sun Mar  7 21:55:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:31 MST 2021	[TOP SWAP DECIPH]	0.8692	-215.231246036946	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:32 MST 2021	[TOP SWAP DECIPH]	0.8119	-226.902211666146
+RESULT:	UNK	UNK	-215.2312	1	1	1.0000	1.6845	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6461.sample	Sun Mar  7 21:55:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:33 MST 2021	[TOP SWAP DECIPH]	0.1946	-190.665028805556	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:33 MST 2021	[TOP SWAP DECIPH]	0.1952	-213.594030083349
+RESULT:	UNK	UNK	-190.6650	1	1	1.0000	0.3931	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6462.sample	Sun Mar  7 21:55:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:34 MST 2021	[TOP SWAP DECIPH]	2.0946	-225.702726248354	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:36 MST 2021	[TOP SWAP DECIPH]	2.1150	-228.522992154364
+RESULT:	UNK	UNK	-225.7027	1	1	1.0000	4.2129	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6463.sample	Sun Mar  7 21:55:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:38 MST 2021	[TOP SWAP DECIPH]	0.6706	-202.009465936088	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:38 MST 2021	[TOP SWAP DECIPH]	0.6974	-224.899052888278
+RESULT:	UNK	UNK	-202.0095	1	1	1.0000	1.3715	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6464.sample	Sun Mar  7 21:55:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:39 MST 2021	[TOP SWAP DECIPH]	1.9901	-236.749533468838	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:41 MST 2021	[TOP SWAP DECIPH]	2.1232	-224.445843205129	*
+RESULT:	UNK	UNK	-224.4458	1	1	1.0000	4.1168	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6465.sample	Sun Mar  7 21:55:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:43 MST 2021	[TOP SWAP DECIPH]	2.2257	-220.313629340309	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:45 MST 2021	[TOP SWAP DECIPH]	2.3757	-230.056633464895
+RESULT:	UNK	UNK	-220.3136	1	1	1.0000	4.6051	18
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6466.sample	Sun Mar  7 21:55:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:48 MST 2021	[TOP SWAP DECIPH]	1.4167	-189.937055155339	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:49 MST 2021	[TOP SWAP DECIPH]	1.4204	-219.366486521812
+RESULT:	UNK	UNK	-189.9371	1	1	1.0000	2.8406	20
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6467.sample	Sun Mar  7 21:55:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:51 MST 2021	[TOP SWAP DECIPH]	0.6360	-197.9990120901	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:51 MST 2021	[TOP SWAP DECIPH]	0.7151	-216.337896492657
+RESULT:	UNK	UNK	-197.9990	1	1	1.0000	1.3544	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6468.sample	Sun Mar  7 21:55:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:52 MST 2021	[TOP SWAP DECIPH]	2.0699	-221.408531107631	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:54 MST 2021	[TOP SWAP DECIPH]	1.9690	-227.718350415043
+RESULT:	UNK	UNK	-221.4085	1	1	1.0000	4.0426	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6469.sample	Sun Mar  7 21:55:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:56 MST 2021	[TOP SWAP DECIPH]	0.2016	-184.703851981131	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:56 MST 2021	[TOP SWAP DECIPH]	0.1983	-215.202893293044
+RESULT:	UNK	UNK	-184.7039	1	1	1.0000	0.4034	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/647.sample	Sun Mar  7 21:55:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:57 MST 2021	[TOP SWAP DECIPH]	0.5150	-192.308695693749	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:57 MST 2021	[TOP SWAP DECIPH]	0.5028	-226.701738349391
+RESULT:	UNK	UNK	-192.3087	1	1	1.0000	1.0210	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6470.sample	Sun Mar  7 21:55:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:58 MST 2021	[TOP SWAP DECIPH]	0.3642	-194.729136462737	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:58 MST 2021	[TOP SWAP DECIPH]	0.4132	-221.016550742119
+RESULT:	UNK	UNK	-194.7291	1	1	1.0000	0.7808	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6471.sample	Sun Mar  7 21:55:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:55:58 MST 2021	[TOP SWAP DECIPH]	1.0783	-215.414669764588	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:55:59 MST 2021	[TOP SWAP DECIPH]	1.1175	-226.029747388776
+RESULT:	UNK	UNK	-215.4147	1	1	1.0000	2.1993	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6472.sample	Sun Mar  7 21:56:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:01 MST 2021	[TOP SWAP DECIPH]	1.8378	-239.535085936733	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:02 MST 2021	[TOP SWAP DECIPH]	2.1916	-233.071385848881	*
+RESULT:	UNK	UNK	-233.0714	1	1	1.0000	4.0328	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6473.sample	Sun Mar  7 21:56:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:05 MST 2021	[TOP SWAP DECIPH]	1.2398	-207.662690999186	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:06 MST 2021	[TOP SWAP DECIPH]	1.3318	-222.655606717927
+RESULT:	UNK	UNK	-207.6627	1	1	1.0000	2.5753	7
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6474.sample	Sun Mar  7 21:56:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:07 MST 2021	[TOP SWAP DECIPH]	1.5613	-225.386521530562	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:09 MST 2021	[TOP SWAP DECIPH]	1.8091	-226.084897839736
+RESULT:	UNK	UNK	-225.3865	1	1	1.0000	3.3740	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6475.sample	Sun Mar  7 21:56:11 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:11 MST 2021	[TOP SWAP DECIPH]	2.0610	-235.756832377555	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:13 MST 2021	[TOP SWAP DECIPH]	2.0747	-235.798756497492
+RESULT:	UNK	UNK	-235.7568	1	1	1.0000	4.1392	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6476.sample	Sun Mar  7 21:56:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:15 MST 2021	[TOP SWAP DECIPH]	1.2177	-222.209006444474	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:16 MST 2021	[TOP SWAP DECIPH]	1.4612	-230.123296564363
+RESULT:	UNK	UNK	-222.2090	1	1	1.0000	2.6825	20
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6477.sample	Sun Mar  7 21:56:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:17 MST 2021	[TOP SWAP DECIPH]	1.1945	-247.613690745706	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:19 MST 2021	[TOP SWAP DECIPH]	1.2950	-233.901169149886	*
+RESULT:	UNK	UNK	-233.9012	1	1	1.0000	2.4931	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6478.sample	Sun Mar  7 21:56:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:20 MST 2021	[TOP SWAP DECIPH]	1.3220	-220.332116705011	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:21 MST 2021	[TOP SWAP DECIPH]	1.4602	-225.92011547841
+RESULT:	UNK	UNK	-220.3321	1	1	1.0000	2.7856	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6479.sample	Sun Mar  7 21:56:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:23 MST 2021	[TOP SWAP DECIPH]	0.3543	-192.451556253893	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:23 MST 2021	[TOP SWAP DECIPH]	0.3762	-224.221249318704
+RESULT:	UNK	UNK	-192.4516	1	1	1.0000	0.7339	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/648.sample	Sun Mar  7 21:56:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:23 MST 2021	[TOP SWAP DECIPH]	0.5032	-194.573138658145	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:24 MST 2021	[TOP SWAP DECIPH]	0.4818	-216.142638634865
+RESULT:	UNK	UNK	-194.5731	1	1	1.0000	0.9883	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6480.sample	Sun Mar  7 21:56:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:24 MST 2021	[TOP SWAP DECIPH]	0.3523	-201.671811699299	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:25 MST 2021	[TOP SWAP DECIPH]	0.3928	-213.254391193791
+RESULT:	UNK	UNK	-201.6718	1	1	1.0000	0.7483	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6481.sample	Sun Mar  7 21:56:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:25 MST 2021	[TOP SWAP DECIPH]	0.2908	-193.696928134911	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:25 MST 2021	[TOP SWAP DECIPH]	0.2806	-221.600874825303
+RESULT:	UNK	UNK	-193.6969	1	1	1.0000	0.5747	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6482.sample	Sun Mar  7 21:56:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:26 MST 2021	[TOP SWAP DECIPH]	0.5219	-208.303500982661	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:26 MST 2021	[TOP SWAP DECIPH]	0.5224	-226.511746689099
+RESULT:	UNK	UNK	-208.3035	1	1	1.0000	1.0476	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6483.sample	Sun Mar  7 21:56:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:27 MST 2021	[TOP SWAP DECIPH]	1.7691	-206.217107247518	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:29 MST 2021	[TOP SWAP DECIPH]	1.8264	-220.120207813429
+RESULT:	UNK	UNK	-206.2171	1	1	1.0000	3.5991	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6484.sample	Sun Mar  7 21:56:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:30 MST 2021	[TOP SWAP DECIPH]	1.6621	-229.441908619741	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:32 MST 2021	[TOP SWAP DECIPH]	1.8033	-229.45370477632
+RESULT:	UNK	UNK	-229.4419	1	1	1.0000	3.4687	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6485.sample	Sun Mar  7 21:56:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:34 MST 2021	[TOP SWAP DECIPH]	1.6215	-212.800381685879	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:35 MST 2021	[TOP SWAP DECIPH]	1.8897	-222.861840975856
+RESULT:	UNK	UNK	-212.8004	1	1	1.0000	3.5147	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6486.sample	Sun Mar  7 21:56:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:37 MST 2021	[TOP SWAP DECIPH]	0.7015	-204.247838997459	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:38 MST 2021	[TOP SWAP DECIPH]	0.7130	-231.876644923186
+RESULT:	UNK	UNK	-204.2478	1	1	1.0000	1.4180	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6487.sample	Sun Mar  7 21:56:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:39 MST 2021	[TOP SWAP DECIPH]	0.2024	-189.403950276499	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:39 MST 2021	[TOP SWAP DECIPH]	0.2280	-223.911977459268
+RESULT:	UNK	UNK	-189.4040	1	1	1.0000	0.4338	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6488.sample	Sun Mar  7 21:56:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:39 MST 2021	[TOP SWAP DECIPH]	0.1873	-181.130584453393	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:39 MST 2021	[TOP SWAP DECIPH]	0.2096	-222.049192796203
+RESULT:	UNK	UNK	-181.1306	1	1	1.0000	0.4001	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6489.sample	Sun Mar  7 21:56:40 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:40 MST 2021	[TOP SWAP DECIPH]	0.6668	-207.289584448344	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:40 MST 2021	[TOP SWAP DECIPH]	0.6673	-221.014144298576
+RESULT:	UNK	UNK	-207.2896	1	1	1.0000	1.3374	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/649.sample	Sun Mar  7 21:56:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:41 MST 2021	[TOP SWAP DECIPH]	3.3051	-246.930798974821	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:44 MST 2021	[TOP SWAP DECIPH]	3.6625	-230.979350372222	*
+RESULT:	UNK	UNK	-230.9794	1	1	1.0000	6.9710	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6490.sample	Sun Mar  7 21:56:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:48 MST 2021	[TOP SWAP DECIPH]	0.2713	-183.69892479077	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:48 MST 2021	[TOP SWAP DECIPH]	0.3028	-223.773617534057
+RESULT:	UNK	UNK	-183.6989	1	1	1.0000	0.5777	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6491.sample	Sun Mar  7 21:56:49 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:49 MST 2021	[TOP SWAP DECIPH]	1.9405	-221.608158351277	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:50 MST 2021	[TOP SWAP DECIPH]	1.9574	-226.716511875213
+RESULT:	UNK	UNK	-221.6082	1	1	1.0000	3.9013	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6492.sample	Sun Mar  7 21:56:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:52 MST 2021	[TOP SWAP DECIPH]	1.9288	-243.876378396604	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:54 MST 2021	[TOP SWAP DECIPH]	2.0958	-231.087777691239	*
+RESULT:	UNK	UNK	-231.0878	1	1	1.0000	4.0283	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6493.sample	Sun Mar  7 21:56:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:56 MST 2021	[TOP SWAP DECIPH]	0.7278	-212.341397915565	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:56:57 MST 2021	[TOP SWAP DECIPH]	0.6899	-218.659955727151
+RESULT:	UNK	UNK	-212.3414	1	1	1.0000	1.4215	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6494.sample	Sun Mar  7 21:56:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:56:58 MST 2021	[TOP SWAP DECIPH]	2.0825	-214.955823744554	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:00 MST 2021	[TOP SWAP DECIPH]	2.3239	-226.947115744813
+RESULT:	UNK	UNK	-214.9558	1	1	1.0000	4.4100	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6495.sample	Sun Mar  7 21:57:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:57:02 MST 2021	[TOP SWAP DECIPH]	0.8746	-204.352035753078	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:03 MST 2021	[TOP SWAP DECIPH]	0.8612	-234.090976062394
+RESULT:	UNK	UNK	-204.3520	1	1	1.0000	1.7395	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6496.sample	Sun Mar  7 21:57:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:57:04 MST 2021	[TOP SWAP DECIPH]	0.8307	-208.614549163457	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:05 MST 2021	[TOP SWAP DECIPH]	0.8115	-221.454531697639
+RESULT:	UNK	UNK	-208.6145	1	1	1.0000	1.6460	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6497.sample	Sun Mar  7 21:57:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:57:06 MST 2021	[TOP SWAP DECIPH]	1.4007	-245.4214238301	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:07 MST 2021	[TOP SWAP DECIPH]	1.3861	-232.123383630367	*
+RESULT:	UNK	UNK	-232.1234	1	1	1.0000	2.7905	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6498.sample	Sun Mar  7 21:57:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:57:08 MST 2021	[TOP SWAP DECIPH]	2.0180	-230.512659368818	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:11 MST 2021	[TOP SWAP DECIPH]	1.9555	-226.178237493431	*
+RESULT:	UNK	UNK	-226.1782	1	1	1.0000	3.9773	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingElgar/6499.sample	Sun Mar  7 21:57:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/el.tra' at Sun Mar  7 21:57:12 MST 2021	[TOP SWAP DECIPH]	0.7422	-203.377836351893	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-elgar/eng.tra' at Sun Mar  7 21:57:13 MST 2021	[TOP SWAP DECIPH]	0.7143	-220.946061987878
+RESULT:	UNK	UNK	-203.3778	1	1	1.0000	1.4602	0
+
+CIPHERS: 300	CORRECT: 300	ACCURACY: 1.0000	MEAN RECIPROCAL RANK: 1.0000	MEAN CPU TIME: 3.8369

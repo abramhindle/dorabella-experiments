@@ -1,0 +1,1218 @@
+Starting language identification (program version: 15-07-03).
+Restarts: 20
+Greedy search iterations constant: 0
+Greedy search iterations factor: 5
+Limit swaps to best ngrams: 10
+Old files: 0
+Special: 0
+DSLCC files? 0
+Decipherment oracle online? 0
+Ciphertext file(s): ../ClassifyingTextAndMusic/TestSamples/TestingEng/* (../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned1.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned10.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned100.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned101.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned102.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned103.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned104.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned105.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned106.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned107.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned108.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned109.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned11.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned110.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned111.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned112.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned113.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned114.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned115.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned116.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned117.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned118.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned119.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned12.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned120.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned121.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned122.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned123.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned124.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned125.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned126.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned127.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned128.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned129.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned13.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned130.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned131.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned132.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned133.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned134.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned135.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned136.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned137.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned138.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned139.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned14.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned140.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned141.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned142.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned143.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned144.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned145.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned146.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned147.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned148.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned149.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned15.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned150.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned151.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned152.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned153.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned154.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned155.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned156.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned157.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned158.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned159.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned16.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned160.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned161.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned162.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned163.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned164.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned165.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned166.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned167.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned168.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned169.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned17.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned170.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned171.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned172.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned173.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned174.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned175.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned176.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned177.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned178.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned179.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned18.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned180.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned181.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned182.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned183.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned184.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned185.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned186.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned187.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned188.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned189.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned19.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned190.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned191.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned192.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned193.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned194.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned195.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned196.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned197.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned198.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned199.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned2.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned20.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned200.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned201.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned202.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned203.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned204.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned205.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned206.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned207.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned208.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned209.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned21.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned210.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned211.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned212.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned213.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned214.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned215.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned216.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned217.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned218.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned219.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned22.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned220.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned221.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned222.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned223.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned224.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned225.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned226.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned227.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned228.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned229.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned23.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned230.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned231.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned232.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned233.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned234.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned235.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned236.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned237.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned238.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned239.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned24.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned240.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned241.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned242.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned243.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned244.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned245.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned246.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned247.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned248.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned249.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned25.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned250.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned251.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned252.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned253.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned254.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned255.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned256.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned257.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned258.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned259.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned26.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned260.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned261.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned262.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned263.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned264.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned265.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned266.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned267.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned268.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned269.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned27.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned270.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned271.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned272.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned273.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned274.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned275.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned276.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned277.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned278.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned279.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned28.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned280.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned281.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned282.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned283.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned284.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned285.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned286.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned287.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned288.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned289.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned29.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned290.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned291.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned292.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned293.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned294.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned295.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned296.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned297.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned298.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned299.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned3.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned30.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned300.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned31.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned32.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned33.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned34.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned35.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned36.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned37.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned38.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned39.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned4.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned40.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned41.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned42.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned43.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned44.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned45.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned46.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned47.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned48.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned49.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned5.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned50.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned51.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned52.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned53.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned54.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned55.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned56.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned57.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned58.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned59.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned6.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned60.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned61.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned62.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned63.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned64.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned65.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned66.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned67.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned68.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned69.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned7.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned70.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned71.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned72.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned73.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned74.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned75.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned76.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned77.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned78.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned79.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned8.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned80.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned81.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned82.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned83.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned84.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned85.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned86.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned87.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned88.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned89.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned9.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned90.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned91.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned92.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned93.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned94.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned95.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned96.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned97.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned98.sample ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned99.sample)
+
+Plaintext file(s): ../ClassifyingTextAndMusic/TrainingData/eng-bach/* (../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra ../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra)
+
+
+---
+
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned1.sample	Sun Mar  7 21:38:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:01 MST 2021	[TOP SWAP DECIPH]	2.7539	-247.698166826469	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:04 MST 2021	[TOP SWAP DECIPH]	2.9380	-218.615200299901	*
+RESULT:	UNK	UNK	-218.6152	1	1	1.0000	5.7110	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned10.sample	Sun Mar  7 21:38:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:07 MST 2021	[TOP SWAP DECIPH]	2.9976	-231.755082215004	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:10 MST 2021	[TOP SWAP DECIPH]	2.8887	-218.283835430434	*
+RESULT:	UNK	UNK	-218.2838	1	1	1.0000	5.8899	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned100.sample	Sun Mar  7 21:38:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:13 MST 2021	[TOP SWAP DECIPH]	1.2648	-239.788276754345	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:14 MST 2021	[TOP SWAP DECIPH]	1.4487	-224.040956640268	*
+RESULT:	UNK	UNK	-224.0410	1	1	1.0000	2.7169	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned101.sample	Sun Mar  7 21:38:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:16 MST 2021	[TOP SWAP DECIPH]	4.0689	-236.45654454918	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:20 MST 2021	[TOP SWAP DECIPH]	4.3135	-228.462078405026	*
+RESULT:	UNK	UNK	-228.4621	1	1	1.0000	8.3858	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned102.sample	Sun Mar  7 21:38:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:24 MST 2021	[TOP SWAP DECIPH]	1.5700	-242.970841862146	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:26 MST 2021	[TOP SWAP DECIPH]	1.6536	-211.226480623151	*
+RESULT:	UNK	UNK	-211.2265	1	1	1.0000	3.2270	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned103.sample	Sun Mar  7 21:38:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:27 MST 2021	[TOP SWAP DECIPH]	1.9280	-244.315430748023	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:29 MST 2021	[TOP SWAP DECIPH]	2.0494	-204.130899899852	*
+RESULT:	UNK	UNK	-204.1309	1	1	1.0000	3.9809	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned104.sample	Sun Mar  7 21:38:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:31 MST 2021	[TOP SWAP DECIPH]	2.9886	-251.131734360047	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:34 MST 2021	[TOP SWAP DECIPH]	2.6195	-223.346692843289	*
+RESULT:	UNK	UNK	-223.3467	1	1	1.0000	5.6116	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned105.sample	Sun Mar  7 21:38:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:37 MST 2021	[TOP SWAP DECIPH]	2.9440	-250.488658362581	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:40 MST 2021	[TOP SWAP DECIPH]	3.3533	-240.009859798707	*
+RESULT:	UNK	UNK	-240.0099	1	1	1.0000	6.3013	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned106.sample	Sun Mar  7 21:38:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:43 MST 2021	[TOP SWAP DECIPH]	3.5778	-243.990970161609	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:47 MST 2021	[TOP SWAP DECIPH]	3.8092	-224.322702641566	*
+RESULT:	UNK	UNK	-224.3227	1	1	1.0000	7.3907	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned107.sample	Sun Mar  7 21:38:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:51 MST 2021	[TOP SWAP DECIPH]	3.0326	-253.367534537311	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:54 MST 2021	[TOP SWAP DECIPH]	3.2964	-228.074656099667	*
+RESULT:	UNK	UNK	-228.0747	1	1	1.0000	6.3322	7
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned108.sample	Sun Mar  7 21:38:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:38:57 MST 2021	[TOP SWAP DECIPH]	1.9859	-246.953235081053	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:38:59 MST 2021	[TOP SWAP DECIPH]	2.1229	-227.162747380657	*
+RESULT:	UNK	UNK	-227.1627	1	1	1.0000	4.1124	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned109.sample	Sun Mar  7 21:39:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:01 MST 2021	[TOP SWAP DECIPH]	2.4764	-239.439226762876	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:04 MST 2021	[TOP SWAP DECIPH]	2.5221	-229.982959961739	*
+RESULT:	UNK	UNK	-229.9830	1	1	1.0000	5.0020	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned11.sample	Sun Mar  7 21:39:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:06 MST 2021	[TOP SWAP DECIPH]	3.0933	-242.591499486337	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:09 MST 2021	[TOP SWAP DECIPH]	2.6081	-215.453297424515	*
+RESULT:	UNK	UNK	-215.4533	1	1	1.0000	5.7049	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned110.sample	Sun Mar  7 21:39:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:12 MST 2021	[TOP SWAP DECIPH]	3.2056	-254.158128451766	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:15 MST 2021	[TOP SWAP DECIPH]	4.0633	-236.625116799774	*
+RESULT:	UNK	UNK	-236.6251	1	1	1.0000	7.2724	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned111.sample	Sun Mar  7 21:39:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:19 MST 2021	[TOP SWAP DECIPH]	3.3826	-247.162825278051	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:22 MST 2021	[TOP SWAP DECIPH]	3.7477	-212.669159773609	*
+RESULT:	UNK	UNK	-212.6692	1	1	1.0000	7.1336	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned112.sample	Sun Mar  7 21:39:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:26 MST 2021	[TOP SWAP DECIPH]	2.8497	-248.833203221415	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:29 MST 2021	[TOP SWAP DECIPH]	3.1645	-225.956281547309	*
+RESULT:	UNK	UNK	-225.9563	1	1	1.0000	6.0177	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned113.sample	Sun Mar  7 21:39:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:32 MST 2021	[TOP SWAP DECIPH]	2.0922	-248.82194113009	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:34 MST 2021	[TOP SWAP DECIPH]	2.1224	-212.626755796196	*
+RESULT:	UNK	UNK	-212.6268	1	1	1.0000	4.2181	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned114.sample	Sun Mar  7 21:39:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:36 MST 2021	[TOP SWAP DECIPH]	1.5449	-239.447277885398	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:38 MST 2021	[TOP SWAP DECIPH]	1.6545	-222.941991060892	*
+RESULT:	UNK	UNK	-222.9420	1	1	1.0000	3.2030	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned115.sample	Sun Mar  7 21:39:40 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:40 MST 2021	[TOP SWAP DECIPH]	3.8050	-247.834028203105	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:44 MST 2021	[TOP SWAP DECIPH]	4.2653	-228.119435593536	*
+RESULT:	UNK	UNK	-228.1194	1	1	1.0000	8.0740	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned116.sample	Sun Mar  7 21:39:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:48 MST 2021	[TOP SWAP DECIPH]	2.4595	-246.184351995075	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:50 MST 2021	[TOP SWAP DECIPH]	2.5785	-235.318701720172	*
+RESULT:	UNK	UNK	-235.3187	1	1	1.0000	5.0415	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned117.sample	Sun Mar  7 21:39:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:53 MST 2021	[TOP SWAP DECIPH]	2.0475	-245.303915738473	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:39:55 MST 2021	[TOP SWAP DECIPH]	2.1081	-219.131510087943	*
+RESULT:	UNK	UNK	-219.1315	1	1	1.0000	4.1591	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned118.sample	Sun Mar  7 21:39:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:39:57 MST 2021	[TOP SWAP DECIPH]	3.0127	-246.561818280657	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:00 MST 2021	[TOP SWAP DECIPH]	3.1608	-235.297547174097	*
+RESULT:	UNK	UNK	-235.2975	1	1	1.0000	6.1771	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned119.sample	Sun Mar  7 21:40:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:03 MST 2021	[TOP SWAP DECIPH]	2.7497	-252.914276190502	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:06 MST 2021	[TOP SWAP DECIPH]	3.2766	-205.354972920576	*
+RESULT:	UNK	UNK	-205.3550	1	1	1.0000	6.0299	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned12.sample	Sun Mar  7 21:40:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:09 MST 2021	[TOP SWAP DECIPH]	1.6666	-248.199183048549	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:11 MST 2021	[TOP SWAP DECIPH]	1.7050	-228.224314039724	*
+RESULT:	UNK	UNK	-228.2243	1	1	1.0000	3.3752	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned120.sample	Sun Mar  7 21:40:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:13 MST 2021	[TOP SWAP DECIPH]	2.5771	-247.176909462752	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:15 MST 2021	[TOP SWAP DECIPH]	2.5609	-238.835221991269	*
+RESULT:	UNK	UNK	-238.8352	1	1	1.0000	5.1416	16
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned121.sample	Sun Mar  7 21:40:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:18 MST 2021	[TOP SWAP DECIPH]	2.8022	-241.859023614598	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:21 MST 2021	[TOP SWAP DECIPH]	2.9711	-225.611210686109	*
+RESULT:	UNK	UNK	-225.6112	1	1	1.0000	5.7769	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned122.sample	Sun Mar  7 21:40:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:24 MST 2021	[TOP SWAP DECIPH]	3.1917	-247.534776652724	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:27 MST 2021	[TOP SWAP DECIPH]	3.8019	-227.69921838227	*
+RESULT:	UNK	UNK	-227.6992	1	1	1.0000	6.9971	15
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned123.sample	Sun Mar  7 21:40:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:31 MST 2021	[TOP SWAP DECIPH]	4.1693	-249.813627630612	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:35 MST 2021	[TOP SWAP DECIPH]	4.5627	-219.892956982304	*
+RESULT:	UNK	UNK	-219.8930	1	1	1.0000	8.7356	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned124.sample	Sun Mar  7 21:40:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:39 MST 2021	[TOP SWAP DECIPH]	2.4521	-251.411419366208	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:42 MST 2021	[TOP SWAP DECIPH]	2.6708	-217.198292989533	*
+RESULT:	UNK	UNK	-217.1983	1	1	1.0000	5.1265	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned125.sample	Sun Mar  7 21:40:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:44 MST 2021	[TOP SWAP DECIPH]	1.8187	-241.852523097065	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:46 MST 2021	[TOP SWAP DECIPH]	2.0515	-215.970251000084	*
+RESULT:	UNK	UNK	-215.9703	1	1	1.0000	3.8738	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned126.sample	Sun Mar  7 21:40:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:48 MST 2021	[TOP SWAP DECIPH]	2.9183	-246.460188701934	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:51 MST 2021	[TOP SWAP DECIPH]	2.8308	-221.522198443673	*
+RESULT:	UNK	UNK	-221.5222	1	1	1.0000	5.7529	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned127.sample	Sun Mar  7 21:40:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:54 MST 2021	[TOP SWAP DECIPH]	1.9952	-239.094863002305	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:40:56 MST 2021	[TOP SWAP DECIPH]	2.2522	-219.618012673407	*
+RESULT:	UNK	UNK	-219.6180	1	1	1.0000	4.2520	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned128.sample	Sun Mar  7 21:40:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:40:58 MST 2021	[TOP SWAP DECIPH]	2.3563	-250.033816115112	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:01 MST 2021	[TOP SWAP DECIPH]	2.4681	-224.713062775309	*
+RESULT:	UNK	UNK	-224.7131	1	1	1.0000	4.8284	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned129.sample	Sun Mar  7 21:41:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:03 MST 2021	[TOP SWAP DECIPH]	2.4604	-250.564316669339	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:06 MST 2021	[TOP SWAP DECIPH]	2.4536	-238.680816506787	*
+RESULT:	UNK	UNK	-238.6808	1	1	1.0000	4.9176	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned13.sample	Sun Mar  7 21:41:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:08 MST 2021	[TOP SWAP DECIPH]	3.1079	-250.499212895212	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:11 MST 2021	[TOP SWAP DECIPH]	3.0708	-220.345913328292	*
+RESULT:	UNK	UNK	-220.3459	1	1	1.0000	6.1822	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned130.sample	Sun Mar  7 21:41:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:14 MST 2021	[TOP SWAP DECIPH]	1.8136	-237.759809818843	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:16 MST 2021	[TOP SWAP DECIPH]	1.5416	-221.206880069728	*
+RESULT:	UNK	UNK	-221.2069	1	1	1.0000	3.3590	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned131.sample	Sun Mar  7 21:41:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:18 MST 2021	[TOP SWAP DECIPH]	1.6459	-246.244396753437	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:19 MST 2021	[TOP SWAP DECIPH]	1.6669	-233.117012013293	*
+RESULT:	UNK	UNK	-233.1170	1	1	1.0000	3.3164	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned132.sample	Sun Mar  7 21:41:21 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:21 MST 2021	[TOP SWAP DECIPH]	1.9094	-238.616079894168	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:23 MST 2021	[TOP SWAP DECIPH]	2.1693	-224.923782765764	*
+RESULT:	UNK	UNK	-224.9238	1	1	1.0000	4.0823	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned133.sample	Sun Mar  7 21:41:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:25 MST 2021	[TOP SWAP DECIPH]	3.4109	-235.086360490123	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:28 MST 2021	[TOP SWAP DECIPH]	3.7091	-215.027027132562	*
+RESULT:	UNK	UNK	-215.0270	1	1	1.0000	7.1236	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned134.sample	Sun Mar  7 21:41:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:32 MST 2021	[TOP SWAP DECIPH]	1.5475	-248.503875236684	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:34 MST 2021	[TOP SWAP DECIPH]	1.8201	-213.130978486848	*
+RESULT:	UNK	UNK	-213.1310	1	1	1.0000	3.3712	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned135.sample	Sun Mar  7 21:41:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:36 MST 2021	[TOP SWAP DECIPH]	2.8517	-245.833647063992	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:38 MST 2021	[TOP SWAP DECIPH]	3.3524	-232.998277877573	*
+RESULT:	UNK	UNK	-232.9983	1	1	1.0000	6.2077	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned136.sample	Sun Mar  7 21:41:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:42 MST 2021	[TOP SWAP DECIPH]	2.9338	-237.799408456551	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:45 MST 2021	[TOP SWAP DECIPH]	3.2811	-233.077318575474	*
+RESULT:	UNK	UNK	-233.0773	1	1	1.0000	6.2196	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned137.sample	Sun Mar  7 21:41:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:48 MST 2021	[TOP SWAP DECIPH]	1.4096	-254.124220431392	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:49 MST 2021	[TOP SWAP DECIPH]	1.8073	-227.495814737313	*
+RESULT:	UNK	UNK	-227.4958	1	1	1.0000	3.2207	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned138.sample	Sun Mar  7 21:41:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:51 MST 2021	[TOP SWAP DECIPH]	2.5308	-252.057304101767	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:54 MST 2021	[TOP SWAP DECIPH]	2.6910	-209.714488828693	*
+RESULT:	UNK	UNK	-209.7145	1	1	1.0000	5.2253	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned139.sample	Sun Mar  7 21:41:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:41:56 MST 2021	[TOP SWAP DECIPH]	2.2545	-248.884744716081	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:41:59 MST 2021	[TOP SWAP DECIPH]	2.7430	-219.81801498871	*
+RESULT:	UNK	UNK	-219.8180	1	1	1.0000	5.0010	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned14.sample	Sun Mar  7 21:42:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:01 MST 2021	[TOP SWAP DECIPH]	3.9182	-250.577657458839	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:05 MST 2021	[TOP SWAP DECIPH]	4.1815	-229.135682348642	*
+RESULT:	UNK	UNK	-229.1357	1	1	1.0000	8.1033	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned140.sample	Sun Mar  7 21:42:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:10 MST 2021	[TOP SWAP DECIPH]	2.9328	-238.70600397493	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:13 MST 2021	[TOP SWAP DECIPH]	3.1740	-222.101577462222	*
+RESULT:	UNK	UNK	-222.1016	1	1	1.0000	6.1104	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned141.sample	Sun Mar  7 21:42:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:16 MST 2021	[TOP SWAP DECIPH]	1.6149	-248.503041818993	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:17 MST 2021	[TOP SWAP DECIPH]	1.5791	-231.327577720741	*
+RESULT:	UNK	UNK	-231.3276	1	1	1.0000	3.1977	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned142.sample	Sun Mar  7 21:42:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:19 MST 2021	[TOP SWAP DECIPH]	3.1563	-245.626171232141	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:22 MST 2021	[TOP SWAP DECIPH]	3.5936	-200.861914616857	*
+RESULT:	UNK	UNK	-200.8619	1	1	1.0000	6.7547	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned143.sample	Sun Mar  7 21:42:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:26 MST 2021	[TOP SWAP DECIPH]	1.8066	-248.607078094555	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:28 MST 2021	[TOP SWAP DECIPH]	2.2189	-225.844899311236	*
+RESULT:	UNK	UNK	-225.8449	1	1	1.0000	4.0292	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned144.sample	Sun Mar  7 21:42:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:30 MST 2021	[TOP SWAP DECIPH]	2.3149	-246.416958912212	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:32 MST 2021	[TOP SWAP DECIPH]	2.5213	-218.267059327577	*
+RESULT:	UNK	UNK	-218.2671	1	1	1.0000	4.8399	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned145.sample	Sun Mar  7 21:42:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:35 MST 2021	[TOP SWAP DECIPH]	3.1969	-250.127980139434	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:38 MST 2021	[TOP SWAP DECIPH]	3.5438	-239.157011237518	*
+RESULT:	UNK	UNK	-239.1570	1	1	1.0000	6.7444	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned146.sample	Sun Mar  7 21:42:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:41 MST 2021	[TOP SWAP DECIPH]	2.8899	-248.05578036792	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:44 MST 2021	[TOP SWAP DECIPH]	3.1456	-209.855587509045	*
+RESULT:	UNK	UNK	-209.8556	1	1	1.0000	6.0393	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned147.sample	Sun Mar  7 21:42:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:47 MST 2021	[TOP SWAP DECIPH]	2.4671	-239.434357803657	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:50 MST 2021	[TOP SWAP DECIPH]	2.5134	-225.704115595117	*
+RESULT:	UNK	UNK	-225.7041	1	1	1.0000	4.9844	11
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned148.sample	Sun Mar  7 21:42:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:52 MST 2021	[TOP SWAP DECIPH]	2.6078	-241.852244478051	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:42:55 MST 2021	[TOP SWAP DECIPH]	2.9142	-230.661086418663	*
+RESULT:	UNK	UNK	-230.6611	1	1	1.0000	5.5258	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned149.sample	Sun Mar  7 21:42:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:42:58 MST 2021	[TOP SWAP DECIPH]	2.4166	-240.630853215385	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:00 MST 2021	[TOP SWAP DECIPH]	2.5029	-225.529059666382	*
+RESULT:	UNK	UNK	-225.5291	1	1	1.0000	4.9233	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned15.sample	Sun Mar  7 21:43:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:03 MST 2021	[TOP SWAP DECIPH]	2.3674	-251.790858598974	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:05 MST 2021	[TOP SWAP DECIPH]	2.3725	-226.773145832969	*
+RESULT:	UNK	UNK	-226.7731	1	1	1.0000	4.7435	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned150.sample	Sun Mar  7 21:43:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:08 MST 2021	[TOP SWAP DECIPH]	1.6332	-245.434796567022	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:09 MST 2021	[TOP SWAP DECIPH]	1.4859	-220.310903232755	*
+RESULT:	UNK	UNK	-220.3109	1	1	1.0000	3.1228	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned151.sample	Sun Mar  7 21:43:11 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:11 MST 2021	[TOP SWAP DECIPH]	2.1647	-254.185711893692	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:13 MST 2021	[TOP SWAP DECIPH]	2.7790	-220.440946723308	*
+RESULT:	UNK	UNK	-220.4409	1	1	1.0000	4.9474	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned152.sample	Sun Mar  7 21:43:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:16 MST 2021	[TOP SWAP DECIPH]	4.0346	-247.6421961336	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:20 MST 2021	[TOP SWAP DECIPH]	4.1809	-221.112218145352	*
+RESULT:	UNK	UNK	-221.1122	1	1	1.0000	8.2193	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned153.sample	Sun Mar  7 21:43:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:24 MST 2021	[TOP SWAP DECIPH]	1.9640	-238.657392936294	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:26 MST 2021	[TOP SWAP DECIPH]	2.1422	-217.274466359757	*
+RESULT:	UNK	UNK	-217.2745	1	1	1.0000	4.1099	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned154.sample	Sun Mar  7 21:43:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:28 MST 2021	[TOP SWAP DECIPH]	3.2679	-242.532350108016	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:31 MST 2021	[TOP SWAP DECIPH]	3.7122	-217.228709768384	*
+RESULT:	UNK	UNK	-217.2287	1	1	1.0000	6.9839	15
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned155.sample	Sun Mar  7 21:43:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:35 MST 2021	[TOP SWAP DECIPH]	1.7134	-243.014300868757	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:37 MST 2021	[TOP SWAP DECIPH]	1.8445	-215.99194077764	*
+RESULT:	UNK	UNK	-215.9919	1	1	1.0000	3.5617	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned156.sample	Sun Mar  7 21:43:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:39 MST 2021	[TOP SWAP DECIPH]	2.6431	-235.695986648849	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:41 MST 2021	[TOP SWAP DECIPH]	3.2337	-219.57796050246	*
+RESULT:	UNK	UNK	-219.5780	1	1	1.0000	5.8806	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned157.sample	Sun Mar  7 21:43:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:44 MST 2021	[TOP SWAP DECIPH]	2.4558	-247.043724568261	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:47 MST 2021	[TOP SWAP DECIPH]	2.7733	-226.552907760137	*
+RESULT:	UNK	UNK	-226.5529	1	1	1.0000	5.2330	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned158.sample	Sun Mar  7 21:43:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:50 MST 2021	[TOP SWAP DECIPH]	3.0690	-256.085999288613	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:53 MST 2021	[TOP SWAP DECIPH]	3.3020	-230.929223147576	*
+RESULT:	UNK	UNK	-230.9292	1	1	1.0000	6.3752	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned159.sample	Sun Mar  7 21:43:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:43:56 MST 2021	[TOP SWAP DECIPH]	2.5739	-242.67913970302	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:43:59 MST 2021	[TOP SWAP DECIPH]	2.6030	-203.492153237631	*
+RESULT:	UNK	UNK	-203.4922	1	1	1.0000	5.1808	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned16.sample	Sun Mar  7 21:44:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:01 MST 2021	[TOP SWAP DECIPH]	1.9399	-250.576217853585	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:03 MST 2021	[TOP SWAP DECIPH]	2.2100	-201.357864493426	*
+RESULT:	UNK	UNK	-201.3579	1	1	1.0000	4.1538	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned160.sample	Sun Mar  7 21:44:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:05 MST 2021	[TOP SWAP DECIPH]	2.3075	-254.307660235124	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:08 MST 2021	[TOP SWAP DECIPH]	2.5661	-218.573725362536	*
+RESULT:	UNK	UNK	-218.5737	1	1	1.0000	4.8774	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned161.sample	Sun Mar  7 21:44:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:10 MST 2021	[TOP SWAP DECIPH]	2.5320	-251.166123544361	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:13 MST 2021	[TOP SWAP DECIPH]	2.5734	-220.15894933817	*
+RESULT:	UNK	UNK	-220.1589	1	1	1.0000	5.1090	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned162.sample	Sun Mar  7 21:44:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:15 MST 2021	[TOP SWAP DECIPH]	1.2655	-227.349477338019	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:17 MST 2021	[TOP SWAP DECIPH]	1.4542	-232.542043889442
+RESULT:	UNK	UNK	-227.3495	1	1	1.0000	2.7233	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned163.sample	Sun Mar  7 21:44:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:18 MST 2021	[TOP SWAP DECIPH]	2.8184	-248.104513099631	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:21 MST 2021	[TOP SWAP DECIPH]	3.1521	-231.371606272917	*
+RESULT:	UNK	UNK	-231.3716	1	1	1.0000	5.9741	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned164.sample	Sun Mar  7 21:44:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:24 MST 2021	[TOP SWAP DECIPH]	2.2074	-246.866784195806	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:26 MST 2021	[TOP SWAP DECIPH]	2.4462	-230.789960179392	*
+RESULT:	UNK	UNK	-230.7900	1	1	1.0000	4.6575	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned165.sample	Sun Mar  7 21:44:29 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:29 MST 2021	[TOP SWAP DECIPH]	3.3168	-254.775395856738	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:32 MST 2021	[TOP SWAP DECIPH]	3.7620	-213.002966587721	*
+RESULT:	UNK	UNK	-213.0030	1	1	1.0000	7.0825	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned166.sample	Sun Mar  7 21:44:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:36 MST 2021	[TOP SWAP DECIPH]	2.6614	-240.048071844388	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:39 MST 2021	[TOP SWAP DECIPH]	2.6045	-225.775458369759	*
+RESULT:	UNK	UNK	-225.7755	1	1	1.0000	5.2695	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned167.sample	Sun Mar  7 21:44:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:41 MST 2021	[TOP SWAP DECIPH]	3.2556	-251.914892701779	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:44 MST 2021	[TOP SWAP DECIPH]	4.0162	-221.625700679217	*
+RESULT:	UNK	UNK	-221.6257	1	1	1.0000	7.2757	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned168.sample	Sun Mar  7 21:44:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:48 MST 2021	[TOP SWAP DECIPH]	2.7944	-229.15669285242	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:51 MST 2021	[TOP SWAP DECIPH]	3.2015	-209.994892877573	*
+RESULT:	UNK	UNK	-209.9949	1	1	1.0000	5.9997	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned169.sample	Sun Mar  7 21:44:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:54 MST 2021	[TOP SWAP DECIPH]	2.0772	-237.537239961961	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:44:57 MST 2021	[TOP SWAP DECIPH]	2.1859	-219.985881336789	*
+RESULT:	UNK	UNK	-219.9859	1	1	1.0000	4.2667	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned17.sample	Sun Mar  7 21:44:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:44:59 MST 2021	[TOP SWAP DECIPH]	2.2170	-245.163153186429	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:01 MST 2021	[TOP SWAP DECIPH]	2.4858	-231.938771007222	*
+RESULT:	UNK	UNK	-231.9388	1	1	1.0000	4.7065	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned170.sample	Sun Mar  7 21:45:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:03 MST 2021	[TOP SWAP DECIPH]	2.1170	-230.852990495067	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:06 MST 2021	[TOP SWAP DECIPH]	2.1340	-214.832723579163	*
+RESULT:	UNK	UNK	-214.8327	1	1	1.0000	4.2549	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned171.sample	Sun Mar  7 21:45:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:08 MST 2021	[TOP SWAP DECIPH]	2.0108	-238.982752297154	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:10 MST 2021	[TOP SWAP DECIPH]	2.1106	-226.125511632843	*
+RESULT:	UNK	UNK	-226.1255	1	1	1.0000	4.1251	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned172.sample	Sun Mar  7 21:45:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:12 MST 2021	[TOP SWAP DECIPH]	3.4882	-240.37442602301	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:15 MST 2021	[TOP SWAP DECIPH]	3.4805	-211.30173146397	*
+RESULT:	UNK	UNK	-211.3017	1	1	1.0000	6.9724	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned173.sample	Sun Mar  7 21:45:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:19 MST 2021	[TOP SWAP DECIPH]	1.6941	-239.380301226132	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:21 MST 2021	[TOP SWAP DECIPH]	1.7971	-215.732666610853	*
+RESULT:	UNK	UNK	-215.7327	1	1	1.0000	3.4951	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned174.sample	Sun Mar  7 21:45:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:22 MST 2021	[TOP SWAP DECIPH]	1.9826	-229.480199368595	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:24 MST 2021	[TOP SWAP DECIPH]	2.2484	-221.068995343706	*
+RESULT:	UNK	UNK	-221.0690	1	1	1.0000	4.2349	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned175.sample	Sun Mar  7 21:45:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:27 MST 2021	[TOP SWAP DECIPH]	2.7675	-247.552154745263	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:29 MST 2021	[TOP SWAP DECIPH]	2.9716	-229.688505063256	*
+RESULT:	UNK	UNK	-229.6885	1	1	1.0000	5.7430	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned176.sample	Sun Mar  7 21:45:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:32 MST 2021	[TOP SWAP DECIPH]	2.1785	-247.793354854375	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:35 MST 2021	[TOP SWAP DECIPH]	2.5470	-207.854865222565	*
+RESULT:	UNK	UNK	-207.8549	1	1	1.0000	4.7294	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned177.sample	Sun Mar  7 21:45:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:37 MST 2021	[TOP SWAP DECIPH]	2.6148	-244.419546668405	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:40 MST 2021	[TOP SWAP DECIPH]	3.3115	-216.877137344029	*
+RESULT:	UNK	UNK	-216.8771	1	1	1.0000	5.9301	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned178.sample	Sun Mar  7 21:45:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:43 MST 2021	[TOP SWAP DECIPH]	2.4733	-239.467524341996	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:45 MST 2021	[TOP SWAP DECIPH]	2.5871	-234.509742404467	*
+RESULT:	UNK	UNK	-234.5097	1	1	1.0000	5.0645	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned179.sample	Sun Mar  7 21:45:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:48 MST 2021	[TOP SWAP DECIPH]	3.9496	-255.118357850919	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:52 MST 2021	[TOP SWAP DECIPH]	4.2431	-221.697012650815	*
+RESULT:	UNK	UNK	-221.6970	1	1	1.0000	8.1968	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned18.sample	Sun Mar  7 21:45:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:45:56 MST 2021	[TOP SWAP DECIPH]	1.8577	-243.522429607562	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:45:58 MST 2021	[TOP SWAP DECIPH]	2.0243	-226.528246213645	*
+RESULT:	UNK	UNK	-226.5282	1	1	1.0000	3.8859	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned180.sample	Sun Mar  7 21:46:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:00 MST 2021	[TOP SWAP DECIPH]	2.7088	-248.143066128734	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:03 MST 2021	[TOP SWAP DECIPH]	3.2473	-231.625332935607	*
+RESULT:	UNK	UNK	-231.6253	1	1	1.0000	5.9600	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned181.sample	Sun Mar  7 21:46:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:06 MST 2021	[TOP SWAP DECIPH]	2.2527	-248.981585019099	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:08 MST 2021	[TOP SWAP DECIPH]	2.7318	-230.250976646903	*
+RESULT:	UNK	UNK	-230.2510	1	1	1.0000	4.9884	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned182.sample	Sun Mar  7 21:46:11 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:11 MST 2021	[TOP SWAP DECIPH]	3.1177	-242.100118449073	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:14 MST 2021	[TOP SWAP DECIPH]	3.1280	-228.461337409935	*
+RESULT:	UNK	UNK	-228.4613	1	1	1.0000	6.2494	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned183.sample	Sun Mar  7 21:46:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:17 MST 2021	[TOP SWAP DECIPH]	2.7755	-257.90227927025	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:20 MST 2021	[TOP SWAP DECIPH]	3.2707	-228.983920590356	*
+RESULT:	UNK	UNK	-228.9839	1	1	1.0000	6.0500	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned184.sample	Sun Mar  7 21:46:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:23 MST 2021	[TOP SWAP DECIPH]	2.6167	-251.434096184414	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:26 MST 2021	[TOP SWAP DECIPH]	2.5040	-225.16993688733	*
+RESULT:	UNK	UNK	-225.1699	1	1	1.0000	5.1246	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned185.sample	Sun Mar  7 21:46:29 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:29 MST 2021	[TOP SWAP DECIPH]	2.4376	-252.931435958821	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:31 MST 2021	[TOP SWAP DECIPH]	2.6146	-211.756784629586	*
+RESULT:	UNK	UNK	-211.7568	1	1	1.0000	5.0559	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned186.sample	Sun Mar  7 21:46:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:34 MST 2021	[TOP SWAP DECIPH]	2.7272	-248.935600350361	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:36 MST 2021	[TOP SWAP DECIPH]	2.8355	-239.941231564099	*
+RESULT:	UNK	UNK	-239.9412	1	1	1.0000	5.5664	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned187.sample	Sun Mar  7 21:46:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:39 MST 2021	[TOP SWAP DECIPH]	1.6404	-228.798544012278	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:41 MST 2021	[TOP SWAP DECIPH]	1.7764	-220.5754181007	*
+RESULT:	UNK	UNK	-220.5754	1	1	1.0000	3.4206	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned188.sample	Sun Mar  7 21:46:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:43 MST 2021	[TOP SWAP DECIPH]	2.4126	-237.555036282446	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:45 MST 2021	[TOP SWAP DECIPH]	2.5929	-213.995146505971	*
+RESULT:	UNK	UNK	-213.9951	1	1	1.0000	5.0092	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned189.sample	Sun Mar  7 21:46:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:48 MST 2021	[TOP SWAP DECIPH]	2.4560	-231.871996634759	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:50 MST 2021	[TOP SWAP DECIPH]	2.7853	-212.886777276036	*
+RESULT:	UNK	UNK	-212.8868	1	1	1.0000	5.2450	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned19.sample	Sun Mar  7 21:46:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:53 MST 2021	[TOP SWAP DECIPH]	2.6045	-256.85267662407	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:46:56 MST 2021	[TOP SWAP DECIPH]	2.9440	-230.070975174258	*
+RESULT:	UNK	UNK	-230.0710	1	1	1.0000	5.5527	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned190.sample	Sun Mar  7 21:46:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:46:58 MST 2021	[TOP SWAP DECIPH]	2.3324	-247.372455589441	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:01 MST 2021	[TOP SWAP DECIPH]	2.4289	-221.555344487837	*
+RESULT:	UNK	UNK	-221.5553	1	1	1.0000	4.7650	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned191.sample	Sun Mar  7 21:47:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:03 MST 2021	[TOP SWAP DECIPH]	2.3949	-247.813987020254	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:06 MST 2021	[TOP SWAP DECIPH]	2.5606	-236.100722483127	*
+RESULT:	UNK	UNK	-236.1007	1	1	1.0000	4.9594	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned192.sample	Sun Mar  7 21:47:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:08 MST 2021	[TOP SWAP DECIPH]	2.6196	-233.127308812228	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:11 MST 2021	[TOP SWAP DECIPH]	2.6051	-217.257291656435	*
+RESULT:	UNK	UNK	-217.2573	1	1	1.0000	5.2285	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned193.sample	Sun Mar  7 21:47:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:13 MST 2021	[TOP SWAP DECIPH]	2.6093	-243.973909743612	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:16 MST 2021	[TOP SWAP DECIPH]	3.0779	-225.893843751599	*
+RESULT:	UNK	UNK	-225.8938	1	1	1.0000	5.6909	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned194.sample	Sun Mar  7 21:47:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:19 MST 2021	[TOP SWAP DECIPH]	1.9296	-248.387155844982	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:21 MST 2021	[TOP SWAP DECIPH]	2.2379	-209.394923890455	*
+RESULT:	UNK	UNK	-209.3949	1	1	1.0000	4.1713	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned195.sample	Sun Mar  7 21:47:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:23 MST 2021	[TOP SWAP DECIPH]	2.1488	-247.895060102776	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:26 MST 2021	[TOP SWAP DECIPH]	2.6190	-218.844389616504	*
+RESULT:	UNK	UNK	-218.8444	1	1	1.0000	4.7714	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned196.sample	Sun Mar  7 21:47:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:28 MST 2021	[TOP SWAP DECIPH]	2.6891	-235.911959792996	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:31 MST 2021	[TOP SWAP DECIPH]	3.0157	-241.151718485316
+RESULT:	UNK	UNK	-235.9120	1	1	1.0000	5.7087	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned197.sample	Sun Mar  7 21:47:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:34 MST 2021	[TOP SWAP DECIPH]	2.5696	-252.854198142757	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:36 MST 2021	[TOP SWAP DECIPH]	2.9052	-214.329022742058	*
+RESULT:	UNK	UNK	-214.3290	1	1	1.0000	5.4783	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned198.sample	Sun Mar  7 21:47:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:39 MST 2021	[TOP SWAP DECIPH]	2.3414	-243.104100762637	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:42 MST 2021	[TOP SWAP DECIPH]	2.8185	-223.883684569541	*
+RESULT:	UNK	UNK	-223.8837	1	1	1.0000	5.1636	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned199.sample	Sun Mar  7 21:47:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:45 MST 2021	[TOP SWAP DECIPH]	3.1675	-248.587027687848	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:48 MST 2021	[TOP SWAP DECIPH]	3.7635	-237.40896419836	*
+RESULT:	UNK	UNK	-237.4090	1	1	1.0000	6.9347	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned2.sample	Sun Mar  7 21:47:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:51 MST 2021	[TOP SWAP DECIPH]	2.0392	-238.380328812565	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:53 MST 2021	[TOP SWAP DECIPH]	2.1696	-217.499539170085	*
+RESULT:	UNK	UNK	-217.4995	1	1	1.0000	4.2126	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned20.sample	Sun Mar  7 21:47:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:56 MST 2021	[TOP SWAP DECIPH]	1.4258	-250.801625689244	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:47:57 MST 2021	[TOP SWAP DECIPH]	1.5379	-224.913815046832	*
+RESULT:	UNK	UNK	-224.9138	1	1	1.0000	2.9675	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned200.sample	Sun Mar  7 21:47:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:47:59 MST 2021	[TOP SWAP DECIPH]	2.8148	-239.913175495587	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:01 MST 2021	[TOP SWAP DECIPH]	2.9653	-222.813864970865	*
+RESULT:	UNK	UNK	-222.8139	1	1	1.0000	5.7839	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned201.sample	Sun Mar  7 21:48:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:04 MST 2021	[TOP SWAP DECIPH]	1.5817	-248.955014344632	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:06 MST 2021	[TOP SWAP DECIPH]	1.7074	-221.833103014095	*
+RESULT:	UNK	UNK	-221.8331	1	1	1.0000	3.2931	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned202.sample	Sun Mar  7 21:48:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:08 MST 2021	[TOP SWAP DECIPH]	2.0621	-237.549406600772	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:10 MST 2021	[TOP SWAP DECIPH]	2.1253	-219.404711736434	*
+RESULT:	UNK	UNK	-219.4047	1	1	1.0000	4.1912	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned203.sample	Sun Mar  7 21:48:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:12 MST 2021	[TOP SWAP DECIPH]	3.0727	-256.963622423581	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:15 MST 2021	[TOP SWAP DECIPH]	2.8994	-242.233547230431	*
+RESULT:	UNK	UNK	-242.2335	1	1	1.0000	5.9759	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned204.sample	Sun Mar  7 21:48:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:18 MST 2021	[TOP SWAP DECIPH]	2.0134	-237.176485686866	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:20 MST 2021	[TOP SWAP DECIPH]	2.0313	-219.96586213434	*
+RESULT:	UNK	UNK	-219.9659	1	1	1.0000	4.0485	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned205.sample	Sun Mar  7 21:48:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:22 MST 2021	[TOP SWAP DECIPH]	2.3374	-248.911411527478	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:24 MST 2021	[TOP SWAP DECIPH]	2.3657	-221.446528594033	*
+RESULT:	UNK	UNK	-221.4465	1	1	1.0000	4.7068	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned206.sample	Sun Mar  7 21:48:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:27 MST 2021	[TOP SWAP DECIPH]	2.3081	-237.652748935958	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:29 MST 2021	[TOP SWAP DECIPH]	2.5818	-228.855661991312	*
+RESULT:	UNK	UNK	-228.8557	1	1	1.0000	4.8937	11
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned207.sample	Sun Mar  7 21:48:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:32 MST 2021	[TOP SWAP DECIPH]	3.1719	-257.43222465271	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:35 MST 2021	[TOP SWAP DECIPH]	3.7354	-225.531933390872	*
+RESULT:	UNK	UNK	-225.5319	1	1	1.0000	6.9112	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned208.sample	Sun Mar  7 21:48:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:39 MST 2021	[TOP SWAP DECIPH]	2.2726	-252.734009685463	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:41 MST 2021	[TOP SWAP DECIPH]	2.6160	-212.73286833377	*
+RESULT:	UNK	UNK	-212.7329	1	1	1.0000	4.8923	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned209.sample	Sun Mar  7 21:48:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:43 MST 2021	[TOP SWAP DECIPH]	2.0103	-246.731486333466	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:45 MST 2021	[TOP SWAP DECIPH]	2.0610	-225.756678876097	*
+RESULT:	UNK	UNK	-225.7567	1	1	1.0000	4.0750	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned21.sample	Sun Mar  7 21:48:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:47 MST 2021	[TOP SWAP DECIPH]	1.7029	-248.202590968825	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:49 MST 2021	[TOP SWAP DECIPH]	1.6601	-212.967805233382	*
+RESULT:	UNK	UNK	-212.9678	1	1	1.0000	3.3668	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned210.sample	Sun Mar  7 21:48:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:51 MST 2021	[TOP SWAP DECIPH]	2.4448	-258.85877742797	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:48:53 MST 2021	[TOP SWAP DECIPH]	2.4172	-236.382757837441	*
+RESULT:	UNK	UNK	-236.3828	1	1	1.0000	4.8660	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned211.sample	Sun Mar  7 21:48:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:48:56 MST 2021	[TOP SWAP DECIPH]	3.9735	-249.891877140771	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:00 MST 2021	[TOP SWAP DECIPH]	4.5187	-235.25981347595	*
+RESULT:	UNK	UNK	-235.2598	1	1	1.0000	8.4960	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned212.sample	Sun Mar  7 21:49:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:04 MST 2021	[TOP SWAP DECIPH]	1.6388	-238.691226226469	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:06 MST 2021	[TOP SWAP DECIPH]	1.7354	-208.81885270563	*
+RESULT:	UNK	UNK	-208.8189	1	1	1.0000	3.3779	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned213.sample	Sun Mar  7 21:49:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:08 MST 2021	[TOP SWAP DECIPH]	3.0096	-242.425228732885	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:11 MST 2021	[TOP SWAP DECIPH]	3.2298	-227.813324496097	*
+RESULT:	UNK	UNK	-227.8133	1	1	1.0000	6.2430	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned214.sample	Sun Mar  7 21:49:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:14 MST 2021	[TOP SWAP DECIPH]	2.3562	-242.006899266097	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:16 MST 2021	[TOP SWAP DECIPH]	2.7805	-220.887709675747	*
+RESULT:	UNK	UNK	-220.8877	1	1	1.0000	5.1411	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned215.sample	Sun Mar  7 21:49:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:19 MST 2021	[TOP SWAP DECIPH]	3.7005	-254.131957759196	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:23 MST 2021	[TOP SWAP DECIPH]	4.2129	-229.383617926551	*
+RESULT:	UNK	UNK	-229.3836	1	1	1.0000	7.9170	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned216.sample	Sun Mar  7 21:49:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:27 MST 2021	[TOP SWAP DECIPH]	1.6121	-253.733622384997	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:29 MST 2021	[TOP SWAP DECIPH]	1.7381	-228.638557136037	*
+RESULT:	UNK	UNK	-228.6386	1	1	1.0000	3.3543	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned217.sample	Sun Mar  7 21:49:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:30 MST 2021	[TOP SWAP DECIPH]	3.8067	-244.454169027969	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:34 MST 2021	[TOP SWAP DECIPH]	3.7214	-229.640443771771	*
+RESULT:	UNK	UNK	-229.6404	1	1	1.0000	7.5319	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned218.sample	Sun Mar  7 21:49:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:38 MST 2021	[TOP SWAP DECIPH]	2.4515	-261.980231667419	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:40 MST 2021	[TOP SWAP DECIPH]	2.6694	-223.064004004058	*
+RESULT:	UNK	UNK	-223.0640	1	1	1.0000	5.1248	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned219.sample	Sun Mar  7 21:49:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:43 MST 2021	[TOP SWAP DECIPH]	4.2098	-243.396720002299	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:47 MST 2021	[TOP SWAP DECIPH]	4.7121	-220.825265105431	*
+RESULT:	UNK	UNK	-220.8253	1	1	1.0000	8.9257	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned22.sample	Sun Mar  7 21:49:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:52 MST 2021	[TOP SWAP DECIPH]	2.0919	-252.650050451945	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:54 MST 2021	[TOP SWAP DECIPH]	2.2929	-214.452233416395	*
+RESULT:	UNK	UNK	-214.4522	1	1	1.0000	4.3891	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned220.sample	Sun Mar  7 21:49:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:49:56 MST 2021	[TOP SWAP DECIPH]	1.9555	-243.146597105007	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:49:58 MST 2021	[TOP SWAP DECIPH]	1.8907	-228.210478112319	*
+RESULT:	UNK	UNK	-228.2105	1	1	1.0000	3.8500	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned221.sample	Sun Mar  7 21:50:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:00 MST 2021	[TOP SWAP DECIPH]	1.9647	-237.176019016799	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:02 MST 2021	[TOP SWAP DECIPH]	1.9103	-217.63601668471	*
+RESULT:	UNK	UNK	-217.6360	1	1	1.0000	3.8787	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned222.sample	Sun Mar  7 21:50:04 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:04 MST 2021	[TOP SWAP DECIPH]	1.9456	-238.546145493299	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:06 MST 2021	[TOP SWAP DECIPH]	2.2394	-214.215676949847	*
+RESULT:	UNK	UNK	-214.2157	1	1	1.0000	4.1888	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned223.sample	Sun Mar  7 21:50:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:08 MST 2021	[TOP SWAP DECIPH]	2.4883	-246.970211785537	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:11 MST 2021	[TOP SWAP DECIPH]	2.9745	-208.424043027138	*
+RESULT:	UNK	UNK	-208.4240	1	1	1.0000	5.4663	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned224.sample	Sun Mar  7 21:50:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:14 MST 2021	[TOP SWAP DECIPH]	2.2695	-255.819409560561	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:16 MST 2021	[TOP SWAP DECIPH]	2.3401	-224.826106011849	*
+RESULT:	UNK	UNK	-224.8261	1	1	1.0000	4.6133	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned225.sample	Sun Mar  7 21:50:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:18 MST 2021	[TOP SWAP DECIPH]	2.5066	-247.023965718499	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:21 MST 2021	[TOP SWAP DECIPH]	2.5682	-234.671151992671	*
+RESULT:	UNK	UNK	-234.6712	1	1	1.0000	5.0788	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned226.sample	Sun Mar  7 21:50:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:23 MST 2021	[TOP SWAP DECIPH]	1.9893	-238.67931793958	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:25 MST 2021	[TOP SWAP DECIPH]	2.0579	-225.536546103884	*
+RESULT:	UNK	UNK	-225.5365	1	1	1.0000	4.0510	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned227.sample	Sun Mar  7 21:50:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:28 MST 2021	[TOP SWAP DECIPH]	3.1886	-245.911278540026	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:31 MST 2021	[TOP SWAP DECIPH]	3.8028	-215.683058101214	*
+RESULT:	UNK	UNK	-215.6831	1	1	1.0000	6.9949	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned228.sample	Sun Mar  7 21:50:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:35 MST 2021	[TOP SWAP DECIPH]	1.9073	-246.398773477456	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:36 MST 2021	[TOP SWAP DECIPH]	2.1313	-214.927332412781	*
+RESULT:	UNK	UNK	-214.9273	1	1	1.0000	4.0426	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned229.sample	Sun Mar  7 21:50:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:39 MST 2021	[TOP SWAP DECIPH]	2.8731	-248.776110933799	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:41 MST 2021	[TOP SWAP DECIPH]	3.2453	-229.661543982437	*
+RESULT:	UNK	UNK	-229.6615	1	1	1.0000	6.1221	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned23.sample	Sun Mar  7 21:50:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:45 MST 2021	[TOP SWAP DECIPH]	1.5725	-231.842519937132	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:46 MST 2021	[TOP SWAP DECIPH]	1.7972	-213.748703296815	*
+RESULT:	UNK	UNK	-213.7487	1	1	1.0000	3.3734	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned230.sample	Sun Mar  7 21:50:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:48 MST 2021	[TOP SWAP DECIPH]	2.1171	-247.822847803114	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:50 MST 2021	[TOP SWAP DECIPH]	2.5968	-216.265154004751	*
+RESULT:	UNK	UNK	-216.2652	1	1	1.0000	4.7175	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned231.sample	Sun Mar  7 21:50:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:53 MST 2021	[TOP SWAP DECIPH]	1.8939	-239.017050060589	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:55 MST 2021	[TOP SWAP DECIPH]	2.1858	-206.465304318551	*
+RESULT:	UNK	UNK	-206.4653	1	1	1.0000	4.0834	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned232.sample	Sun Mar  7 21:50:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:50:57 MST 2021	[TOP SWAP DECIPH]	1.9093	-248.936537975702	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:50:59 MST 2021	[TOP SWAP DECIPH]	2.2470	-225.305968087379	*
+RESULT:	UNK	UNK	-225.3060	1	1	1.0000	4.1608	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned233.sample	Sun Mar  7 21:51:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:01 MST 2021	[TOP SWAP DECIPH]	1.9664	-242.761970110451	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:03 MST 2021	[TOP SWAP DECIPH]	2.0393	-225.048611795822	*
+RESULT:	UNK	UNK	-225.0486	1	1	1.0000	4.0092	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned234.sample	Sun Mar  7 21:51:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:05 MST 2021	[TOP SWAP DECIPH]	1.9413	-235.922652020992	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:07 MST 2021	[TOP SWAP DECIPH]	1.9213	-222.105506289528	*
+RESULT:	UNK	UNK	-222.1055	1	1	1.0000	3.8662	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned235.sample	Sun Mar  7 21:51:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:09 MST 2021	[TOP SWAP DECIPH]	1.8752	-232.170775628584	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:11 MST 2021	[TOP SWAP DECIPH]	2.1470	-226.325426051547	*
+RESULT:	UNK	UNK	-226.3254	1	1	1.0000	4.0256	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned236.sample	Sun Mar  7 21:51:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:13 MST 2021	[TOP SWAP DECIPH]	2.0940	-239.135641789485	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:15 MST 2021	[TOP SWAP DECIPH]	2.1226	-220.783277609546	*
+RESULT:	UNK	UNK	-220.7833	1	1	1.0000	4.2201	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned237.sample	Sun Mar  7 21:51:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:17 MST 2021	[TOP SWAP DECIPH]	2.0056	-239.549524793078	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:19 MST 2021	[TOP SWAP DECIPH]	2.0251	-226.679435049428	*
+RESULT:	UNK	UNK	-226.6794	1	1	1.0000	4.0342	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned238.sample	Sun Mar  7 21:51:21 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:21 MST 2021	[TOP SWAP DECIPH]	3.1713	-253.729222033479	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:24 MST 2021	[TOP SWAP DECIPH]	3.3815	-221.99019854438	*
+RESULT:	UNK	UNK	-221.9902	1	1	1.0000	6.5564	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned239.sample	Sun Mar  7 21:51:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:28 MST 2021	[TOP SWAP DECIPH]	1.7954	-242.686465596964	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:30 MST 2021	[TOP SWAP DECIPH]	2.2204	-229.770576150741	*
+RESULT:	UNK	UNK	-229.7706	1	1	1.0000	4.0193	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned24.sample	Sun Mar  7 21:51:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:32 MST 2021	[TOP SWAP DECIPH]	1.9511	-245.572104101914	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:34 MST 2021	[TOP SWAP DECIPH]	2.1546	-205.233346604205	*
+RESULT:	UNK	UNK	-205.2333	1	1	1.0000	4.1092	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned240.sample	Sun Mar  7 21:51:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:36 MST 2021	[TOP SWAP DECIPH]	1.9300	-242.776373564806	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:38 MST 2021	[TOP SWAP DECIPH]	2.1968	-226.759166064878	*
+RESULT:	UNK	UNK	-226.7592	1	1	1.0000	4.1304	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned241.sample	Sun Mar  7 21:51:40 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:40 MST 2021	[TOP SWAP DECIPH]	2.0311	-248.005730984424	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:42 MST 2021	[TOP SWAP DECIPH]	2.2540	-214.390504687109	*
+RESULT:	UNK	UNK	-214.3905	1	1	1.0000	4.2886	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned242.sample	Sun Mar  7 21:51:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:44 MST 2021	[TOP SWAP DECIPH]	3.1213	-251.444648255348	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:48 MST 2021	[TOP SWAP DECIPH]	3.6386	-207.97840419371	*
+RESULT:	UNK	UNK	-207.9784	1	1	1.0000	6.7634	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned243.sample	Sun Mar  7 21:51:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:51 MST 2021	[TOP SWAP DECIPH]	2.9253	-244.065935888298	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:51:54 MST 2021	[TOP SWAP DECIPH]	3.0396	-220.694506262141	*
+RESULT:	UNK	UNK	-220.6945	1	1	1.0000	5.9687	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned244.sample	Sun Mar  7 21:51:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:51:57 MST 2021	[TOP SWAP DECIPH]	3.5019	-248.385174978632	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:01 MST 2021	[TOP SWAP DECIPH]	3.9507	-221.351131685549	*
+RESULT:	UNK	UNK	-221.3511	1	1	1.0000	7.4563	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned245.sample	Sun Mar  7 21:52:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:05 MST 2021	[TOP SWAP DECIPH]	2.4770	-250.865232693548	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:07 MST 2021	[TOP SWAP DECIPH]	2.6831	-229.501638055812	*
+RESULT:	UNK	UNK	-229.5016	1	1	1.0000	5.1639	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned246.sample	Sun Mar  7 21:52:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:10 MST 2021	[TOP SWAP DECIPH]	2.7986	-232.654669138401	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:13 MST 2021	[TOP SWAP DECIPH]	3.1240	-199.145347680277	*
+RESULT:	UNK	UNK	-199.1453	1	1	1.0000	5.9260	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned247.sample	Sun Mar  7 21:52:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:16 MST 2021	[TOP SWAP DECIPH]	2.9681	-253.009742449745	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:19 MST 2021	[TOP SWAP DECIPH]	3.0390	-223.832982245186	*
+RESULT:	UNK	UNK	-223.8330	1	1	1.0000	6.0106	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned248.sample	Sun Mar  7 21:52:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:22 MST 2021	[TOP SWAP DECIPH]	2.2055	-241.741254432874	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:24 MST 2021	[TOP SWAP DECIPH]	2.5033	-211.839452369985	*
+RESULT:	UNK	UNK	-211.8395	1	1	1.0000	4.7125	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned249.sample	Sun Mar  7 21:52:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:26 MST 2021	[TOP SWAP DECIPH]	1.9065	-246.680722738958	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:28 MST 2021	[TOP SWAP DECIPH]	2.2378	-230.407371935497	*
+RESULT:	UNK	UNK	-230.4074	1	1	1.0000	4.1479	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned25.sample	Sun Mar  7 21:52:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:31 MST 2021	[TOP SWAP DECIPH]	1.9897	-254.619095844948	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:33 MST 2021	[TOP SWAP DECIPH]	2.1514	-227.837246850989	*
+RESULT:	UNK	UNK	-227.8372	1	1	1.0000	4.1445	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned250.sample	Sun Mar  7 21:52:35 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:35 MST 2021	[TOP SWAP DECIPH]	2.4213	-242.097777648408	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:37 MST 2021	[TOP SWAP DECIPH]	2.4379	-212.059217137811	*
+RESULT:	UNK	UNK	-212.0592	1	1	1.0000	4.8626	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned251.sample	Sun Mar  7 21:52:40 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:40 MST 2021	[TOP SWAP DECIPH]	1.5904	-230.903929890351	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:41 MST 2021	[TOP SWAP DECIPH]	1.6317	-226.027662328494	*
+RESULT:	UNK	UNK	-226.0277	1	1	1.0000	3.2257	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned252.sample	Sun Mar  7 21:52:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:43 MST 2021	[TOP SWAP DECIPH]	3.8082	-256.567537037338	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:47 MST 2021	[TOP SWAP DECIPH]	4.1741	-241.775838852036	*
+RESULT:	UNK	UNK	-241.7758	1	1	1.0000	7.9859	19
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned253.sample	Sun Mar  7 21:52:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:51 MST 2021	[TOP SWAP DECIPH]	1.5815	-236.153395595695	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:52 MST 2021	[TOP SWAP DECIPH]	1.5797	-207.931610398256	*
+RESULT:	UNK	UNK	-207.9316	1	1	1.0000	3.1650	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned254.sample	Sun Mar  7 21:52:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:52:54 MST 2021	[TOP SWAP DECIPH]	3.6221	-232.048913752954	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:52:58 MST 2021	[TOP SWAP DECIPH]	3.4813	-213.242176248722	*
+RESULT:	UNK	UNK	-213.2422	1	1	1.0000	7.1070	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned255.sample	Sun Mar  7 21:53:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:01 MST 2021	[TOP SWAP DECIPH]	2.2716	-240.622816102584	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:03 MST 2021	[TOP SWAP DECIPH]	2.6767	-236.688552382215	*
+RESULT:	UNK	UNK	-236.6886	1	1	1.0000	4.9519	13
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned256.sample	Sun Mar  7 21:53:06 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:06 MST 2021	[TOP SWAP DECIPH]	2.8476	-227.647085776292	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:09 MST 2021	[TOP SWAP DECIPH]	2.9334	-229.536322137568
+RESULT:	UNK	UNK	-227.6471	1	1	1.0000	5.7848	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned257.sample	Sun Mar  7 21:53:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:12 MST 2021	[TOP SWAP DECIPH]	3.0611	-256.975588805097	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:15 MST 2021	[TOP SWAP DECIPH]	3.7046	-225.79072766325	*
+RESULT:	UNK	UNK	-225.7907	1	1	1.0000	6.7694	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned258.sample	Sun Mar  7 21:53:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:19 MST 2021	[TOP SWAP DECIPH]	2.1928	-257.526010752512	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:21 MST 2021	[TOP SWAP DECIPH]	2.5045	-228.563942533486	*
+RESULT:	UNK	UNK	-228.5639	1	1	1.0000	4.7009	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned259.sample	Sun Mar  7 21:53:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:23 MST 2021	[TOP SWAP DECIPH]	2.2672	-228.35204729318	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:26 MST 2021	[TOP SWAP DECIPH]	2.5810	-205.525438647435	*
+RESULT:	UNK	UNK	-205.5254	1	1	1.0000	4.8519	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned26.sample	Sun Mar  7 21:53:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:28 MST 2021	[TOP SWAP DECIPH]	2.2306	-250.50788756451	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:30 MST 2021	[TOP SWAP DECIPH]	2.6129	-231.253317847104	*
+RESULT:	UNK	UNK	-231.2533	1	1	1.0000	4.8470	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned260.sample	Sun Mar  7 21:53:33 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:33 MST 2021	[TOP SWAP DECIPH]	2.8775	-252.041563568422	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:36 MST 2021	[TOP SWAP DECIPH]	2.9968	-229.053522430569	*
+RESULT:	UNK	UNK	-229.0535	1	1	1.0000	5.8781	15
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned261.sample	Sun Mar  7 21:53:39 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:39 MST 2021	[TOP SWAP DECIPH]	2.3319	-251.084094785721	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:41 MST 2021	[TOP SWAP DECIPH]	2.4934	-214.792408111778	*
+RESULT:	UNK	UNK	-214.7924	1	1	1.0000	4.8288	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned262.sample	Sun Mar  7 21:53:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:44 MST 2021	[TOP SWAP DECIPH]	2.8534	-242.348196672309	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:47 MST 2021	[TOP SWAP DECIPH]	3.0303	-214.226598840013	*
+RESULT:	UNK	UNK	-214.2266	1	1	1.0000	5.8873	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned263.sample	Sun Mar  7 21:53:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:50 MST 2021	[TOP SWAP DECIPH]	2.3086	-245.46414102597	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:52 MST 2021	[TOP SWAP DECIPH]	2.6785	-227.909103995431	*
+RESULT:	UNK	UNK	-227.9091	1	1	1.0000	4.9908	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned264.sample	Sun Mar  7 21:53:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:53:55 MST 2021	[TOP SWAP DECIPH]	2.9177	-238.730194373663	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:53:58 MST 2021	[TOP SWAP DECIPH]	3.0513	-211.857834536831	*
+RESULT:	UNK	UNK	-211.8578	1	1	1.0000	5.9725	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned265.sample	Sun Mar  7 21:54:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:01 MST 2021	[TOP SWAP DECIPH]	2.8652	-253.060248296241	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:04 MST 2021	[TOP SWAP DECIPH]	3.1297	-228.620264920211	*
+RESULT:	UNK	UNK	-228.6203	1	1	1.0000	5.9985	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned266.sample	Sun Mar  7 21:54:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:07 MST 2021	[TOP SWAP DECIPH]	3.1401	-253.998776759565	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:10 MST 2021	[TOP SWAP DECIPH]	3.7816	-229.807392747275	*
+RESULT:	UNK	UNK	-229.8074	1	1	1.0000	6.9253	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned267.sample	Sun Mar  7 21:54:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:14 MST 2021	[TOP SWAP DECIPH]	2.3374	-252.445105318818	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:16 MST 2021	[TOP SWAP DECIPH]	2.3691	-214.857618236382	*
+RESULT:	UNK	UNK	-214.8576	1	1	1.0000	4.7102	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned268.sample	Sun Mar  7 21:54:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:18 MST 2021	[TOP SWAP DECIPH]	1.9653	-244.258918938547	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:20 MST 2021	[TOP SWAP DECIPH]	2.0619	-213.038170245422	*
+RESULT:	UNK	UNK	-213.0382	1	1	1.0000	4.0308	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned269.sample	Sun Mar  7 21:54:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:22 MST 2021	[TOP SWAP DECIPH]	1.9879	-233.971282557701	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:24 MST 2021	[TOP SWAP DECIPH]	2.0499	-197.62033561381	*
+RESULT:	UNK	UNK	-197.6203	1	1	1.0000	4.0414	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned27.sample	Sun Mar  7 21:54:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:26 MST 2021	[TOP SWAP DECIPH]	1.7634	-248.490783880456	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:28 MST 2021	[TOP SWAP DECIPH]	2.1092	-215.524002159021	*
+RESULT:	UNK	UNK	-215.5240	1	1	1.0000	3.8763	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned270.sample	Sun Mar  7 21:54:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:30 MST 2021	[TOP SWAP DECIPH]	3.1868	-257.833829466374	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:33 MST 2021	[TOP SWAP DECIPH]	3.6347	-234.486844225904	*
+RESULT:	UNK	UNK	-234.4868	1	1	1.0000	6.8252	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned271.sample	Sun Mar  7 21:54:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:37 MST 2021	[TOP SWAP DECIPH]	2.6633	-257.061140831839	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:40 MST 2021	[TOP SWAP DECIPH]	2.8864	-232.216140083714	*
+RESULT:	UNK	UNK	-232.2161	1	1	1.0000	5.5534	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned272.sample	Sun Mar  7 21:54:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:43 MST 2021	[TOP SWAP DECIPH]	1.9354	-249.919321472191	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:45 MST 2021	[TOP SWAP DECIPH]	2.1226	-227.338338638963	*
+RESULT:	UNK	UNK	-227.3383	1	1	1.0000	4.0615	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned273.sample	Sun Mar  7 21:54:47 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:47 MST 2021	[TOP SWAP DECIPH]	1.5633	-240.911807068733	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:48 MST 2021	[TOP SWAP DECIPH]	1.7652	-221.512860269483	*
+RESULT:	UNK	UNK	-221.5129	1	1	1.0000	3.3321	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned274.sample	Sun Mar  7 21:54:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:50 MST 2021	[TOP SWAP DECIPH]	2.8678	-239.491693928038	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:53 MST 2021	[TOP SWAP DECIPH]	3.2814	-217.436100881324	*
+RESULT:	UNK	UNK	-217.4361	1	1	1.0000	6.1527	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned275.sample	Sun Mar  7 21:54:56 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:54:56 MST 2021	[TOP SWAP DECIPH]	1.9722	-239.557449881482	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:54:58 MST 2021	[TOP SWAP DECIPH]	2.0125	-221.956215576078	*
+RESULT:	UNK	UNK	-221.9562	1	1	1.0000	3.9883	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned276.sample	Sun Mar  7 21:55:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:00 MST 2021	[TOP SWAP DECIPH]	2.2986	-255.778517324304	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:03 MST 2021	[TOP SWAP DECIPH]	2.6478	-217.562487875291	*
+RESULT:	UNK	UNK	-217.5625	1	1	1.0000	4.9500	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned277.sample	Sun Mar  7 21:55:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:05 MST 2021	[TOP SWAP DECIPH]	2.2560	-245.282536911082	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:07 MST 2021	[TOP SWAP DECIPH]	2.2901	-226.473130410728	*
+RESULT:	UNK	UNK	-226.4731	1	1	1.0000	4.5499	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned278.sample	Sun Mar  7 21:55:10 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:10 MST 2021	[TOP SWAP DECIPH]	2.3473	-245.114686937359	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:12 MST 2021	[TOP SWAP DECIPH]	2.5238	-221.45704604658	*
+RESULT:	UNK	UNK	-221.4570	1	1	1.0000	4.8746	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned279.sample	Sun Mar  7 21:55:15 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:15 MST 2021	[TOP SWAP DECIPH]	2.5485	-233.061758765917	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:17 MST 2021	[TOP SWAP DECIPH]	2.3874	-206.737553384702	*
+RESULT:	UNK	UNK	-206.7376	1	1	1.0000	4.9396	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned28.sample	Sun Mar  7 21:55:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:20 MST 2021	[TOP SWAP DECIPH]	2.2494	-250.771483703522	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:22 MST 2021	[TOP SWAP DECIPH]	2.4834	-222.695153239163	*
+RESULT:	UNK	UNK	-222.6952	1	1	1.0000	4.7364	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned280.sample	Sun Mar  7 21:55:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:24 MST 2021	[TOP SWAP DECIPH]	3.6960	-251.024056484249	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:28 MST 2021	[TOP SWAP DECIPH]	4.3540	-224.429858978469	*
+RESULT:	UNK	UNK	-224.4299	1	1	1.0000	8.0539	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned281.sample	Sun Mar  7 21:55:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:32 MST 2021	[TOP SWAP DECIPH]	2.4584	-237.10550095152	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:35 MST 2021	[TOP SWAP DECIPH]	2.6571	-221.044027828647	*
+RESULT:	UNK	UNK	-221.0440	1	1	1.0000	5.1190	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned282.sample	Sun Mar  7 21:55:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:37 MST 2021	[TOP SWAP DECIPH]	2.3473	-239.63912982605	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:40 MST 2021	[TOP SWAP DECIPH]	2.6015	-227.11250972335	*
+RESULT:	UNK	UNK	-227.1125	1	1	1.0000	4.9526	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned283.sample	Sun Mar  7 21:55:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:42 MST 2021	[TOP SWAP DECIPH]	2.8430	-232.63414435628	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:45 MST 2021	[TOP SWAP DECIPH]	3.0681	-228.314981707585	*
+RESULT:	UNK	UNK	-228.3150	1	1	1.0000	5.9149	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned284.sample	Sun Mar  7 21:55:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:48 MST 2021	[TOP SWAP DECIPH]	1.9377	-241.030055492636	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:50 MST 2021	[TOP SWAP DECIPH]	2.0768	-222.913402723538	*
+RESULT:	UNK	UNK	-222.9134	1	1	1.0000	4.0179	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned285.sample	Sun Mar  7 21:55:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:55:52 MST 2021	[TOP SWAP DECIPH]	3.3120	-250.256393895719	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:55:56 MST 2021	[TOP SWAP DECIPH]	3.8854	-228.767476872462	*
+RESULT:	UNK	UNK	-228.7675	1	1	1.0000	7.2010	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned286.sample	Sun Mar  7 21:56:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:00 MST 2021	[TOP SWAP DECIPH]	2.8434	-231.175108280652	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:02 MST 2021	[TOP SWAP DECIPH]	2.9529	-215.669803556467	*
+RESULT:	UNK	UNK	-215.6698	1	1	1.0000	5.7999	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned287.sample	Sun Mar  7 21:56:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:05 MST 2021	[TOP SWAP DECIPH]	1.9993	-240.647598274221	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:07 MST 2021	[TOP SWAP DECIPH]	1.9244	-220.631480808561	*
+RESULT:	UNK	UNK	-220.6315	1	1	1.0000	3.9275	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned288.sample	Sun Mar  7 21:56:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:09 MST 2021	[TOP SWAP DECIPH]	3.4471	-240.346724816596	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:13 MST 2021	[TOP SWAP DECIPH]	3.5942	-217.827492979084	*
+RESULT:	UNK	UNK	-217.8275	1	1	1.0000	7.0449	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned289.sample	Sun Mar  7 21:56:16 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:16 MST 2021	[TOP SWAP DECIPH]	3.1804	-255.204327314682	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:20 MST 2021	[TOP SWAP DECIPH]	3.6085	-222.357738355423	*
+RESULT:	UNK	UNK	-222.3577	1	1	1.0000	6.7926	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned29.sample	Sun Mar  7 21:56:23 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:23 MST 2021	[TOP SWAP DECIPH]	1.9393	-237.9127111882	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:25 MST 2021	[TOP SWAP DECIPH]	2.1500	-208.447262464087	*
+RESULT:	UNK	UNK	-208.4473	1	1	1.0000	4.0929	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned290.sample	Sun Mar  7 21:56:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:27 MST 2021	[TOP SWAP DECIPH]	2.1272	-245.893227383311	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:29 MST 2021	[TOP SWAP DECIPH]	1.9735	-212.96005284331	*
+RESULT:	UNK	UNK	-212.9601	1	1	1.0000	4.1041	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned291.sample	Sun Mar  7 21:56:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:31 MST 2021	[TOP SWAP DECIPH]	2.8894	-247.21968539722	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:34 MST 2021	[TOP SWAP DECIPH]	3.3373	-201.846041591241	*
+RESULT:	UNK	UNK	-201.8460	1	1	1.0000	6.2301	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned292.sample	Sun Mar  7 21:56:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:38 MST 2021	[TOP SWAP DECIPH]	2.9887	-252.108866209199	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:41 MST 2021	[TOP SWAP DECIPH]	2.8931	-241.478246202346	*
+RESULT:	UNK	UNK	-241.4782	1	1	1.0000	5.8855	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned293.sample	Sun Mar  7 21:56:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:44 MST 2021	[TOP SWAP DECIPH]	1.9772	-250.356455965089	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:46 MST 2021	[TOP SWAP DECIPH]	2.2706	-233.381838446936	*
+RESULT:	UNK	UNK	-233.3818	1	1	1.0000	4.2516	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned294.sample	Sun Mar  7 21:56:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:48 MST 2021	[TOP SWAP DECIPH]	1.5702	-247.031722833145	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:49 MST 2021	[TOP SWAP DECIPH]	1.6684	-223.450421262327	*
+RESULT:	UNK	UNK	-223.4504	1	1	1.0000	3.2423	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned295.sample	Sun Mar  7 21:56:51 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:51 MST 2021	[TOP SWAP DECIPH]	2.1159	-236.701291328566	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:53 MST 2021	[TOP SWAP DECIPH]	2.2608	-225.117886121002	*
+RESULT:	UNK	UNK	-225.1179	1	1	1.0000	4.3803	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned296.sample	Sun Mar  7 21:56:55 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:56:55 MST 2021	[TOP SWAP DECIPH]	2.6258	-235.209560966976	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:56:58 MST 2021	[TOP SWAP DECIPH]	2.5388	-210.134099571176	*
+RESULT:	UNK	UNK	-210.1341	1	1	1.0000	5.1683	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned297.sample	Sun Mar  7 21:57:01 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:01 MST 2021	[TOP SWAP DECIPH]	2.8275	-251.870885320467	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:03 MST 2021	[TOP SWAP DECIPH]	3.1410	-226.211326265041	*
+RESULT:	UNK	UNK	-226.2113	1	1	1.0000	5.9722	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned298.sample	Sun Mar  7 21:57:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:07 MST 2021	[TOP SWAP DECIPH]	3.6080	-241.604502854726	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:10 MST 2021	[TOP SWAP DECIPH]	3.9296	-219.358959519447	*
+RESULT:	UNK	UNK	-219.3590	1	1	1.0000	7.5416	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned299.sample	Sun Mar  7 21:57:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:14 MST 2021	[TOP SWAP DECIPH]	2.0287	-251.313630492891	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:16 MST 2021	[TOP SWAP DECIPH]	2.4193	-217.289363580484	*
+RESULT:	UNK	UNK	-217.2894	1	1	1.0000	4.4516	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned3.sample	Sun Mar  7 21:57:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:19 MST 2021	[TOP SWAP DECIPH]	3.0457	-252.930123313192	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:22 MST 2021	[TOP SWAP DECIPH]	2.9431	-234.04981452343	*
+RESULT:	UNK	UNK	-234.0498	1	1	1.0000	5.9926	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned30.sample	Sun Mar  7 21:57:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:25 MST 2021	[TOP SWAP DECIPH]	2.6180	-251.19398542987	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:27 MST 2021	[TOP SWAP DECIPH]	2.9261	-227.227080762503	*
+RESULT:	UNK	UNK	-227.2271	1	1	1.0000	5.5486	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned300.sample	Sun Mar  7 21:57:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:30 MST 2021	[TOP SWAP DECIPH]	1.6661	-249.174070554798	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:32 MST 2021	[TOP SWAP DECIPH]	1.7311	-225.169214606924	*
+RESULT:	UNK	UNK	-225.1692	1	1	1.0000	3.4008	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned31.sample	Sun Mar  7 21:57:34 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:34 MST 2021	[TOP SWAP DECIPH]	2.0889	-248.55070575209	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:36 MST 2021	[TOP SWAP DECIPH]	2.4149	-222.154176728787	*
+RESULT:	UNK	UNK	-222.1542	1	1	1.0000	4.5076	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned32.sample	Sun Mar  7 21:57:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:38 MST 2021	[TOP SWAP DECIPH]	2.2496	-239.364125201324	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:40 MST 2021	[TOP SWAP DECIPH]	2.2256	-223.535599743495	*
+RESULT:	UNK	UNK	-223.5356	1	1	1.0000	4.4790	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned33.sample	Sun Mar  7 21:57:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:43 MST 2021	[TOP SWAP DECIPH]	2.8647	-247.905779129097	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:45 MST 2021	[TOP SWAP DECIPH]	3.1546	-216.818231615834	*
+RESULT:	UNK	UNK	-216.8182	1	1	1.0000	6.0232	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned34.sample	Sun Mar  7 21:57:49 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:49 MST 2021	[TOP SWAP DECIPH]	2.6471	-248.056654925525	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:51 MST 2021	[TOP SWAP DECIPH]	2.9407	-227.157081848453	*
+RESULT:	UNK	UNK	-227.1571	1	1	1.0000	5.5916	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned35.sample	Sun Mar  7 21:57:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:57:54 MST 2021	[TOP SWAP DECIPH]	2.5506	-253.663920851982	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:57:57 MST 2021	[TOP SWAP DECIPH]	3.0921	-211.183070915917	*
+RESULT:	UNK	UNK	-211.1831	1	1	1.0000	5.6463	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned36.sample	Sun Mar  7 21:58:00 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:00 MST 2021	[TOP SWAP DECIPH]	2.4145	-251.212798545178	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:02 MST 2021	[TOP SWAP DECIPH]	2.5461	-221.111246290314	*
+RESULT:	UNK	UNK	-221.1112	1	1	1.0000	4.9645	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned37.sample	Sun Mar  7 21:58:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:05 MST 2021	[TOP SWAP DECIPH]	3.2119	-249.206533151587	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:08 MST 2021	[TOP SWAP DECIPH]	3.9604	-230.041158710008	*
+RESULT:	UNK	UNK	-230.0412	1	1	1.0000	7.1763	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned38.sample	Sun Mar  7 21:58:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:12 MST 2021	[TOP SWAP DECIPH]	3.0101	-250.317718367694	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:15 MST 2021	[TOP SWAP DECIPH]	3.6427	-216.555135289207	*
+RESULT:	UNK	UNK	-216.5551	1	1	1.0000	6.6570	15
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned39.sample	Sun Mar  7 21:58:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:19 MST 2021	[TOP SWAP DECIPH]	2.6623	-262.192393240453	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:21 MST 2021	[TOP SWAP DECIPH]	2.7801	-221.740380093359	*
+RESULT:	UNK	UNK	-221.7404	1	1	1.0000	5.4473	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned4.sample	Sun Mar  7 21:58:24 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:24 MST 2021	[TOP SWAP DECIPH]	3.9174	-248.24326988049	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:28 MST 2021	[TOP SWAP DECIPH]	3.1255	-237.501635393526	*
+RESULT:	UNK	UNK	-237.5016	1	1	1.0000	7.0475	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned40.sample	Sun Mar  7 21:58:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:31 MST 2021	[TOP SWAP DECIPH]	2.5124	-242.602889230228	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:34 MST 2021	[TOP SWAP DECIPH]	2.8616	-221.796797985722	*
+RESULT:	UNK	UNK	-221.7968	1	1	1.0000	5.3778	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned41.sample	Sun Mar  7 21:58:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:37 MST 2021	[TOP SWAP DECIPH]	3.0634	-246.243667210653	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:40 MST 2021	[TOP SWAP DECIPH]	3.1818	-224.745005629779	*
+RESULT:	UNK	UNK	-224.7450	1	1	1.0000	6.2487	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned42.sample	Sun Mar  7 21:58:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:43 MST 2021	[TOP SWAP DECIPH]	3.4967	-243.091381470151	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:46 MST 2021	[TOP SWAP DECIPH]	3.2677	-225.599103829816	*
+RESULT:	UNK	UNK	-225.5991	1	1	1.0000	6.7688	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned43.sample	Sun Mar  7 21:58:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:50 MST 2021	[TOP SWAP DECIPH]	1.9365	-238.175906310384	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:52 MST 2021	[TOP SWAP DECIPH]	2.0526	-218.134489767125	*
+RESULT:	UNK	UNK	-218.1345	1	1	1.0000	3.9925	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned44.sample	Sun Mar  7 21:58:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:54 MST 2021	[TOP SWAP DECIPH]	2.1847	-254.033518865584	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:58:56 MST 2021	[TOP SWAP DECIPH]	2.4289	-224.947893152232	*
+RESULT:	UNK	UNK	-224.9479	1	1	1.0000	4.6172	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned45.sample	Sun Mar  7 21:58:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:58:58 MST 2021	[TOP SWAP DECIPH]	2.7630	-241.960642934434	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:01 MST 2021	[TOP SWAP DECIPH]	3.4536	-202.661796081698	*
+RESULT:	UNK	UNK	-202.6618	1	1	1.0000	6.2201	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned46.sample	Sun Mar  7 21:59:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:05 MST 2021	[TOP SWAP DECIPH]	2.0149	-239.205015197837	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:07 MST 2021	[TOP SWAP DECIPH]	2.1047	-225.126785287216	*
+RESULT:	UNK	UNK	-225.1268	1	1	1.0000	4.1235	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned47.sample	Sun Mar  7 21:59:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:09 MST 2021	[TOP SWAP DECIPH]	2.2521	-243.755158565802	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:11 MST 2021	[TOP SWAP DECIPH]	2.0064	-215.405482783078	*
+RESULT:	UNK	UNK	-215.4055	1	1	1.0000	4.2621	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned48.sample	Sun Mar  7 21:59:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:13 MST 2021	[TOP SWAP DECIPH]	3.0578	-245.501417686222	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:16 MST 2021	[TOP SWAP DECIPH]	3.7612	-214.473162403598	*
+RESULT:	UNK	UNK	-214.4732	1	1	1.0000	6.8228	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned49.sample	Sun Mar  7 21:59:20 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:20 MST 2021	[TOP SWAP DECIPH]	2.8469	-257.570808429547	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:23 MST 2021	[TOP SWAP DECIPH]	3.3116	-231.528432456885	*
+RESULT:	UNK	UNK	-231.5284	1	1	1.0000	6.1631	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned5.sample	Sun Mar  7 21:59:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:26 MST 2021	[TOP SWAP DECIPH]	1.9131	-242.494317534691	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:28 MST 2021	[TOP SWAP DECIPH]	2.1742	-233.590015926782	*
+RESULT:	UNK	UNK	-233.5900	1	1	1.0000	4.0908	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned50.sample	Sun Mar  7 21:59:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:30 MST 2021	[TOP SWAP DECIPH]	3.0788	-240.432427054031	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:33 MST 2021	[TOP SWAP DECIPH]	3.3889	-215.141622677355	*
+RESULT:	UNK	UNK	-215.1416	1	1	1.0000	6.4716	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned51.sample	Sun Mar  7 21:59:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:37 MST 2021	[TOP SWAP DECIPH]	1.9626	-254.784588775861	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:39 MST 2021	[TOP SWAP DECIPH]	2.1561	-224.722485136901	*
+RESULT:	UNK	UNK	-224.7225	1	1	1.0000	4.1225	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned52.sample	Sun Mar  7 21:59:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:41 MST 2021	[TOP SWAP DECIPH]	1.3659	-254.312461877286	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:42 MST 2021	[TOP SWAP DECIPH]	1.5291	-211.738291747976	*
+RESULT:	UNK	UNK	-211.7383	1	1	1.0000	2.8989	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned53.sample	Sun Mar  7 21:59:44 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:44 MST 2021	[TOP SWAP DECIPH]	2.0887	-243.35225724796	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:46 MST 2021	[TOP SWAP DECIPH]	2.2094	-227.375796130116	*
+RESULT:	UNK	UNK	-227.3758	1	1	1.0000	4.3016	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned54.sample	Sun Mar  7 21:59:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:48 MST 2021	[TOP SWAP DECIPH]	2.5556	-245.230885750181	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:50 MST 2021	[TOP SWAP DECIPH]	2.6837	-229.590258614661	*
+RESULT:	UNK	UNK	-229.5903	1	1	1.0000	5.2428	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned55.sample	Sun Mar  7 21:59:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:53 MST 2021	[TOP SWAP DECIPH]	1.9349	-240.659766523828	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 21:59:55 MST 2021	[TOP SWAP DECIPH]	2.3627	-225.206748473289	*
+RESULT:	UNK	UNK	-225.2067	1	1	1.0000	4.3012	6
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned56.sample	Sun Mar  7 21:59:57 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 21:59:57 MST 2021	[TOP SWAP DECIPH]	2.2169	-241.916947255853	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:00 MST 2021	[TOP SWAP DECIPH]	2.1103	-214.496766171378	*
+RESULT:	UNK	UNK	-214.4968	1	1	1.0000	4.3309	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned57.sample	Sun Mar  7 22:00:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:02 MST 2021	[TOP SWAP DECIPH]	2.8743	-245.949144421587	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:05 MST 2021	[TOP SWAP DECIPH]	3.5337	-225.939418004265	*
+RESULT:	UNK	UNK	-225.9394	1	1	1.0000	6.4115	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned58.sample	Sun Mar  7 22:00:08 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:08 MST 2021	[TOP SWAP DECIPH]	2.3714	-252.242072550856	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:11 MST 2021	[TOP SWAP DECIPH]	2.9984	-228.102871829488	*
+RESULT:	UNK	UNK	-228.1029	1	1	1.0000	5.3735	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned59.sample	Sun Mar  7 22:00:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:14 MST 2021	[TOP SWAP DECIPH]	1.8970	-243.764845717978	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:16 MST 2021	[TOP SWAP DECIPH]	2.0503	-221.098115593253	*
+RESULT:	UNK	UNK	-221.0981	1	1	1.0000	3.9511	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned6.sample	Sun Mar  7 22:00:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:18 MST 2021	[TOP SWAP DECIPH]	3.7379	-251.656440364549	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:21 MST 2021	[TOP SWAP DECIPH]	3.8093	-223.778941651833	*
+RESULT:	UNK	UNK	-223.7789	1	1	1.0000	7.5507	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned60.sample	Sun Mar  7 22:00:25 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:25 MST 2021	[TOP SWAP DECIPH]	1.6661	-244.620509169198	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:27 MST 2021	[TOP SWAP DECIPH]	1.5148	-234.477288686833	*
+RESULT:	UNK	UNK	-234.4773	1	1	1.0000	3.1845	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned61.sample	Sun Mar  7 22:00:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:28 MST 2021	[TOP SWAP DECIPH]	1.9802	-244.895875733492	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:30 MST 2021	[TOP SWAP DECIPH]	1.9893	-226.429446504761	*
+RESULT:	UNK	UNK	-226.4294	1	1	1.0000	3.9731	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned62.sample	Sun Mar  7 22:00:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:32 MST 2021	[TOP SWAP DECIPH]	2.0795	-245.82045196812	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:34 MST 2021	[TOP SWAP DECIPH]	2.0015	-235.355962799115	*
+RESULT:	UNK	UNK	-235.3560	1	1	1.0000	4.0844	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned63.sample	Sun Mar  7 22:00:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:36 MST 2021	[TOP SWAP DECIPH]	1.9761	-246.750744745405	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:38 MST 2021	[TOP SWAP DECIPH]	2.2392	-211.344469761014	*
+RESULT:	UNK	UNK	-211.3445	1	1	1.0000	4.2188	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned64.sample	Sun Mar  7 22:00:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:41 MST 2021	[TOP SWAP DECIPH]	2.4662	-239.77800055378	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:43 MST 2021	[TOP SWAP DECIPH]	2.8667	-227.377710426411	*
+RESULT:	UNK	UNK	-227.3777	1	1	1.0000	5.3368	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned65.sample	Sun Mar  7 22:00:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:46 MST 2021	[TOP SWAP DECIPH]	3.6720	-245.93336681816	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:50 MST 2021	[TOP SWAP DECIPH]	3.7205	-222.702021190336	*
+RESULT:	UNK	UNK	-222.7020	1	1	1.0000	7.3959	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned66.sample	Sun Mar  7 22:00:53 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:53 MST 2021	[TOP SWAP DECIPH]	2.6763	-242.345180288663	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:00:56 MST 2021	[TOP SWAP DECIPH]	2.8251	-221.754823899445	*
+RESULT:	UNK	UNK	-221.7548	1	1	1.0000	5.5050	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned67.sample	Sun Mar  7 22:00:59 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:00:59 MST 2021	[TOP SWAP DECIPH]	2.0540	-243.777220953269	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:01 MST 2021	[TOP SWAP DECIPH]	2.1451	-222.615251228656	*
+RESULT:	UNK	UNK	-222.6153	1	1	1.0000	4.2032	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned68.sample	Sun Mar  7 22:01:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:03 MST 2021	[TOP SWAP DECIPH]	1.8450	-250.661780869859	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:05 MST 2021	[TOP SWAP DECIPH]	2.2023	-237.534450673881	*
+RESULT:	UNK	UNK	-237.5345	1	1	1.0000	4.0511	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned69.sample	Sun Mar  7 22:01:07 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:07 MST 2021	[TOP SWAP DECIPH]	2.9240	-259.247640195028	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:10 MST 2021	[TOP SWAP DECIPH]	3.0889	-240.583195124785	*
+RESULT:	UNK	UNK	-240.5832	1	1	1.0000	6.0165	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned7.sample	Sun Mar  7 22:01:13 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:13 MST 2021	[TOP SWAP DECIPH]	1.7533	-251.015913997324	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:15 MST 2021	[TOP SWAP DECIPH]	1.6745	-231.385287220059	*
+RESULT:	UNK	UNK	-231.3853	1	1	1.0000	3.4313	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned70.sample	Sun Mar  7 22:01:17 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:17 MST 2021	[TOP SWAP DECIPH]	2.4247	-247.18534949926	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:19 MST 2021	[TOP SWAP DECIPH]	2.6631	-215.65943910131	*
+RESULT:	UNK	UNK	-215.6594	1	1	1.0000	5.0921	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned71.sample	Sun Mar  7 22:01:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:22 MST 2021	[TOP SWAP DECIPH]	3.0638	-257.513775089485	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:25 MST 2021	[TOP SWAP DECIPH]	3.4198	-229.599321330007	*
+RESULT:	UNK	UNK	-229.5993	1	1	1.0000	6.4871	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned72.sample	Sun Mar  7 22:01:28 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:28 MST 2021	[TOP SWAP DECIPH]	1.9268	-245.984577503806	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:30 MST 2021	[TOP SWAP DECIPH]	2.3131	-210.767257249804	*
+RESULT:	UNK	UNK	-210.7673	1	1	1.0000	4.2434	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned73.sample	Sun Mar  7 22:01:32 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:32 MST 2021	[TOP SWAP DECIPH]	2.6229	-242.468302774976	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:35 MST 2021	[TOP SWAP DECIPH]	2.6877	-203.983340970584	*
+RESULT:	UNK	UNK	-203.9833	1	1	1.0000	5.3143	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned74.sample	Sun Mar  7 22:01:38 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:38 MST 2021	[TOP SWAP DECIPH]	1.8096	-240.306188046034	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:40 MST 2021	[TOP SWAP DECIPH]	2.1628	-216.324040014577	*
+RESULT:	UNK	UNK	-216.3240	1	1	1.0000	3.9762	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned75.sample	Sun Mar  7 22:01:42 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:42 MST 2021	[TOP SWAP DECIPH]	1.7740	-241.535068497409	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:44 MST 2021	[TOP SWAP DECIPH]	1.7614	-209.283709681266	*
+RESULT:	UNK	UNK	-209.2837	1	1	1.0000	3.5392	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned76.sample	Sun Mar  7 22:01:45 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:45 MST 2021	[TOP SWAP DECIPH]	1.9845	-243.325896094352	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:47 MST 2021	[TOP SWAP DECIPH]	2.3792	-224.85487302505	*
+RESULT:	UNK	UNK	-224.8549	1	1	1.0000	4.3681	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned77.sample	Sun Mar  7 22:01:50 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:50 MST 2021	[TOP SWAP DECIPH]	1.2924	-240.05803872447	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:51 MST 2021	[TOP SWAP DECIPH]	1.3757	-209.624109683192	*
+RESULT:	UNK	UNK	-209.6241	1	1	1.0000	2.6715	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned78.sample	Sun Mar  7 22:01:52 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:52 MST 2021	[TOP SWAP DECIPH]	2.7154	-251.037335769699	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:01:55 MST 2021	[TOP SWAP DECIPH]	3.4072	-231.183762239769	*
+RESULT:	UNK	UNK	-231.1838	1	1	1.0000	6.1262	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned79.sample	Sun Mar  7 22:01:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:01:58 MST 2021	[TOP SWAP DECIPH]	1.5851	-236.561519750358	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:00 MST 2021	[TOP SWAP DECIPH]	1.6161	-223.451605002745	*
+RESULT:	UNK	UNK	-223.4516	1	1	1.0000	3.2055	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned8.sample	Sun Mar  7 22:02:02 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:02 MST 2021	[TOP SWAP DECIPH]	1.5197	-229.377465417489	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:03 MST 2021	[TOP SWAP DECIPH]	1.6198	-221.719852940045	*
+RESULT:	UNK	UNK	-221.7199	1	1	1.0000	3.1431	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned80.sample	Sun Mar  7 22:02:05 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:05 MST 2021	[TOP SWAP DECIPH]	3.6650	-252.478553774129	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:09 MST 2021	[TOP SWAP DECIPH]	3.6525	-222.028183341924	*
+RESULT:	UNK	UNK	-222.0282	1	1	1.0000	7.3211	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned81.sample	Sun Mar  7 22:02:12 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:12 MST 2021	[TOP SWAP DECIPH]	2.7576	-253.015088899189	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:15 MST 2021	[TOP SWAP DECIPH]	3.0911	-228.520118220326	*
+RESULT:	UNK	UNK	-228.5201	1	1	1.0000	5.8528	2
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned82.sample	Sun Mar  7 22:02:18 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:18 MST 2021	[TOP SWAP DECIPH]	1.8596	-251.860551228014	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:20 MST 2021	[TOP SWAP DECIPH]	2.1224	-210.467349752871	*
+RESULT:	UNK	UNK	-210.4673	1	1	1.0000	3.9862	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned83.sample	Sun Mar  7 22:02:22 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:22 MST 2021	[TOP SWAP DECIPH]	1.9284	-242.387295050549	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:24 MST 2021	[TOP SWAP DECIPH]	2.0362	-212.257253361358	*
+RESULT:	UNK	UNK	-212.2573	1	1	1.0000	3.9683	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned84.sample	Sun Mar  7 22:02:26 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:26 MST 2021	[TOP SWAP DECIPH]	1.9132	-251.588041184903	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:28 MST 2021	[TOP SWAP DECIPH]	2.1699	-226.398023145846	*
+RESULT:	UNK	UNK	-226.3980	1	1	1.0000	4.0866	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned85.sample	Sun Mar  7 22:02:30 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:30 MST 2021	[TOP SWAP DECIPH]	2.9754	-254.180777222383	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:33 MST 2021	[TOP SWAP DECIPH]	3.5848	-221.907103280787	*
+RESULT:	UNK	UNK	-221.9071	1	1	1.0000	6.5637	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned86.sample	Sun Mar  7 22:02:37 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:37 MST 2021	[TOP SWAP DECIPH]	3.2985	-243.63640840983	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:40 MST 2021	[TOP SWAP DECIPH]	3.4425	-228.069665030487	*
+RESULT:	UNK	UNK	-228.0697	1	1	1.0000	6.7452	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned87.sample	Sun Mar  7 22:02:43 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:43 MST 2021	[TOP SWAP DECIPH]	2.1818	-245.294397614281	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:46 MST 2021	[TOP SWAP DECIPH]	2.2408	-227.309588087889	*
+RESULT:	UNK	UNK	-227.3096	1	1	1.0000	4.4261	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned88.sample	Sun Mar  7 22:02:48 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:48 MST 2021	[TOP SWAP DECIPH]	2.7638	-255.826851844997	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:51 MST 2021	[TOP SWAP DECIPH]	3.1841	-231.318986566021	*
+RESULT:	UNK	UNK	-231.3190	1	1	1.0000	5.9512	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned89.sample	Sun Mar  7 22:02:54 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:54 MST 2021	[TOP SWAP DECIPH]	2.0239	-246.610031502788	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:02:56 MST 2021	[TOP SWAP DECIPH]	2.0487	-227.680333862638	*
+RESULT:	UNK	UNK	-227.6803	1	1	1.0000	4.0766	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned9.sample	Sun Mar  7 22:02:58 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:02:58 MST 2021	[TOP SWAP DECIPH]	2.7434	-239.349165476875	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:01 MST 2021	[TOP SWAP DECIPH]	2.7560	-227.349102244035	*
+RESULT:	UNK	UNK	-227.3491	1	1	1.0000	5.5029	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned90.sample	Sun Mar  7 22:03:03 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:03 MST 2021	[TOP SWAP DECIPH]	2.6177	-248.108173413007	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:06 MST 2021	[TOP SWAP DECIPH]	2.5999	-226.298225558696	*
+RESULT:	UNK	UNK	-226.2982	1	1	1.0000	5.2210	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned91.sample	Sun Mar  7 22:03:09 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:09 MST 2021	[TOP SWAP DECIPH]	2.7406	-231.617079755625	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:11 MST 2021	[TOP SWAP DECIPH]	2.8502	-212.251803091724	*
+RESULT:	UNK	UNK	-212.2518	1	1	1.0000	5.5944	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned92.sample	Sun Mar  7 22:03:14 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:14 MST 2021	[TOP SWAP DECIPH]	2.5064	-253.141799062936	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:17 MST 2021	[TOP SWAP DECIPH]	2.6654	-234.376030532685	*
+RESULT:	UNK	UNK	-234.3760	1	1	1.0000	5.1752	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned93.sample	Sun Mar  7 22:03:19 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:19 MST 2021	[TOP SWAP DECIPH]	3.6314	-243.80534862838	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:23 MST 2021	[TOP SWAP DECIPH]	3.8630	-237.496346316301	*
+RESULT:	UNK	UNK	-237.4963	1	1	1.0000	7.4978	15
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned94.sample	Sun Mar  7 22:03:27 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:27 MST 2021	[TOP SWAP DECIPH]	1.9162	-239.689456751406	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:29 MST 2021	[TOP SWAP DECIPH]	2.3854	-225.604265372146	*
+RESULT:	UNK	UNK	-225.6043	1	1	1.0000	4.3052	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned95.sample	Sun Mar  7 22:03:31 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:31 MST 2021	[TOP SWAP DECIPH]	2.2316	-250.165517549021	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:33 MST 2021	[TOP SWAP DECIPH]	2.7890	-217.488631264464	*
+RESULT:	UNK	UNK	-217.4886	1	1	1.0000	5.0239	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned96.sample	Sun Mar  7 22:03:36 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:36 MST 2021	[TOP SWAP DECIPH]	2.3228	-235.472863686432	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:39 MST 2021	[TOP SWAP DECIPH]	2.8011	-211.639717636118	*
+RESULT:	UNK	UNK	-211.6397	1	1	1.0000	5.1274	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned97.sample	Sun Mar  7 22:03:41 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:41 MST 2021	[TOP SWAP DECIPH]	2.1008	-238.225880361043	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:44 MST 2021	[TOP SWAP DECIPH]	2.1401	-216.495071494746	*
+RESULT:	UNK	UNK	-216.4951	1	1	1.0000	4.2453	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned98.sample	Sun Mar  7 22:03:46 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:46 MST 2021	[TOP SWAP DECIPH]	1.7858	-242.82151148711	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:47 MST 2021	[TOP SWAP DECIPH]	1.7343	-221.737916757799	*
+RESULT:	UNK	UNK	-221.7379	1	1	1.0000	3.5235	0
+>START CTEXT: ../ClassifyingTextAndMusic/TestSamples/TestingEng/LettersJaneAustenCleaned99.sample	Sun Mar  7 22:03:49 MST 2021
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/ba.tra' at Sun Mar  7 22:03:49 MST 2021	[TOP SWAP DECIPH]	2.1026	-245.301750323289	*
+>START PTEXT: '../ClassifyingTextAndMusic/TrainingData/eng-bach/eng.tra' at Sun Mar  7 22:03:51 MST 2021	[TOP SWAP DECIPH]	2.1532	-221.357661528559	*
+RESULT:	UNK	UNK	-221.3577	1	1	1.0000	4.2595	0
+
+CIPHERS: 300	CORRECT: 300	ACCURACY: 1.0000	MEAN RECIPROCAL RANK: 1.0000	MEAN CPU TIME: 5.1657
