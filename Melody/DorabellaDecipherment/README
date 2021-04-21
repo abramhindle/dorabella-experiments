@@ -1,0 +1,8 @@
+This folder conatiains a folder with the dorabella deciphered into a melody 
+(Decipherment program was ran twice on dorabella producing 2 possible decipherments)
+and another folder of 4 english texts deciphered into melodies for comparison
+
+you can take a look at melody2note.py which contains the mapping of letters to note
+
+You also run the script like this:
+python3 melody2note.py DorabellaToMelody/dora.txt
